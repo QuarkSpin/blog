@@ -1,7 +1,6 @@
 title: QuarkSpin
 email: quarkspin@tutanota.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Réflexion et curiosité
+description: Réflexion et curiosité
 baseurl: "/blog"
 url: "https://quarkspin.github.io"
 logo: "/images/icon_blue.svg"
