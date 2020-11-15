@@ -1,9 +1,9 @@
-title: QuarkSpin Blog
+title: QuarkSpin
 email: quarkspin@tutanota.com
 description: >- # this means to ignore newlines until "baseurl:"
   Réflexion et curiosité
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://quarkspin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog"
+url: "https://quarkspin.github.io"
 logo: "/images/icon_blue.svg"
 twitter_username: QuarkSpin1
 github_username:  QuarkSpin
