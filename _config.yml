@@ -32,7 +32,7 @@ liquid:
   error_mode: strict
 
 # Theme
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 
 # Plugins
