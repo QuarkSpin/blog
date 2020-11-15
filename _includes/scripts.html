@@ -30,27 +30,10 @@
 <!-- MathJax -->
 {% capture mathjaxjs %}https://cdn.jsdelivr.net/npm/mathjax@3/es5/{{ site.mathjax.combo | default: "tex-svg" }}.js{% endcapture %}
 <script>
-// http://docs.mathjax.org/en/latest/upgrading/v2.html
 MathJax = {
   tex: {
       tags: "{{ site.mathjax.tags | default: 'ams' }}"    // eq numbering options: none, ams, all
-  },
-  // options: {
-  //   renderActions: {
-  //     // for mathjax 3, handle <script "math/tex"> blocks inserted by kramdown
-  //     find: [10, function (doc) {
-  //       for (const node of document.querySelectorAll('script[type^="math/tex"]')) {
-  //         const display = !!node.type.match(/; *mode=display/);
-  //         const math = new doc.options.MathItem(node.textContent, doc.inputJax[0], display);
-  //         const text = document.createTextNode('');
-  //         node.parentNode.replaceChild(text, node);
-  //         math.start = {node: text, delim: '', n: 0};
-  //         math.end = {node: text, delim: '', n: 0};
-  //         doc.math.push(math);
-  //       }
-  //     }, '']
-  //   }
-  // }
+  }
 }
 </script>
 
@@ -60,3 +43,13 @@ MathJax = {
 {%- if page.layout == "search" -%}
   {% include lunr-search-scripts.html %}
 {%- endif -%}
+
+<!-- Back to top button -->
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>
+    addBackToTop({
+        diameter: 45,
+        backgroundColor: '#34374C',
+        textColor: '#fff'
+    })
+</script>

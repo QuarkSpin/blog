@@ -25,7 +25,6 @@
   margin-bottom: 0;
   font-family: $title-font-family;
   font-weight: $entry-title-weight;
-  // font-style: italic;
   font-variant: small-caps;
   letter-spacing: -1px;
   word-wrap: break-word; /* break long words that could overflow */
@@ -49,14 +48,13 @@
   -ms-flex-order: -1;
   order: -1;
   width: 100%;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
 }
 
 .entry-meta {
   .entry-date,
   .read-time {
     font-family: $meta-font-family;
-    // font-style: italic;
     white-space: nowrap;
   }
 
