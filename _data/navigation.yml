@@ -2,7 +2,11 @@
   url: /
 - title: Catégories
   url: /categories/
+- title: Sujets
+  url: /sujets/
 - title: Archives
   url: /archives/
 - title: Rechercher
   url: /rechercher/
+- title: À propos
+  url: /a-propos/

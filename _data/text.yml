@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   min_read: "min read"
   read_more: "Read more&hellip;"
   categories: "Categories"
-  tags: "Tags"
+  tags: "Subjects"
   pages_categorized: "Pages filed under"
   pages_tagged: "Pages tagged"
   table_of_contents: "Table of Contents"
@@ -27,6 +27,7 @@ en: &DEFAULT_EN
   back_to_top: "Back to Top"
   search_placeholder_text: "Enter your search term..."
   powered_by: "Powered by"
+  difficulty: "Difficulty"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -48,7 +49,7 @@ fr: &DEFAULT_FR
   min_read: "min de lecture"
   read_more: "En savoir plus&hellip;"
   categories: "Catégories"
-  tags: "Tags"
+  tags: "Sujets"
   pages_categorized: "Pages catégorisées dans"
   pages_tagged: "Pages étiquettées"
   table_of_contents: "Table des matières"
@@ -62,6 +63,7 @@ fr: &DEFAULT_FR
   back_to_top: "Retour en haut"
   search_placeholder_text: "Entrer le terme à rechercher..."
   powered_by: "Propulsé par"
+  difficulty: "Difficulté"
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:
