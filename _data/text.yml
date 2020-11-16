@@ -27,7 +27,6 @@ en: &DEFAULT_EN
   back_to_top: "Back to Top"
   search_placeholder_text: "Enter your search term..."
   powered_by: "Powered by"
-  difficulty: "Difficulty"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -63,7 +62,6 @@ fr: &DEFAULT_FR
   back_to_top: "Retour en haut"
   search_placeholder_text: "Entrer le terme à rechercher..."
   powered_by: "Propulsé par"
-  difficulty: "Difficulté"
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:
