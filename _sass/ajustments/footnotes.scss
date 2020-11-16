@@ -1,0 +1,17 @@
+.footnote,
+.reversefootnote {
+    text-decoration: none;
+    font-weight: bold;
+    color: #ad1457;
+
+    &:hover {
+        color: #880e4f;
+    }
+}
+
+.footnotes li {
+    &::marker {
+        color: #ad1457;
+        font-weight: bold;
+    }
+}
