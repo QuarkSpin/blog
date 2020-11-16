@@ -7,6 +7,11 @@ logo: "/images/icon_blue.svg"
 twitter_username: QuarkSpin1
 github_username:  QuarkSpin
 
+# Analytics
+
+google_analytics: UA-71616950-4
+
+
 # Credits
 author:
   name: Nicolas Maurice
