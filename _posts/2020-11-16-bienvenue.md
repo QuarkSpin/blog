@@ -48,4 +48,4 @@ Etc.
 
 ## S'abonner
 
-Mon blog vous intéresse ? [Abonnez-vous par mail](https://follow.it/quarkspin?action=followPub) pour na pas rater les nouveaux articles.
+Mon blog vous intéresse ? [Abonnez-vous par mail](https://follow.it/quarkspin?action=followPub) pour ne pas rater les nouveaux articles.
