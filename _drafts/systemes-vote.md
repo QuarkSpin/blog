@@ -19,3 +19,5 @@ Ressources à consulter :
 * <https://www.youtube.com/watch?v=v7gZPEeOh1I>
 * <https://www.youtube.com/watch?v=vfTJ4vmIsO4>
 * <https://cortecs.org/chiffres-graphiques/le-jugement-majoritaire-et-ses-alternatives/>
+
+* <https://www.youtube.com/watch?v=pkpfFuiZkcs> --> que seraient les USA si le sénat était représentatif de la population et que le président était élu au vote populaire (faire les calculs pour différentes éléections depuis les années 2000)
