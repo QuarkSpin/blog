@@ -1,0 +1,7 @@
+{%- unless page.layout == 'collection' -%}
+  <ul class="entry-categories">
+    {%- for category in entry.categories -%}
+      <li class="entry-category">{{ category }}</li>
+    {%- endfor -%}
+  </ul>
+{%- endunless -%}
