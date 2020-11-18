@@ -97,7 +97,7 @@ D'autres axes ont été proposés par divers politologues au fil des années, co
 
 ## Conclusion
 
-Je trouve intéressant de considérer ces représentations, qui ont le mérite de nous rappeler que le spectre politique est plus complexe qu'il semble à première vue. Et, pourquoi ne pas, aux prochaines élections, lister les axes qui nous importent le plus et nous placer sur ceux-ci pour ensuite nous comparer avec les différents candidats ? Dépasser le simple clivage gauche-droite peut nous permettre de mieux choisir pour qui voter, mieux visualiser le paysage politique de notre pays et mieux connaitre nos propres opinions.
+Je trouve intéressant de considérer ces représentations, qui ont le mérite de nous rappeler que le spectre politique est plus complexe qu'il semble à première vue. Et pourquoi ne pas, aux prochaines élections, lister les axes qui nous importent le plus et nous placer sur ceux-ci pour ensuite nous comparer avec les différents candidats ? Dépasser le simple clivage gauche-droite peut nous permettre de mieux choisir pour qui voter, mieux visualiser le paysage politique de notre pays et mieux connaitre nos propres opinions.
 
 <!-- Références -->
 
