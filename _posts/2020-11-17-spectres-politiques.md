@@ -30,7 +30,7 @@ On attribue aussi les places dans la plupart des assemblées législatives en fo
 
 ![Parlement Européen 2019-2024]({{ site.baseurl }}/images/post-images/2020-11-17-spectres-politiques/parlement-europeen-2019.svg)
 
-Chaque parti se voir assigné une couleur en fonction de son positionnement sur le spectre politique gauche-droite.
+Chaque parti se voit assigné une couleur en fonction de son positionnement sur le spectre politique gauche-droite.
 
 Ces classifications peuvent varier d'un pays à l'autre, d'une culture à l'autre. Les positions sur le spectre sont donc relatives. Par exemple le programme de Joe Biden, le nouveau président élu des États-Unis, correspond aux idées de la gauche modérée dans son pays, mais serait plutôt considéré comme centre droit sur le spectre français[^wikipedia_centre_droit] [^aoc_biden]. De même, cette classification dépend également de l'époque considérée.
 
@@ -77,7 +77,7 @@ Le système à deux dimensions le plus utilisé est dérivé de celui de Hans Ey
 Il a alors analysé les discours et tracts politiques britanniques et a identifié deux axes sur lesquels les idées variaient le plus :
 
 * Un axe *économique*, allant de collectiviste à individualiste
-* Un axe *social*, allant de libéral à autoritaire
+* Un axe *social*, allant de libertaire à autoritaire
 
 ![Quadrant 1]({{ site.baseurl }}/images/post-images/2020-11-17-spectres-politiques/quadrant1.svg){: .medium-height}
 
@@ -96,8 +96,6 @@ D'autres axes ont été proposés par divers politologues au fil des années, co
 * Etc.
 
 ## Conclusion
-
-Il existe également des modèles avec 3, 4 ou 5 axes en même temps. Il s'agit à chaque fois de distinguer les principales variantes.
 
 Je trouve intéressant de considérer ces représentations, qui ont le mérite de nous rappeler que le spectre politique est plus complexe qu'il semble à première vue. Et, pourquoi ne pas, aux prochaines élections, lister les axes qui nous importent le plus et nous placer sur ceux-ci pour ensuite nous comparer avec les différents candidats ? Dépasser le simple clivage gauche-droite peut nous permettre de mieux choisir pour qui voter, mieux visualiser le paysage politique de notre pays et mieux connaitre nos propres opinions.
 
