@@ -26,9 +26,9 @@ J'ai trouvé ces termes inspirants et suffisamment abstraits pour représenter m
 
 ## Les particularités du blog
 
-Mon blog n'est pas ouvert aux commentaires. Il est pour moi un espace d'expression libre où j'expose certaines de mes reflexions, connaissances et trouvailles.
+Mon blog n'est pas ouvert aux commentaires. Il est pour moi un espace d'expression libre où j'expose certaines de mes réflexions, connaissances et trouvailles.
 
-Il n'a pas non-plus de ligne éditoriale, de rythme de publication ou de format fixé.
+Il n'a pas non plus de ligne éditoriale, de rythme de publication ou de format fixé.
 
 Les catégories, sujets ainsi qu'un moteur de recherche sont accessibles via le menu et permettent de retrouver rapidement les différents articles.
 
@@ -36,15 +36,15 @@ Les catégories, sujets ainsi qu'un moteur de recherche sont accessibles via le 
 
 Voici une liste non exhaustive des articles que je souhaite écrire sur ce blog :
 
-* Comment bien lire une publication scientifique ?
-* Une présentation de différents système de vote et de leurs paricularités
+* Comment bien lire une publication scientifique
+* Une présentation de différents systèmes de vote et de leurs particularités
 * Le fonctionnement des vaccins
 * Les biais sociologiques dans les algorithmes
 * Une introduction à la philosophie morale
 * L'histoire de la Terre du Milieu
-* Les dérives technologiques
-* Les différents réglages d'un appareil photo
-* Des réflexions sur la bioéthique
+* Les dérives des nouvelles technologies
+* Comment régler un appareil photo
+* Des réflexions autour de la bioéthique
 * Des curiosités mathématiques
 * Des questions philosophiques
 
