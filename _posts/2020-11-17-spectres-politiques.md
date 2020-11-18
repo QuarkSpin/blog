@@ -60,7 +60,7 @@ Une seconde idée a été de faire une sorte de moyenne. Plus on défendait des 
 * Il devient difficile de distinguer les partis qui se trouvent au centre, car ils ont des opinions modérées sur tous les sujets, et ceux qui y sont, car ils défendent des idées extrêmes de chaque côté. Ainsi, pour caricaturer, un parti ayant à la fois des idées d'extrême gauche et d'extrême droite serait considéré comme entriste, au même titre qu'un parti qui défend un "compromis" pour chaque question.
 * Un parti défendant une position de gauche sur une idée A et de droite sur une idée B se retrouve au même point qu'un parti défendant l'inverse, c'est-à-dire une position de droite sur l'idée A et de gauche sur l'idée B. Même point alors qu'ils s'opposent autant que deux extrêmes.
 
-A ce stade, on pourrait se demander : *mais pourquoi donc s'embêter avec avec une classification ?*
+A ce stade, on pourrait se demander : *mais pourquoi donc s'embêter avec une classification ?*
 
 C'est tout simplement plus facile de comparer les positions ainsi.[^heywood_political_ideologies] Comparer différents partis en analysant leurs positions sur chacune des idées politiques demande beaucoup de temps et ne permet pas de savoir facilement lesquels sont proches les uns des autres ou, en tant que citoyen, les plus proches de mes idées. C'est également un outil utilisé par les politologues et sociologues pour mener des études.
 
