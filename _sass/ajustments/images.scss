@@ -1,12 +1,22 @@
 .h-entry {
     .e-content {
         img {
-            margin: auto;
             display: block;
+            margin: auto;
 
             &.medium-height {
                 max-height: 400px;
             }
+
+            & + em {
+                color: #34374C;
+                display: block;
+                font-size: 0.85em;
+                margin: auto;
+                text-align: center;
+            }
         }
+
+
     }
 }

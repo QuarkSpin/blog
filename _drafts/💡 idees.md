@@ -17,6 +17,7 @@ excerpt: ... ...
 
 * Méthode scientifique
   * Comment bien lire une publication scientifique
+  * Distinguer une bonne et une mauvaise étude (biais partisan, rigueur, méthode, etc.), hiérarchie des études scientifiques, protocoles
   * ...
 
 * Biologie
