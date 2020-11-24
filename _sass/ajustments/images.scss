@@ -8,6 +8,10 @@
                 max-height: 400px;
             }
 
+            &.half-width {
+                max-width: 50%;
+            }
+
             & + em {
                 color: #34374C;
                 display: block;
