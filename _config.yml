@@ -1,16 +1,17 @@
 title: QuarkSpin
 email: quarkspin@tutanota.com
 description: Réflexion et curiosité
-baseurl: "/blog"
-url: "https://quarkspin.github.io"
 logo: "/images/icon_blue.svg"
 twitter_username: QuarkSpin42
 github_username:  QuarkSpin
 
+# URL
+baseurl: "/blog"
+url: "https://quarkspin.github.io"
+permalink: /:year-:month-:day/:title/
+
 # Analytics
-
 google_analytics: G-2S0N51NS35
-
 
 # Credits
 author:
