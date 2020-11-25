@@ -51,7 +51,7 @@ Mais cette zone est totalement inhabitée. Aucun jury ne pourrait être formé. 
 
 ## Le crime parfait
 
-Ce vide juridique a été identifié en 2005 par Brian C. Kalt, professeur de droit à l'Université du Michigan, dans un essai intitulé [The Perfect Crime]({{ site.baseurl }}/assets/files/other-publications/The Perfect Crime.pdf). Malgré sa publication et l'intervention du sénateur du Wyoming, Mike Enzi, le Congrès n'a toujours pas voté de loi confiant la juridiction de ce territoire à une cour de justice de l'Idaho[^news].
+Ce vide juridique a été identifié en 2005 par Brian C. Kalt, professeur de droit à l'Université du Michigan, dans un essai intitulé [The Perfect Crime]({{ site.baseurl }}/assets/files/other-publications/the-perfect-crime.pdf){:target="_blank"}. Malgré sa publication et l'intervention du sénateur du Wyoming, Mike Enzi, le Congrès n'a toujours pas voté de loi confiant la juridiction de ce territoire à une cour de justice de l'Idaho[^news].
 
 Ce vide juridique existe toujours[^news2] sur cet endroit qu'on surnomme maintenant la *zone de la mort*.
 
