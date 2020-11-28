@@ -86,29 +86,26 @@ On distingue trois catégories d'éthique :
 
 Cet article s'intéresse donc en particulier à l'éthique normative, à ses différentes théories et aux critères qu'on peut en tirer.
 
-### Mon objectif
-
-J'ai pour objectif d'avoir une bonne compréhension des différentes théories majeurs de l'éthique normative, d'arriver à saisir les difficultés soulevées par certains points et m'orienter vers certains critères pour ensuite pouvoir les appliquer à des cas concrets.
-
-Je veux aussi être capable de mener des réflexions sur des sujets d'éthique appliquée sans me contenter de ressentir "ce qui me semble bon" : je veux être capable d'articuler mes positions de manière formelle et cohérente, de considérer tous les aspects de la question de manière impartiale.
-
-Dernier point très important, dans cet article comme dans ceux à venir, je veux suspendre mon jugement, je ne veux pas présumer de la conclusion (quelque soient l'imortance ou la charge émotionnelle du sujet), je veux être cohérent. Si j'ai accepté un argument (valide) de type X allant dans mon sens, alors j'ai le devoir d'accepter un argument (valide) de type X allant contre moi. Si j'ai rejeté un argument (valide) de type Y allant contre moi, alors j'ai le devoir d'expliquer pourquoi le type Y n'est pas recevable (alors que l'argument est valide) maais aussi de rejeter tout argument de type Y qui irait dans mon sens. Ici, "dans mon sens" veut dire vers une colclusion qui me plairait.
-
-Autrement dit, je ne veux pas partir de la conclusion désirée et chercher des justifications, mais je veux partir des faits et les suivre avec méthode pour aboutir à une conclusion.
-
-Dans les futurs articles sur l'éthique appliquée, celà veut dire que je dois au préalable définir mes critères de manière claire, examiner les faits dans leur entièreté, puis seulement arriver à une conclusion et l'accepter qu'elle me plaise ou non. Le seul moyen de rejeter la conclusion serait alors de rejeter la méthode ou les critères initiaux, ce qui est possible mais doit être solidement et rigoureusement justifié et, une fois en core, fait pour toutes les question et non seulemetn celles qui m'arrangent.
-
-Bref, entrons dans le coeur du sujet.
-
-## Les théories de l'éthique normative
-
-### Relativisme vs Réalisme
+### Relativisme, universalisme et réalisme
 
 Le *relativisme éthique*, ou *relativisme moral*, désigne un ensemble de positions philosophiques qui soutiennent qu'il n'y a rien qui puisse être objectivement bien ou mal, que toute norme éthique dépend de la personne ou de la culture considérées.
 
-Le *réalisme éthique*, ou *réalisme moral*
+Le *réalisme éthique*, ou *réalisme moral*, désigne un ensemble de positions philosophiques qui soutiennent l'inverse, qu'on peut objectivement déterminer ce qui est bien ou mal, c'est-à-dire qu'on peut déterminer des critères
 
 TODO
+
+### Mes objectifs
+
+Mes objectifs à atteindre à la fin de la rédaction de cet article sont :
+
+* Avoir une bonne compréhension des différentes théories majeurs de l'éthique normative
+* Comprendre les limitations de ces théories dans certains cas limites
+* Déterminer de manière approximative quelle à quelle théorie je souscris le plus en général et quand je souhaite faire intervenir les autres
+* Trouver une série de principes pour bien aborder les futures questions éthiques que j'examinerai
+
+## Les théories de l'éthique normative
+
+
 
 ### Éthique de la vertu
 
