@@ -77,22 +77,14 @@ Déterminer comment choisir ce qui est éthique (ou *moral*, ces termes pouvant 
 
 ### Différents types d'éthique
 
-On distingue trois catégories d'éthique :
+On distingue quatre catégories d'éthique :
 
 * La *méta-éthique*, qui est d'ordre métaphysique, s'intéresse à la nature, à la portée et à la signification des termes liés au jugement moral.
 * L'*éthique normative*, examine les standards, forme les théories et définit les critères qui permettent de formuler un jugement moral.
 * L'*éthique appliquée*, applique les critères définis par l'éthique normative à des cas concrets.
-* L'*éthique descriptive*, se contente d'étudier les croyances éthiques de différentes catégories de personnes sans prétendre les juger.
+* L'*éthique descriptive*, se contente d'étudier les croyances éthiques de différents groupes de personnes sans prétendre les juger.
 
 Cet article s'intéresse donc en particulier à l'éthique normative, à ses différentes théories et aux critères qu'on peut en tirer.
-
-### Relativisme, universalisme et réalisme
-
-Le *relativisme éthique*, ou *relativisme moral*, désigne un ensemble de positions philosophiques qui soutiennent qu'il n'y a rien qui puisse être objectivement bien ou mal, que toute norme éthique dépend de la personne ou de la culture considérées.
-
-Le *réalisme éthique*, ou *réalisme moral*, désigne un ensemble de positions philosophiques qui soutiennent l'inverse, qu'on peut objectivement déterminer ce qui est bien ou mal, c'est-à-dire qu'on peut déterminer des critères
-
-TODO
 
 ### Mes objectifs
 
@@ -103,11 +95,46 @@ Mes objectifs à atteindre à la fin de la rédaction de cet article sont :
 * Déterminer de manière approximative quelle à quelle théorie je souscris le plus en général et quand je souhaite faire intervenir les autres
 * Trouver une série de principes pour bien aborder les futures questions éthiques que j'examinerai
 
+## Dimension personnelle
+
+Avant d'entrer dans le coeur du sujet, je voudrais aborder l'aspect des valeurs et leur impact.
+
+### Relativisme, universalisme et réalisme
+
+Il existe une discussion dans la sphère *méta-éthique* autour de l'universalité de l'éthique : est-elle propre à chaque individu et à chaque culture (c'est la position *relativiste*) ou est-elle universelle (c'est les positions *universalistes* et *réalistes*) ?
+
+La plupart des gens comme des expert s'accordent à dire que l'éthique est généralement universelle, mais qu'il reste des parts de subjectivité notamment dans la hiérarchie des valeurs propre à chaque individu.
+
+Ainsi l'éthique est *plutôt universelle* lorque le choix porte entre une valeur majoritairement considérée positive et une majoritairement considérée négative, et *plutôt relative* lorsqu'il s'agit d'un choix entre deux valeurs assez proches dans la hiérarchie de valeurs mais pas toujours classées dans le même ordre selon les individus.
+
+### Valeurs personnelles
+
+Il n'existe pas de définitions précises des "valeurs" éthiques ou morales. En général, on considère qu'il s'agit d'un concept, d'une idée, d'une action à laquelle on attribue de l'importance. Elles indiquent d'une manière prférencielle d'agir (honnêteté, indépendance, courage, etc.) ou d'état du monde (paix, liberté, sécurité, etc.).
+
+Comme mentionné précédemment, les valeurs personnelles et leur importance relative pour chaque individu, influencent leurs choix éthiques.
+
+Par exemple dans l'épisode 2 du podcast Axiome[^axiome_2], le philosophe Thibaut Giraud et le mathématicien Lê Nguyên Hoang répondent différemment à une même expérience de pensée.
+
+En résumé, la question est la suivante : si vous en aviez le pouvoir, que choisirez-vous entre :
+
+* Soit toute l'humanité se connecte à un monde virtuel, cesse d'explorer l'univers et d'acquérir de nouvelles connaissances pour toujours, mais toute souffrance (guerre, pauvreté, faim, maladie, solitude, etc.) est définitivement erradiquée et tout le monde est parfaitement heureux
+* Soit l'humanité continue de vivre dans le monde réel, mais il y aura toujours beaucoup de souffrance
+
+Le philosohpe a préréfé la deuxième option, accordant plus de valeur à la connaissance du monde réel qu'à l'erradication de la suffrauce et au bonheur. Le mathématicien a préféré l'inverse.
+
+Le podcast en question (à partir de 22:20) :
+
+{% include responsive-embed url="https://youtube.com/embed/__11zlc8Fdo?t=1340" ratio="16:9" %}
+
+Quoi que serait notre choix dans cette situation, je ne pense pas que l'on puisse dire qu'un choix est *fondamentalement* meilleur que l'autre. La connaissance, la liberté, l'égalirté, le bonheur, sont toutes des valeurs importantes. Mais leur hiérarchisation dans un cas pratique relève souvent de la considération personnelle.
+
 ## Les théories de l'éthique normative
 
-
+Dans cette partie je passe en revue les principales théories de l'éthique normative et leurs variantes. Je veux ensuite distinguer celles qui me semblent les plus pertinentes, comprendre leurs limites et choisir une ou plusieurs variantes de ces théories pour aborder les futures questions concrètes.
 
 ### Éthique de la vertu
+
+L'
 
 ### Déontologisme
 
@@ -136,3 +163,5 @@ Distinction entre ce qui est ou non éthique de manière généralisable à la s
 [^thomson_85]: Thomson, J. J. (1985). *The Trolley Problem*. The Yale Law Journal, 94(6), 1395. <https://doi.org/10.2307/796133>
 
 [^britannica_morality_ethics]: Grannan, C. (s. d.). *What’s the Difference Between Morality and Ethics?* Encyclopedia Britannica. Consulté le 20 novembre 2020, à l’adresse <https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics>
+
+[^axiome_2]: Axiome. (2017, 25 août). *Optimisme probabiliste \| Axiome 2* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=__11zlc8Fdo>
