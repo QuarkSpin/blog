@@ -132,21 +132,210 @@ Quoi que serait notre choix dans cette situation, je ne pense pas que l'on puiss
 
 Dans cette partie je passe en revue les principales théories de l'éthique normative et leurs variantes. Je veux ensuite distinguer celles qui me semblent les plus pertinentes, comprendre leurs limites et choisir une ou plusieurs variantes de ces théories pour aborder les futures questions concrètes.
 
-### Éthique de la vertu
+Il existe historiquement trois grandes théories d'éthique normative :
 
-L'
+* *L'éthique de la vertu* : elle met l'accent sur des "vertus", des traits positifs d'une personne. Cette théorie considère la personne faisant l'action plutôt que l'action elle-même.
+* *Le déontologisme* : il considère qu'une action est éthique si elle suit des règles, droits et devoirs absolus.
+* *Le conséquentialisme* : il considère une action éthique en fonction de ses conséquences prévisibles.
+
+L'éthique de la vertu est la plus ancienne théorie d'éthique normative, formulée par Aristote durant l'antiquité. Elle est aujourd'hui majoritairement obsolète et seuls quelques philosophes la défendent encore. Les critiques le plus souvent formulées à son encontre sont notamment le fait qu'elle ne juge pas de la moralité des actions et ne dit pas ce qu'on deevrait faire mais ce qu'on devrait être.
+
+De fait, les deux théories d'éthique normatives largement représentées aujourd'hui sont le déontologisme et le conséquentialisme et leurs différentes variantes. Je vais donc me concentrer sur celles-ci, d'autant que je les trouve plus pertinentes.
 
 ### Déontologisme
 
+Voici ce qu'en dit l'Encyclopédie de Philosophie de Stanford[^plato_deo] :
+
+> Le *déontologisme* soutient que les actions ne peuvent pas être justifiées par leurs effets – que, quelles que soient leurs conséquences, certaines actions sont moralement interdites. Ce qui fait une bonne action, c'est sa conformité à une norme morale. On dit que le *juste* est plus important que le *bon*. Si une action n'est pas en accord avec la règle, elle ne peut être entreprise, quel que soit le bien qu'elle pourrait produire.
+
+Et l'encyclopédie Britannica[^brita_deo] :
+
+> Dans l'*éthique déontologique,* une action est considérée comme moralement bonne en raison de certaines caractéristiques de l'action elle-même, non parce que le produit de l'action est bon.
+
+Le déontologisme a été introduit au 18<sup>è</sup> siècle par le philosophe allemand Emmanuel Kant. Il en existe aujourd'hui deux variantes principales.
+
+#### L'impératif catégorique
+
+Théorisé par Emmanuel Kant, il affirme qu'il existe des impératifs hypothétiques ("pour atteindre A, fais X") et d'autres catégoriques ("fais X") et donc absolus. Suivre l'éthique de l'impératif catégorique consiste en l'accomplissement du *devoir*, universel, définis par des impératifs moraux catégoriques.
+
+Le contenu même de ce devoir (la liste des impératifs catégoriques moraux) n'est pas précisé, ce qui est certain est sa *forme* (absolue, non dépendant des conséquences).
+
+#### Le contractualisme et le droit naturel
+
+Théorisé notamment par John Locke, il dérive de l'impératif catégorique mais affirme que les imparatifs sont définis par l'*état de nature* qui est, selon Locke, "un état dans lequel les hommes se trouvent en tant qu'hommes et non pas en tant que membres d'une société".
+
+Ainsi il y aurait trois droits naturels :
+
+* La vie : chacun a le droit de vivre
+* La liberté : chacun a le droit de faire ce qu'il veut tant que cela ne contredit le premier droit de personne
+* La propriété : chacun a le droit de posséder ce qu'il crée ou obtient par le don ou l'échange, tant que cela ne contredit les premiers ou second droits de personne
+
+D'après cette théorie, agir moralement c'est respecter ces règles et n'en ériger aucune autre.
+
+#### Déontologisme moderne
+
+Aujourd'hui et à l'exception des courants libertariens (notamment aux États-Unis), ce sont des dérivés de l'impératif catégorique de Kant qui sont largement majoritaires dans le déontologisme, notamment car non restreints par l'*état de nature* de Locke.
+
+Cependant quelles règles doivent êtres des absolus inviolables doit toujours être précisé. Il existe différentes approches pour les définir (livre sacré, accord mutuel, vote majoritaire, etc.).
+
+#### Limites
+
+Le déontologisme a plusieurs limites, la principale étant bien sûr qu'une action considérée comme morale peut avoir des conséquences dramatiques. Il est souvent avancé que la moralité d'une action dépend en grande partie du contexte (c'est l'idée du conséquentialisme qu'on verra jusye après).
+
+Un exemple fameux est celui de la règle "dis la vérité".
+
+* Si cette règle n'est pas un impératif moral, alors tout le monde est libre de mentir quand il veut.
+* Si cette règle est un impératif moral, alors le mensonge sera toujours immoral quelle que soit la situation.
+
+Imagonons maintenant que, durant la Seconde Guerre Mondiale, un homme cache des juifs chez lui. Un SS toque à la porte et lui demande "y a-t-il des juifs chez-vous". Si l'homme répond non, le SS partira. S'il répond oui il tuera les juifs.
+
+Si on suit le déontologisme et que l'une des règles est "dis la vérité", alors si l'homme ne le fait pas il aura commis une action immorale. Si, pour éviter cette situation, on décide de ne pas ajouter pas cette règle aux impératifs, alors un mensonge ne pourrait jamais être immoral en soi.
+
+Le même problème apparait avec la règle "ne tue pas" :
+
+* Si cette règle n'est pas un impératif moral, alors tout le monde peut tuer à sa guise.
+* Si cette règle est un impératif moral, alors tuer un homme sur le point de comettre un attentat n'est pas moral.
+
+Si on souhaite ajouter une condition, par exemple "ne tue pas, sauf si la personne est sur le point de comettre un meurtre", alors on sort du cadre du déontologisme pour entrer dans le conséquentialisme.
+
 ### Conséquentialisme
 
+Voici ce qu'en dit l'Encyclopédie de Philosophie de Stanford[^plato_con] :
 
+> Le conséquentialisme est simplement l'idée que les propriétés normatives ne dépendent que des conséquences. La question de savoir si une action est moralement juste dépend uniquement des conséquences de celle-ci ou de quelque chose lié à cette action, comme l'intention.
 
+Le conséquentialisme, sous sa forme moderne, a été introduit au 18<sup>è</sup> siècle par Jeremy Bentham et développé au 19<sup>è</sup> siècle par John Stuart Mill. Il existe deux variantes principales.
 
+#### Égoïsme
+
+Cette variante fais techniquement partie du conséquentialisme, même si on la considère rarement. Il s'agit de considérer comme éthique ce qui maximise l'intérêt pour soi ou pour un groupe de personne exclusif auquel on s'identifie. Elle n'est pas vraiment intéressante.
+
+#### Utilitarisme
+
+L'utilitarisme est la théorie d'éthique normative la plus récente maus aussi la plus développée. Elle contient des variations subtiles mais, en résumé, elle évalue la moralité des actes en fonctions de leurs conséquences prévisibles selon le critère de maximisation du bonnheur, du bien-être, de la connaissance, etc. et de minimisation du malheur, de la souffrance, de l'ignorance, etc. Il s'agit de prendre en compre tous les impacts, pas seulement ceux qui affectent une seule personne ou un seul groupe.
+
+Comme le dit l'Encyclopédie de Philosophie de Stanford[^plato_con] :
+
+> Une action est moralement juste si, et seulement si elle maximise le bien, c'est-à-dire si, et seulement si le montant total du bien pour tous moins le montant total du mal pour tous est supérieur à ce montant net pour tout acte incompatible dont on dispose à cette occasion.
+
+En gros, c'est comme si on associait à chaque action un score de moralité égal aux conséquences positives moins les conséquences négatives. L'action moralement juste est celle, parmis celles qui nous sont possibles, qui maximise ce score (qui produit le plus de bien et le moins de mal).
+
+De même, on voit aussi que l'action morale à choisir dépend des autres actions possibles.
+
+Par exemple si on a le choix entre sauver une ou deux personnes (sans avoir plus d'informations sur qui sont ces personnes), l'action morale est d'en sauver deux. Si maintenant on a le choix d'en sauver une, deux ou trois, l'action morale n'est plus d'en sauver deux mais trois.
+
+Comme pour le déontologisme, ce qu'il reste à déterminer sont les critères pour évaluer les conséquences des actions.
+
+Dans sa forme originale, l'utilitarisme proposait d'évaluer les actions selon deux critères :
+
+* Maximisation du bonheur
+* Minimisation de la souffrance
+
+De nombreux autres critères s'ajoutent souvent, d'importance égale ou non, comme la connaissance, la prospérité, etc.
+
+Il existe différentes manières de considérer les conséquences des actes, en intégrant ou non la motivation de la personne, en distinguant conséquences désirées/prévues/réelles, en considérant ou non que diminuer la souffrance d'une personne qui souffre beaucoup vaut mieux que de diminuer autant la souffrance d'une qui souffre peu, en incluant ou excluant la personne qui commet l'action de l'évaluation des conséquences, etc.
+
+D'une manière général, l'utilitarisme classique suit les règles suivantes :
+
+* On ne considère pas les motivations de la personne
+* On considère les conséquences telles qu'elles étaient prévisibles par la personne qui a fait le choix au moment où elle l'a fait (par opposition aux conséquences réelles telles qu'elle ont eu lieu, ou prévisibles)
+
+Dans la suite je ne considèrerai que l'utilitarisme comme représentant du conséquentialisme (l'égoïsme me semblant non pertinent).
+
+#### Limites
+
+L'utilitarisme a plusieurs limites, la principale étant que s'il se limite aux critères vagues du bonheur et de la souffrance, il peut arriver à justifier des actions que la majorité des gens considèrent imorales, comme par exemple fair souffrir une minorité de la population si cela augmente le bien du plus grand nombre.
+
+Pour parer à celà, certains philosophes utilitaristes proposent d'ajouter des critères comme la minimisation des écarts de bonheur, ou de considérer les mesures (bonheur, souffrance, etc.) comme relatives (en pourcentage plutôt qu'en valeur absolue).
+
+Un autre problème est qu'il n'y a aucune règle intransgressable en tant que telle pour l'utilitarisme. Par exemple dans le problème du chirurgien (voir l'introduction), si l'utilitarisme n'inclut pas le consentement des individus dans ses critères, alors prélever les organes est le choix moral.
+
+### Résumé
+
+| | Déontologisme | Conséquentialisme / Utilitarisme |
+|---|---|---|
+| Principe | La valeur éthique d'une action peut être déterminée en elle-même selon quelle suit ou non certaines règles absolues | La valeur éthique d'une action ne peut être déterminée qu'en examinant ses conséquences prévisibles |
+| Accent | Action en elle-même | Conséquences prévisibles de l'action |
+
+### Double process
+
+La recherche en neurosciences suggère[^dual_processing] que les individus utilisent un mélange de déontologisme et d'utilitarisme lorsq'ils font des choix moraux. Si le choix est impulsif et émotionnel, il sera un peu plus basée sur le déontologisme. A l'inverse, si le choix est réfléchi, il sera un peu plus basé sur l'utilitarisme.
+
+Ces propensions varient également en fonction des préférences des individus[^deo_uti]. Aucun individu n'est purement déontologue ni purement utilitariste.
 
 ## Comparaison des principales théories d'éthique normative
 
-TODO : cas pratiques
+Afin de mieux comprendre les distinctions et les limites du déontologisme et de l'utilitarisme, je vais essayer de voir comment ces deux théories diffèrent dans l'approche de plusieurs exemples.
+
+### Problèmes de Conway et Gawronski
+
+En 2013 les psychologues américains Paul Conway et Bertram Gawronski ont mené des recherches[^deo_uti] pour étudier les inclinaisons morales déontologiques et utilitaristes chez des groupes de sujets. Ils ont, entre autres, rédigé des dilemmes moraux où les deux approches donnent des réponses opposées.
+
+Le but de ces expériences et de mettre en évidences les points de divergeance des deux approches. Voici quelques-uns de ces dilemmes. La réponse donnée par la grande majorité des déontologues sont indiqués dans la colonne D et ceelle des utilitariste dans la colonne U.
+
+NB : les scénarios restreignent volontairement les options (par exemple tuer ou de laisser vivre). Aucune autre action n'est possible. C'est le but de l'expérience : empêcher les situations "de compromis" pour mieux étudier les différences entre les deux approches.
+
+#### Voyage temporel
+
+| Énoncé | D | U |
+|---|---|---|
+| Vous remontez dans le temps en 1920 et avez l'occasion d'éliminer George Brackman. Si vous le laissez vivre, il va dans quelques années enlever une jeune fille et la restituer quelques jours plus tard contre rançon sans lui avoir fait de mal. Le tuez-vous ? | ❌ | ❌ |
+| Vous remontez dans le temps en 1920 et avez l'occasion d'éliminer Adolf Hitler. Si vous le laissez vivre, il va dans quelques années provoquer la mort de millions de personnes. Le tuez-vous ? | ❌ | ✔️ |
+
+Le déontologisme ne justifie pas de donner la mort à un innocent (au moment des faits), même pour sauver des vies.
+
+Le conséquentialisme justifie la mort d'un innocent pour en sauver un plus grand nombre, mais pas pour empêcher un kidnaping qui se termine bien.
+
+#### Train fou
+
+| Énoncé | D | U |
+|---|---|---|
+| Un train arrive à grande vitesse sur une voie où se trouvent 5 personnes. Vous pouvez le dévier sur une voie de secours où se trouve une personne. Queles que soient la voie empruntée les personnes dessus mourront. Déviez-vous le train ? | ❌ | ✔️ |
+
+Le déontologisme ne justifie pas de donner la mort à un innocent, même pour sauver des vies.
+
+Le conséquentialisme choisit la solution qui épargne le plus de vies.
+
+#### Prostitution
+
+| Énoncé | D | U |
+|---|---|---|
+| Vous avez deux enfants en bas âge. Vous êtes pauvre. Sans entrée d'argent ils n'auront pas de cadeau ce Noël. Vous avez la possibilité de vous prostituer pour gagner une grosse somme d'argent. Le faites-vous ? | ❌ | ❌ |
+| Vous avez deux enfants en bas âge. Vous êtes pauvre. Sans entrée d'argent ils mourront de faim d'ici deux jous. Vous avez la possibilité de vous prostituer pour gagner une grosse somme d'argent. Le faites-vous ? | ❌ | ✔️ |
+
+Le déontologisme ne justifie pas la transgresion d'une valeur morale.
+
+Le conséquentialisme justifie la transgresion d'une valeur morale pour sauver des vies.
+
+#### Terroriste
+
+| Énoncé | D | U |
+|---|---|---|
+| Vous interrogez un terroriste qui connait l'emplacement d'une non armée qui doit exploser dans un endroit désert d'ici 24 heures, détruisant une maison inhabitée. Il refuse de parler. Si vous utilisez la torture il vous révèlera l'emplacement, sinon il ne parlera pas. Utilisez-vous la torture ? | ❌ | ❌ |
+| Vous interrogez un terroriste qui connait l'emplacement d'une bombe armée qui doit exploser en ville d'ici 24 heures tuant des dizaines de personnes. Il refuse de parler. Si vous utilisez la torture il vous révèlera l'emplacement, sinon il ne parlera pas. Utilisez-vous la torture ? | ❌ | ✔️ |
+
+Le déontologisme ne justifie pas la transgresion d'une valeur morale.
+
+Le conséquentialisme justifie la transgresion d'une valeur morale pour sauver des vies.
+
+### Jusqu'où serez-vous utilitariste ?
+
+Le philosophe Thibaut Giraud (alias *Monsieur Phi* sur YouTube), explique que la plupart des gens sont utilitaristes en première approche dans la plupart des situations courantes, mais que très peu de gens sont "utilitaristes jusqu'au bout". En effet lorsque la situation est simple, qu'il n'y a pas vraiment de dilemme (par exemple dévier un train sur une voie où il n'y a personne), la plupart des gens considèrent les conséquences de l'action pour prendre une décision. Mais il arrive un moment où la plupart cesse d'être utilitariste, considérant alors certains principes comme plus importants que les conséquences des actions.
+
+M. Giraud a conçu une série de scénarios successifs, chacun variant très légèrement du précédent. La plupart des gens font un choix totalement utilitariste au premier et totalement déontologiste au dernier. Mais tout le monde ne passe pas d'une approche à l'autre au même moment.
+
+Essayez de répondre honnêtement à chacun des scénarios suivants et voyez au quel vous devenez déontologue (normalement vous devriez répondre au premier en étant utilitariste).
+
+#### Le contexte
+
+TODO
+
+#### Scénario 1
+
+TODO
+
+### TODO exemples voiture IA
+
 
 ## TODO
 
@@ -162,6 +351,16 @@ Distinction entre ce qui est ou non éthique de manière généralisable à la s
 
 [^thomson_85]: Thomson, J. J. (1985). *The Trolley Problem*. The Yale Law Journal, 94(6), 1395. <https://doi.org/10.2307/796133>
 
-[^britannica_morality_ethics]: Grannan, C. (s. d.). *What’s the Difference Between Morality and Ethics?* Encyclopedia Britannica. Consulté le 20 novembre 2020, à l’adresse <https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics>
+[^britannica_morality_ethics]: Grannan, C. (s. d.). *What's the Difference Between Morality and Ethics?* Encyclopedia Britannica. Consulté le 20 novembre 2020, à l'adresse <https://www.britannica.com/story/whats-the-difference-between-morality-and-ethics>
 
 [^axiome_2]: Axiome. (2017, 25 août). *Optimisme probabiliste \| Axiome 2* [Vidéo]. YouTube. <https://www.youtube.com/watch?v=__11zlc8Fdo>
+
+[^plato_deo]: Alexander, L., & Moore, M. (2020a). Deontological ethics. In E. N. Zalta (Éd.), *The Stanford Encyclopedia of Philosophy* (Winter 2020). Metaphysics Research Lab, Stanford University. <https://plato.stanford.edu/archives/win2020/entries/ethics-deontological/>
+
+[^brita_deo]: The Editors of Encyclopaedia Britannica. (2020). Deontological ethics. In *Encyclopædia Britannica*. <https://www.britannica.com/topic/deontological-ethics>
+
+[^plato_con]: Sinnott-Armstrong, W. (2019). Consequentialism. In E. N. Zalta (Éd.), *The Stanford Encyclopedia of Philosophy* (Summer 2019). Metaphysics Research Lab, Stanford University. <https://plato.stanford.edu/archives/sum2019/entries/consequentialism/>
+
+[^dual_processing]: Greene, J. D. (2014). *Beyond Point-and-Shoot Morality : Why Cognitive (Neuro)Science Matters for Ethics*. Ethics, 124(4), 695‑726. <https://doi.org/10.1086/675875>
+
+[^deo_uti]: Conway, P., & Gawronski, B. (2013). *Deontological and utilitarian inclinations in moral decision making : A process dissociation approach*. Journal of Personality and Social Psychology, 104(2), 216‑235. <https://doi.org/10.1037/a0031021>

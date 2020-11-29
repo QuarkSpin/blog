@@ -2,7 +2,7 @@
 layout: post
 title: "Comment bien lire une publications scientifique"
 # date:   2020-11-20 16:08:00 +0200
-categories: Science
+categories: Sciences
 tags:
     - Méthodologie scientifique
     - Pensée critique
