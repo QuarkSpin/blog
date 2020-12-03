@@ -553,7 +553,7 @@ C'est un choix arbitraire qui s'accorde à la fois avec le déontologisme (où o
 
 Une réponse "oui" dans cette variante résulte en général d'une éthique utilitariste où les conséquences "bonheur" et "durée de vie" sont placées plus haut que "connaissance du monde réel" dans la hiérarchie des conséquences désirables.
 
-### Le monde virtuel (variante 2)
+#### Le monde virtuel (variante 2)
 
 **Question :**
 
@@ -568,7 +568,7 @@ Vous vivez votre vie quand soudain vous vous "réveillez". Vous réalisez que ce
 
 Dans cette variante la part de "oui" est légèrement plus grande, ce qui n'est pas surprenant à mon avis, ces personnes préférant simplement la vie qu'elles ont maintenant à une autre, indifféremment du fait qu'il s'agisse ou non du monde réel.
 
-### Un enfant sauvé (variante 1)
+#### Un enfant sauvé (variante 1)
 
 **Question :**
 
@@ -583,7 +583,7 @@ Un enfant se noie dans un plan d'eau. Un homme se trouve à proximité et il peu
 
 Sans surprise, tous les sondés ont répondu "oui".
 
-### Un enfant sauvé (variante 2)
+#### Un enfant sauvé (variante 2)
 
 **Question :**
 
@@ -614,7 +614,7 @@ La troisième est qu'il n'est plus le seul à alors pouvoir agir.
 
 Cette situation est intéressante. Alors que tout le monde à mon avis serait d'accord de dire que si l'homme avait donné les 100€ il aurait bien agi, peu sont enclins à dire qu'il s'agit là d'une obligation morale.
 
-### La voiture autonome (variante 1)
+#### La voiture autonome (variante 1)
 
 **Question :**
 
@@ -635,7 +635,170 @@ Pour ceux ayant choisit de ne pas dévier, les raisons peuvent être la volonté
 
 > Je ne veux pas faire le choix de tuer trois personnes, ni de faire une discrimination en fonction de l'âge.
 
+#### La voiture autonome (variante 2)
+
+**Question :**
+
+![Q09]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q09.png){: .medium-height}
+
+Une voiture autonome vide sans freins arrive à un passage piéton. Elle n'a pas la possibilité de sortir de la route, seulement de choisir ou non de se déporter sur l'autre voie. Sur sa trajectoire se trouvent trois enfants, sur l'autre trois adultes. Quel comportement devrait, selon vous, être programmé dans la voiture ?
+{: .notice}
+
+**Résultats :**
+
+![R09]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r9.svg)
+
+Ici les résultats sont similaires bien que, surprenamment, une personne en moins décide de se déporter.
+
+Il semble que le chois ait été plus difficile pour certains, semblant indiquer un écart de "valeur" plus tengible entre des enfant et des adultes qu'entre des adultes d'âge moyen et avancé.
+
+> Bien que ici la réponse soit plus compliqué car la notion de temps entre en compte. Les enfants sont considérés comme une richesse future.
+
+#### La voiture autonome (variante 3)
+
+**Question :**
+
+![Q10]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q10.png){: .medium-height}
+
+Une voiture autonome vide sans freins arrive à un passage piéton. Elle n'a pas la possibilité de sortir de la route, seulement de choisir ou non de se déporter sur l'autre voie. Sur sa trajectoire se trouvent trois adultes, sur l'autre deux adultes. Quel comportement devrait, selon vous, être programmé dans la voiture ?
+{: .notice}
+
+**Résultats :**
+
+![R10]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r10.svg)
+
+Ici la situation est assez similaire à la première variante du train fou. La majorité se déporte, suivant une éthique utilitariste, favorisant la conséquence qui sauve le plus grand nombre.
+
+Une minorité importante choisit de continuer sur la trajectoire initiale, bien que cela cause plus de morts. Il s'agit d'un choix déontologiste suivant un principe de non intervention.
+
+#### La voiture autonome (variante 4)
+
+**Question :**
+
+![Q11]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q11.png){: .medium-height}
+
+Une voiture autonome vide sans freins arrive à un passage piéton. Elle n'a pas la possibilité de sortir de la route, seulement de choisir ou non de se déporter sur l'autre voie. Sur sa trajectoire se trouvent trois adultes autorisés par un feu vert à traverser, sur l'autre trois adultes interdits par un feu rouge de traverser. Quel comportement devrait, selon vous, être programmé dans la voiture ?
+{: .notice}
+
+**Résultats :**
+
+![R11]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r11.svg)
+
+Cette variante est intéressante. Elle montre une large majorité choisissant de se déporter alors que le nombre de morts et l'espérance de vie restent inchangés.
+
+La raison semble être de privilégier la vie des personnes respectant la signalisation.
+
+> On sauve en priorité ceux qui ont fait un effort pour respecter les règles.
+
+Il s'agit d'une décision dans laquelle accorde de la valeure au respect des règles en tant que tel, considérant ensuite que ceux qui suivent ce principe sont moins dignes de mourrir.
+
+D'un point du vue strictement utilitariste, les deux options sont équivalentes.
+
+#### La voiture autonome (variante 5)
+
+**Question :**
+
+![Q12]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q12.png){: .medium-height}
+
+Une voiture autonome sans freins avec un passager arrive à un passage piéton. Elle n'a pas la possibilité de sortir de la route, seulement de choisir ou non de se déporter sur l'autre voie. Sur sa trajectoire se trouve une famille de cinq personnes, sur l'autre un obstacle mortel. Quel comportement devrait, selon vous, être programmé dans la voiture ?
+{: .notice}
+
+**Résultats :**
+
+![R12]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r12.svg)
+
+Dans cette situation la plupart des répondants suivent une éthique utilitariste et maximisent le nombre de vies sauvées.
+
+Ceux qui choisissent de continuer sur la trajectoire iunitiale le font soit par principe de non intervention, soit en considérant que le véhicule doit en priorité sauver la vie de ses occupants peu importe le nombre de victimes.
+
+#### La voiture autonome (variante 6)
+
+**Question :**
+
+![Q13]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q13.png){: .medium-height}
+
+Une voiture autonome sans freins avec cinq passagers arrive à un passage piéton. Elle n'a pas la possibilité de sortir de la route, seulement de choisir ou non de se déporter sur l'autre voie. Sur sa trajectoire se trouve un obstacle mortel, sur l'autre un personne seule. Quel comportement devrait, selon vous, être programmé dans la voiture ?
+{: .notice}
+
+**Résultats :**
+
+![R13]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r13.svg)
+
+Ce résultat est plus surprenant, en ragard des réponses précédentes. Si la majorité des répondent choisissent de se déporter, suivant une éthique utilitariste, le nombre est plus faible que dans la variante précédente où se déporter sauvait aussi 5 vies contre 1.
+
+Un commentaire expliquait qu'en cas de disfonctionnement de la voiture, ce serait ses occupants qui devraient mourrir en premier :
+
+> La voiture autonome doit assumer sa responsabilité sans faire porter les conséquences de ses dysfonctionnements à des tiers.
+
+Ce commentaire est intéressant et s'oppose directement à celui vu précédemment qui stipulait que le véhicule devait avant tout privilégier la sécurité de ses coccupants.
+
+#### Empoisonnement
+
+**Question :**
+
+![Q14]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q14.png){: .medium-height}
+
+Bob déteste sa femme Alice et la tue en mettant du poison dans son café. Dave déteste sa femme Cheryl. Celle-ci s'empoisonne avec un produit d'entretien. Dave n'appelle pas les secours tout de suite et la laisse mourir. L'action de Dave est-elle aussi grave que celle de Bob ?
+{: .notice}
+
+**Résultats :**
+
+![R14]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r14.svg)
+
+La majorité des répondant estime que les actions sont aussi graves :
+
+* Soit d'un point de vue déontologique en considérant que tuer et laisser mourrir sont équivalants (mais ne serait-ce pas alors en contradiction avec les choix déontologiques de la variante 1 du train fou où tuer était plus grave que laisser mourrir ?)
+* Soit d'un point de vue utilitariste en considérant que les deux conséquences (1 mort) sont les mêmes
+
+Une personne a répondu non, considérant d'un point de vue déontologique que l'actin de tuer est plus grâve que celle de laisser mourrir.
+
+#### Le dictateur
+
+**Question :**
+
+![Q15]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q15.jpg){: .medium-height}
+
+Vous êtes chirurgien dans un grand hôpital français. Vous devez opérer un dictateur étranger sérieusement atteint. Il vous serait très facile de provoquer la mort du dictateur durant l'opération sans qu'on se doute de rien. Est-il moralement acceptable de causer sa mort ?
+{: .notice}
+
+**Résultats :**
+
+![R15]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r15.svg)
+
+Ici il y a de nouveau deux visions qui s'opposent. L'une, utilitariste, qui considère les conséquences, privilégie la mort du dictateur.
+
+> Cet homme est un criminel et le laisser vivre serait le laisser tuer de nombreux innocents.
+
+> Oui si il est un ennemi de la France.
+
+L'autre, déontologique, privilégie le respect d'un principe moral de ne pas tuer.
+
+> C'est un meurtre, peu importe la personne.
+
+> Ce n'est pas le rôle du chirurgien.
+
 ### Les réponses aux questions générales
+
+Pour finir, j'ai posé aux participants quelques dernières questions. Voici les résultats.
+
+Considérez-vous que respecter des principes est plus important que prendre en compte les conséquences des actions ?
+{: .notice}
+
+![P3R1]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p3_r1.svg){: .medium-height}
+
+La tendance est plutôt utilitariste. Personne n'est complètement déontologiste.
+
+Pensez-vous qu'il y a des principes à respecter quelles que soient les conséquences ?
+{: .notice}
+
+![P3R2]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p3_r2.svg){: .medium-height}
+
+Est-il légitime d'interdire une pratique au seul motif de valeur morale, même s'il elle n'a aucune conséquence négative ?
+{: .notice}
+
+![P3R3]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p3_r3.svg){: .medium-height}
+
+La question de la légitimité de légiférer sur une pratique n'ayant aucune conséquence négative divise. Je me demande quelle justification
 
 ### Discussion
 
