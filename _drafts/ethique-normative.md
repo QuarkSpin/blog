@@ -301,7 +301,7 @@ Le conséquentialisme choisit la solution qui épargne le plus de vies.
 | Énoncé | D | U |
 |---|---|---|
 | Vous avez deux enfants en bas âge. Vous êtes pauvre. Sans entrée d'argent ils n'auront pas de cadeau ce Noël. Vous avez la possibilité de vous prostituer pour gagner une grosse somme d'argent. Le faites-vous ? | ❌ | ❌ |
-| Vous avez deux enfants en bas âge. Vous êtes pauvre. Sans entrée d'argent ils mourront de faim d'ici deux jous. Vous avez la possibilité de vous prostituer pour gagner une grosse somme d'argent. Le faites-vous ? | ❌ | ✔️ |
+| Vous avez deux enfants en bas âge. Vous êtes pauvre. Sans entrée d'argent ils mourront de faim d'ici deux jours. Vous avez la possibilité de vous prostituer pour gagner une grosse somme d'argent. Le faites-vous ? | ❌ | ✔️ |
 
 Le déontologisme ne justifie pas la transgresion d'une valeur morale.
 
@@ -326,24 +326,360 @@ M. Giraud a conçu une série de scénarios successifs, chacun variant très lé
 
 Essayez de répondre honnêtement à chacun des scénarios suivants et voyez au quel vous devenez déontologue (normalement vous devriez répondre au premier en étant utilitariste).
 
+Pour chaque scénario la réponse utilitariste sera indiquée en gras.
+
 #### Le contexte
 
-TODO
+Pour l'ensemble des scénarios à suivre, voici des élements de contexte invariants :
 
-#### Scénario 1
+* Vous gérez les resources d'un hôpital entièrement automatisé. Votre seul rôle est d'attribuer les ressources, vous ne soignez pas directement les patients.
+* Aucune ressource ni personne extérieure ne peut intervenir
+* Vous traitez des patients ayant des blessures létales
+* Vous ne pouvez pas transférer les patients ailleurs
+* Tous les patients arrivent inconsceints à l'hôpital et le restent jusqu'à leur guérison ou leur mort
+* Personne n'est au courant des décisions que vous prenez et vous n'avez aucun compte à rendre
 
-TODO
+#### Scénario de base
 
-### TODO exemples voiture IA
+Vous avez 6 patients en danger de mort. Le premier d'entre eux, le patient 0, a 5 blessures létales. Les patients 1, 2, 3, 4 et 5 ont chacun une blessure létale.
 
+Vous disposez de 5 machines, chacune pouvant soigner une blessure létale en étant branchée dessus pendant 24 heures.
 
-## TODO
+![Scénario 1]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/scenario01.svg)
 
-A placer quelquepart :
+Vous disposes de 3 options :
 
-### Général vs personnel / Éthique et loi
+* Ne rien faire (6 morts)
+* Brancher les 5 machines sur le patient 0 (1 sauvé, 5 morts)
+* **Brancher une machine sur chacun des patients 1 à 5 (5 sauvés, 1 mort)**
 
-Distinction entre ce qui est ou non éthique de manière généralisable à la société et ce qui relève de mes valeurs personnelles que je n'ai pas à imposer à la société (par exemple sous forme de loi). Distinction entre valeurs personnelles et générales.
+#### Variante 1
+
+Le patient 0 vient d'arriver. Comme il a 5 blessures létales, donnez l'ordre de brancher les 5 machines au patient 0.
+
+A même moment on vous informe que les patients 1 à 5 viennent d'arriver. Aucune machine n'a encore été branchée.
+
+Vous disposes de 2 options :
+
+* Ne rien faire, laisser les machines êtres branchées au patient 0 (1 sauvé, 5 morts)
+* **Donner un contre-ordre et brancher les machines aux patients 1 à 5 (5 sauvés, 1 mort)**
+
+#### Variante 2
+
+Même chose que la variante 1, sauf qu'au moment où les patients 1 à 5 arivent une machine a déjà été branchée sur la patient 0.
+
+Vous disposes de 2 options :
+
+* Ne rien faire, continuer de brancher les machines au patient 0 (1 sauvé, 5 morts)
+* **Donner un contre-ordre, débrancher la machine branchée du patient 0 et brancher les machines aux patients 1 à 5 (5 sauvés, 1 mort)**
+
+#### Variante 3
+
+Dans cette vraiante, les patients 1 à 5 arrivent à l'instant où la 5ème machine vient d'être branchée sur le patient 0. Les machines doivent rester branchées sur le patient 0 pendant 24 heures pour qu'il soit sauvé, mais les patients 1 à 5 vont mourrir en quelques minutes si on ne les traite pas.
+
+Vous disposes de 2 options :
+
+* Laisser les machines branchées au patient 0 (1 sauvé, 5 morts)
+* **Débrancher les machines du patient 0 et les brancher aux patients 1 à 5 (5 sauvés, 1 mort)**
+
+#### Variante 4
+
+Même cas que la variante 3, sauf que les patients 1 à 5 n'arrivent pas au moment où les 5 machines ont été branchées au patient 0 mais 10 minutes plus tard.
+
+Vous disposes de 2 options :
+
+* Laisser les machines branchées au patient 0 (1 sauvé, 5 morts)
+* **Débrancher les machines du patient 0 et les brancher aux patients 1 à 5 (5 sauvés, 1 mort)**
+
+#### Variante 5
+
+Même cas que les variantes 3 et 4, sauf que les patients 1 à 5 arrivent alors que le patient 0 est branché depuis 23h30 et qu'il lui reste 30 minutes de traitement pour être sauvé. Mais si les patient 1 à 5 ne sont pas branchés, ils meurent d'ici 5 minutes.
+
+Vous disposes de 2 options :
+
+* Laisser les machines branchées au patient 0 (1 sauvé, 5 morts)
+* **Débrancher les machines du patient 0 et les brancher aux patients 1 à 5 (5 sauvés, 1 mort)**
+
+#### Variante 6
+
+Dans cette variante, ce ne sont plsu des machines qu'on branche aux patients, mais des organes artificiels qu'on leur implante. On vient tout juste d'implanter les 5 organes artificiels dont dispose l'hôpital au patient 0 quand arrivent les patients 1 à 5. Le patient 0 est toujours inconscient et ignore avoir été sauvé.
+
+Vous disposes de 2 options :
+
+* Laisser les organes artificiels au patient 0 (1 sauvé, 5 morts)
+* **Retirer les organes artificiels du patient 0 et les donner aux patients 1 à 5 (5 sauvés, 1 mort)**
+
+#### Variante 7
+
+Même cas que la variante 6, sauf que le patient 0 s'est réveillé après qu'on lui ait implanté les 5 organes artificiels, puis s'est rendormi. Il est donc conscient d'avoir été sauvé. A ce moment les patients 1 à 5 arrivent. Le patient 0 est toujours au bloc opératoire, de nouveau inconscient.
+
+Vous disposes de 2 options :
+
+* Ne rien faire (1 sauvé, 5 morts)
+* **Retirer les organes artificiels du patient 0 et les donner aux patients 1 à 5 (5 sauvés, 1 mort)**
+
+#### Variante 8
+
+Le patient 0 arrive inconscient pour une opération ne nécessitant pas d'organes artificiels. D'ailleurs l'hôpital n'en a plus. A ce moment les patients 1 à 5 arrivent. Les organes patient 0 s'avèrent tous compatibles.
+
+Vous disposes de 2 options :
+
+* Soigner le patient 0 (1 sauvé, 5 morts)
+* **Prélever les organes du patient 0 et les donner aux patients 1 à 5 (5 sauvés, 1 mort)**
+
+#### Récaputulatif
+
+La totalité des gens soumis à ce test font le choix utilitariste pour le scénario de base.
+
+Environ 10% des gens soumis à ce test ne font pas le choix utilitariste à la variante 1 (ils ne donnent pas le contre-ordre), notamment ceux qui ont une éthique principalement déontologique.
+
+La quasi-totalité des gens ne font pas le choix utilitariste à la huitième variante.
+
+Pour ma part, j'ai fait le choix utilitariste jusqu'à la variante 6 (incluse).
+
+Et vous ?
+
+## Un petit sondage
+
+J'ai réalisé un petit sondage sur des questions éthiques auquel plusieurs personnes de mon entourage proche ont répondu. Elle ne sont pas représentatives de la population mais intéressantes tout de même car toutes ces personnes ont un arrière-plan et des valeurs similaires à première vue. Mais il y a des divergeances nettes sur quelques questions, preuve que même au sein d'un même "milieu social" il peut y avoir des divergeances notables, notamment dans l'approche privilégiée entre déontologisme et utilitarisme.
+
+Le questionnaire est toujours [disponible ici](https://docs.google.com/forms/d/e/1FAIpQLSdMkEuwHGbgW-4kwE7LxpQgEdHSygaYDj0wTHTPkDfLRFFh0A/viewform?usp=pp_url), bien que je ne collecte plus les réponses.
+
+Voici mon analyse des résultats.
+
+### Les sondés
+
+A la date de rédaction de cet article, j'ai reçu 14 réponses (9 hommes, 5 femmes).
+
+![P1R1]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p1_r1.svg){: .medium-height}
+
+64% des sondés indiquent que les questions d'éthique sont importantes ou très importantes pour eux, 11% peu ou pas importantes et 25% mitigé.
+
+![P1R2]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p1_r2.svg){: .medium-height}
+
+64% des sondés indiquent privilégier la réflexion (uniquement ou principalement) pour les questions éthiques. 36% ont une approche mixte réflexion/ressenti.
+
+![P1R3]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p1_r3.svg){: .medium-height}
+
+### Les réponses aux dilemmes
+
+#### Le train fou (variante 1)
+
+**Question :**
+
+![Q01]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q01.png)
+
+Un train fou fonce sur une voie où se trouvent cinq personnes. Vous vous trouvez par hasard à côté d'un levier d'aiguillage. Vous pouvez dévier le train sur une voie où se trouve une seule personne.
+{: .notice}
+
+**Résultats :**
+
+![R01]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r1.svg)
+
+Sans trop de surprise, l'approche utilitariste (dévier le train) est majoritaire dans ce scénario où il n'y a aucune différence entre les victimes potentielles si ce n'est leur nombre. On se concentre ici sur les conséquences de l'action, sur le nombre de personnes mortes et vivantes pour chaque choix.
+
+Voici un commentaire d'une personne ayant choisi la réponse utilitariste :
+
+> Grâce à moi 5 personnes ont la vie sauve.
+
+L'autre choix (ne pas dévier le train) résulte d'une approche purement déontologique dans laquelle on privilégie la non-action. En effet le jugement se porte alors sur l'acte lui-même et non ses conséquences et on préfère l'acte de laisser mourrir à celui de tuer, peu importe le nombre.
+
+Voici deux commentaires de personnes ayant choisi la réponse déontologique :
+
+> Je ne veux pas faire le choix de tuer une personne. Si le train continue et tue 5 personnes, c'est par la force des choses et non par ma volonté.
+
+> J'ai l'impression de choisir la mort pour la personne seule, tandis que pour les 5 autres elles sont déjà sur la mauvaise voie.
+
+#### Le train fou (variante 2)
+
+**Question :**
+
+![Q02]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q02.png)
+
+Un train fou fonce sur une voie où se trouvent cinq personnes. Vous vous trouvez par hasard à côté d'un levier d'aiguillage. Vous pouvez dévier le train sur une voie abandonnée, où la promenade est autorisée. Une personne s'y trouve.
+{: .notice}
+
+**Résultats :**
+
+![R02]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r2.svg)
+
+Dans cette variante, la majorité décide de ne pas dévier le train. Il ressort des commentaires que la notion de causer la mort de quelqu'un qui n'était pas censé être en danger est un frein.
+
+> La personne sur la voie abandonnée doit être protégée car elle avait le droit de marcher à cette endroit [...]
+
+> [...] aucune raison de pénaliser la personne seule, qui respecte la réglementation [...]
+
+C'est l'idée que la vie d'une personne qui respecte les mesures de sécurité a plus de valeur que la vie d'une personne qui ne les respecte pas.
+
+ Cette variation dans les résultats indique l'introduction d'un principe déontologique dans une éthique auparavant purement utilitariste.
+
+Une large minorité choisi tout de même de dévier le train, considérant que le nombre de vies sauvées est plus important.
+
+#### Le train fou (variante 3)
+
+**Question :**
+
+![Q03]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q03.jpg)
+
+Un train fou fonce sur une voie où se trouvent cinq personnes. Vous vous trouvez par hasard sur un pont au dessus de la voie, entre le train et les cinq personnes. Une personne obèse est assise sur le rebord du pont. Si vous la poussez, elle tombera sur la voie et mourra mais stoppera le train.
+{: .notice}
+
+**Résultats :**
+
+![R03]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r3.svg)
+
+Dans cette variante les résultats sont les mêmes que dans la variante 2. Les raisons de ne pas pousser le personne obèse sont similaires à celles de ne pas dévier le train, plus le fait d'interragir directement avec la personne dont on cause la mort.
+
+#### Le monde virtuel (variante 1)
+
+**Question :**
+
+![Q04]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q04.jpg)
+
+Vous avez la possibilité de vous brancher à une machine qui simulerait dans votre cerveau un monde virtuel dans lequel vous auriez une vie plus longue, plus heureuse et plus excitante que celle que vous avez maintenant. Vous ne sauriez jamais que vous êtes dans un monde virtuel. Vous branchez-vous à la machine ?
+{: .notice}
+
+**Résultats :**
+
+![R04]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r4.svg)
+
+Les résultats sont ici assez tranchés. La plupart des répondants semblent considérer la connaissance du monde réel comme plus importante que le bonheur ou la durée de vie.
+
+> Connaître la vérité est plus important.
+
+> Je préfère être dans le réel, même s'il est plus difficile.
+
+C'est un choix arbitraire qui s'accorde à la fois avec le déontologisme (où on placerait la connaissance du monde réel comme un impératif moral) et l'utilitarisme (où on cosidèrerait la connaissance du monde réel comme une conséquence préférable).
+
+Une réponse "oui" dans cette variante résulte en général d'une éthique utilitariste où les conséquences "bonheur" et "durée de vie" sont placées plus haut que "connaissance du monde réel" dans la hiérarchie des conséquences désirables.
+
+### Le monde virtuel (variante 2)
+
+**Question :**
+
+![Q05]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q05.jpg)
+
+Vous vivez votre vie quand soudain vous vous "réveillez". Vous réalisez que ce que vous preniez pour la réalité est en fait une simulation. Vous pouvez vous rebrancher à la machine, effacer le souvenir de cet évènement et continuer votre vie virtuelle ou décider de rester dans la réalité où vous aurez une vie moins longue, moins heureuse et moins excitante. Vous rebranchez-vous à la machine ?
+{: .notice}
+
+**Résultats :**
+
+![R05]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r5.svg)
+
+Dans cette variante la part de "oui" est légèrement plus grande, ce qui n'est pas surprenant à mon avis, ces personnes préférant simplement la vie qu'elles ont maintenant à une autre, indifféremment du fait qu'il s'agisse ou non du monde réel.
+
+### Un enfant sauvé (variante 1)
+
+**Question :**
+
+![Q06]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q06.jpg)
+
+Un enfant se noie dans un plan d'eau. Un homme se trouve à proximité et il peut entrer dans l'eau pour le sauver sans se mettre en danger lui même. Cependant il ruinerait ses vêtements, pour une valeur de 100 €. A-t-il l'obligation morale de sauver l'enfant ?
+{: .notice}
+
+**Résultats :**
+
+![R05]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r6.svg)
+
+Sans surprise, tous les sondés ont répondu "oui".
+
+### Un enfant sauvé (variante 2)
+
+**Question :**
+
+![Q07]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q07.png){: .medium-height}
+
+Un homme se rend au centre commercial pour acheter des vêtements pour 100€. En chemin il croise les locaux d'une ONG luttant contre la faim dans le monde. Un don de 100€ sauverait la vie d'un enfant. A-t-il l'obligation morale de faire don de cet argent ?
+{: .notice}
+
+**Résultats :**
+
+![R07]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r7.svg)
+
+Ici les résultats sont presque opposés alors que la situation est très similaire. Trois raisons principales sont avancées dans les commentaires.
+
+La première est que cette obligation morale créerait une obligation morale envers tous ceux qu'on serait en mesure d'aider.
+
+> Il ne peut pas porter toute la misère du monde.
+
+> Sinon il faudrait vendre tous ses biens pour essayer de sauver un maximum d'enfants du monde.
+
+La seconde est l'éloignement/la deconnexion de la situation qui enlève alors l'obligation.
+
+> Cet homme participerait à un sauvetage mais de manière indirecte. Il n'est pas face à l'enfant qu'il sauve.
+
+La troisième est qu'il n'est plus le seul à alors pouvoir agir.
+
+> La vie de cet enfant ne dépend pas de lui seul.
+
+Cette situation est intéressante. Alors que tout le monde à mon avis serait d'accord de dire que si l'homme avait donné les 100€ il aurait bien agi, peu sont enclins à dire qu'il s'agit là d'une obligation morale.
+
+### La voiture autonome (variante 1)
+
+**Question :**
+
+![Q08]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/q08.png){: .medium-height}
+
+Une voiture autonome vide sans freins arrive à un passage piéton. Elle n'a pas la possibilité de sortir de la route, seulement de choisir ou non de se déporter sur l'autre voie. Sur sa trajectoire se trouvent trois personnes d'âge moyen, sur l'autre trois personnes âgées. Quel comportement devrait, selon vous, être programmé dans la voiture ?
+{: .notice}
+
+**Résultats :**
+
+![R08]({{ site.baseurl }}/images/post-images/2020-11-20-ethique-normative/p2_r8.svg)
+
+Une majorité de répondant choisit de continuer sur la trajectoire initiale.
+
+Plus d'un tiers choisit cependant de se déporter. Il choisit d'un choix suivant une logique utilitariste dans laquelle on évalurait les conséquences non pas enn fonction du nombre de mort mais plutôt en nombre d'années d'espérance de vie.
+
+Pour ceux ayant choisit de ne pas dévier, les raisons peuvent être la volonté de non intervention (il s'agit alors d'un choix déontologique) ou de ne pas différencier selon l'âge (il s'agit alors d'un choix utilitariste, puisqu'on regarde toujours aux conséquences, mais encadré par un principe déontologique, puisqu'on choisit de ne considérer que le nombre de vies et non l'espérance de vie).
+
+> Je ne veux pas faire le choix de tuer trois personnes, ni de faire une discrimination en fonction de l'âge.
+
+### Les réponses aux questions générales
+
+### Discussion
+
+## Conclusion
+
+Il est clair, en ce qui me concerne, que je privilégie une approche utilitariste dans la plupart des situations courantes, c'est à dire que je vais baser mes choix sur les conséquences prévisibles. Cependant je tiens quand-même à un léger déontologisme.
+
+Par exemple dans la variante 7 de l'exemple précédent, le fait que le patient soit conscient d'être sauvé implique pour moi que tout prélèvement futur éventuel ne pent se faire sans son consentement. Je place donc ici le consentement d'un patient comme un principe déontologique.
+
+Cependant j'estime qu'il ne s'agit pas d'un vrai déontologiqme, mais d'une version "modérée", puisque je ne considère pas ce principe intransgressable absolument. Par exemple s'il se trouvait je ne sais comment que la mort de ce patient, sans son consentement, épargnerait aux trois quarts de la population mondiale une mort dans d'atroces souffrances, je crois que je transgresserai ce principe.
+
+Il y a des cas qui sont pour moi particulièrement clairs (comme la variante 1), d'autres où j'hésite plus (comme la variante 6).
+
+Ce que j'en retire, en plus d'une meilleur compréhension des approches déontologistes et utilitaristes, c'est que les questions éthiques peuvent en réalité être bien plus complexes qu'elles n'en ont l'air et qu'avec les mêmes faits on peut arriver à faire des choix très différents en fonction des théories d'éthique normative qu'on favorise et des critères qu'on utilise.
+
+Je crois avoir toujours eu un avis sur un bon nombre de questions éthiques, mais j'ai décidé de le suspendre pour un temps car, pour être honnête, j'ai formé un jugement sur bon nombre de questions sans les étudier en profondeur, en étant partisan dès le départ et en cherchant des justifications aux conclusions auxquelles je voulais aboutir (X est bien, Y est mal...) plutôt que de chercher sans préjugés à suivre les faits et à aboutir à une conclusion, qu'elle me plaise ou non.
+
+Je me suis rendu compte qu'il est facile d'avoir un avis très tranché sur des situations bien plus complexes. Ainsi je veux dorénavant, et pas uniquement dans le carde de l'éthique, éviter de me dire "je ne comprends pas comment on peut croire/faire/soutenir telle ou telle chose". Si je ne comprends pas c'est ma faute : à moi de suspendre mon jugement, d'écouter les arguments, d'examiner les faits.
+
+Je pense également devoir faire une distinction à l'avenir entre ce qui relève strictement de mes valeurs personnelles et ce que je souhaite appliqué à la société entière par des lois d'éthique.
+
+Par exemple pour le premier dilemme de mon sondage, à la question de dévier ou non le train, je considère immoral de ne pas le dévier. Cependant d'autres pensent l'inverse et je respecte leur point de vue, même si je ne suis pas d'accord. Je comprends leur raisons même si elles ne me semblent, personnelement, pas bonnes. C'est pourquoi même si je pense que dévier le train est le choix moral, je ne veux pas de loi obligeant une personne dans cette situation à dévier le train. Je suis convaincu qu'il y a des sujets d'éthiques qui doivent être régulés et d'autres non.
+
+Il a aussi un aspect de l'utilitarisme que j'aime bien et qui me fait réfléchir. Cette approche étant basé sur les conséquences globalse, elle est plus tounée vers les autres que soi-même. Ainsi, pour schématiser grossièrement ce poin, un utilitariste ne respectera pas tant la maxime "ne fais pas aux autres ce que tu ne veux pas qu'on te fasse" mais plutôt "ne fais pas aux autres ce qu'ils ne veulent pas qu'on leur fasse". En effet rien n'indique que l'autre a les mêmes préférences que moi. Quand je fais quelque chose à quelqu'un d'autre, ce qui importe n'est pas ce que j'aurais ressentit si on m'avait fait/dit ça, mais bien ce que l'autre a ressenti quand je lui ai fait/dit ça. Évidemment l'utilitarisme ne se résume pas à ça.
+
+Un autre aspect de l'utilitarisme auquel je veux accorder de l'importance, c'est la règle de l'évaluation par les conséquences. Ainsi si je veux faire un don à une ONG pour luter contre la faim dans la monde, j'aurais le devoir moral de le donner à l'ONG qui en fera l'usage le plus efficace. Ou si j'hésite entre les politiques économiques de deux candidats à la présidence, j'aurais le devoir moral de l'évaluer en fonction de ses impacts sur la population et non uniquement sur l'économie ou mes finances personnelles.
+
+Après toutes ces réflexions, je veux avoir une approche éthique :
+
+* **Principalament utilitariste**. Je veux en première approche et dans la plupart des cas, évaluer les conséquences des actions pour déterminer leur valeur éthique, et chercher à comprendre les problèmes dans leur ensemble, complexité et diversité.
+* **Complétée par des notions d'équité**. Je veux favoriser des conséquences équitables pour le plus grand nombre.
+* **Encadrée par un déontologisme modéré**. Je veux limiter certaines décisions par des principes déontologiques (comme le consentement d'un patient) sans que ces principes m'empêchent de prendre une décision utilitariste si j'estime la situation suffisamment grâve.
+* **Minimalement prescriptive**. Je ne veux pas que mes points de vue éthiques soient prescriptifs (sous forme de loi ou autre) sauf si j'estime qu'un mal substanciel peut être causé.
+* **Évolutive**. Je veux pouvoir réviser mes jugements éthiques quand des éléments nouveaux font leur apparition ou que j'ai une compréhension meilleure de la situation.
+
+## À venir
+
+Ce premier article sur l'éthique est maintenant terminé. Il n'y en aura pas d'autres pendant un petit moment, tant que je n'aurai pas maturé sur ces questions d'éthique normative.
+
+Dans la suite je compte explorer de nouveaux les questions d'éthique, sur des question pratiques principalement.
+
+Mais avant ça je vais me pencher sur d'autres sujets, comme des curiosités juridiques ou scientifiques, le fonctionnement des systèmes électoraux et comment on peut les améliorer, la création d'un jeu de société, l'apparition du genre gramatical et l'évolution de l'orthographe, le fonctionnement des algorithmes d'intelligence artificielle, etc.
+
+À bientôt !
 
 <!-- Références -->
 
