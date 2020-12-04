@@ -60,7 +60,7 @@ excerpt: ... ...
 
 * Sociologie des religions
   * ...
-
+* Harcèlement sexuel
 ...
 
 ## Religion
@@ -71,6 +71,7 @@ excerpt: ... ...
 
 * Éthiques normatives
 * Éthique appliquée
+  * Peine de mort
   * Est-ce que voter "pro-vie" sauve des vies ?
   * Le tri des patients
   * Eugénisme
