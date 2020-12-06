@@ -11,7 +11,6 @@ image:
   path: /images/post-images/2020-11-17-spectres-politiques/main.jpg
   thumbnail: /images/post-images/2020-11-17-spectres-politiques/main-thumb-flat.jpg
   caption: "Photo par [Vitor Pinto](https://unsplash.com/@vdapinto)"
-yolo: foo
 ---
 
 {% include toc %}

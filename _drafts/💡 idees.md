@@ -21,7 +21,7 @@ excerpt: ... ...
   * ...
 
 * Biologie
-  * ...
+  * Crispr Cas9
 
 * Santé
   * Comment fonctionne un vaccin
@@ -46,6 +46,8 @@ excerpt: ... ...
   * l'apparition du genre gramatical
   * l'évolution de l'orthographe
   * ...
+
+## Pensée critique
 
 ## Politique
 

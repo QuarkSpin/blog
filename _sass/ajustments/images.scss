@@ -12,6 +12,10 @@
                 max-width: 50%;
             }
 
+            &.border {
+                border: #34374c 2px solid;
+            }
+
             & + em {
                 color: #34374C;
                 display: block;

@@ -72,19 +72,19 @@ Imaginons que nous souhaitons en savoir plus sur l'efficacité des traitements �
 
 Regardons d'abord l'en-tête :
 
-![En-tête]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/article-head.png){: .medium-height}
+![En-tête]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/article-head.png){: .medium-height .border}
 
 Elle nous indique le nom de la revue scientifique dans laquelle l'article est publié, *Clinical Microbiology and Infection*, une revue sérieuse spécialisée dans la recherche sur les maladies infectieuses.
 
 Le titre nous apprend en plus qu'il s'agit d'une méta-analyse (il s'agit du niveau d'étude le plus fiable, comme nous verrons dans un article ultérieur).
 
-![En-tête méta-analyse]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/title-meta-analysis.png){: .half-width}
+![En-tête méta-analyse]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/title-meta-analysis.png){: .half-width .border}
 
 On peut également se renseigner sur les auteurs. On y trouve par exemple Thibault Fiolet, épidémiologue de l'INSERM à l'Université Paris Saclay, ou Nathan Peiffer-Smadja infectiologue à l'hôpital Bichat à Paris.
 
 Ensuite on lit l'abstract. On y si l'article a des informations intéressante sur le sujet qui nous intéresse.
 
-![Abstract]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/abstract.png)
+![Abstract]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/abstract.png){: .border}
 
 On y trouve deux résultats :
 
@@ -95,21 +95,21 @@ L'article est bien pertinent pour la question qu'on se pose (l'efficacité de ce
 
 On y apprend plus sur le contexte ayant mené à cette recherche. Tout d'abors les traitements à base d'hydroxychloroquine ont montré dans des études précédentes une efficacité contre le SARS-CoV-2 *in vitro*.
 
-![Intro]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/intro1.png)
+![Intro]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/intro1.png){: .border}
 
 On y apprend aussi que les différentes variantes du traitement n'ont eu aucun effet sur des macaques atteint de la covid-19.
 
-![Intro]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/intro2.png)
+![Intro]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/intro2.png){: .border}
 
 Maintenant que nous savons l'état des connaissances scientifiques sur le sujet avant la réalisation de cette étude, lisons la conclusion pour prendre connsissance de sa contribution :
 
-![Conclusion]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/conclusion1.png)
+![Conclusion]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/conclusion1.png){: .border}
 
 Nous y lisons : *En conclusion, cette méta-analyse montre clairement que l'hydroxychloroquine seule n'est pas efficace pour le traitement des personnes atteintes de COVID-19 et que l'association d'hydroxychloroquine et d'azithromycine augmente le risque de mortalité.*
 
 On y lit également que l'étude est suffisamment significative pour que d'autres recherches cliniques sur le sujet ne soient pas nécessaires :
 
-![Conclusion]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/conclusion2.png)
+![Conclusion]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/conclusion2.png){: .border}
 
 Le conclusion confirme bien ce que nous apprenait déjà l'abstract.
 
@@ -117,7 +117,7 @@ OK. Maintenant nous devrions lire la partie *discussion*. Elle peut être un peu
 
 Intéressons-nous maintenant à la partie *résultats*. On y apprend que l'étude a porté sur un très grand nombre de patients (plus de 37000) divisés en trois groupes :
 
-![Résultats]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/results1.png)
+![Résultats]({{ site.baseurl }}/images/post-images/2020-11-22-lire-publication-scientifique/results1.png){: .border}
 
 <!-- Références -->
 

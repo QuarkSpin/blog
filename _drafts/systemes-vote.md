@@ -8,6 +8,10 @@ tags:
     - Mathématiques
     - Démocratie
 excerpt: La France utilise un *scrutin uninominal majoritaire à deux tours* pour élire le Président de la République. Mais quels sont les différents systèmes de votes existants et théoriques ? Quels sont leurs particularités, leurs avantages et leurs inconvénients ?
+image:
+  path: /images/post-images/2020-12-05-systemes-vote/main.jpg
+  thumbnail: /images/post-images/2020-12-05-systemes-vote/main-thumb-flat.jpg
+  caption: "Photo par [Paweł Czerwiński](https://unsplash.com/@pawel_czerwinski)"
 ---
 
 
