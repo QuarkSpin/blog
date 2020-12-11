@@ -2,9 +2,9 @@
 layout: post
 title: "Sociologie de la religion évangélique"
 # date:   2020-11-20 16:08:00 +0200
-categories: Sciences
+categories: Sciences Religion
 tags:
-    - Religion
+    - Évangélisme
     - Sociologie
 excerpt: ... ...
 # image:

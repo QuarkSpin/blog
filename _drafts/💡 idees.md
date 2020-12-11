@@ -22,10 +22,12 @@ excerpt: ... ...
 
 * Biologie
   * Crispr Cas9
+  * Évolution
 
 * Santé
   * Comment fonctionne un vaccin
   * Le système immunitaire
+  * Fonctionnement d'un défibrilateur (debunk scène de film cliché, cf. vidéo de primum)
   * ...
 
 * Physique
@@ -43,9 +45,13 @@ excerpt: ... ...
   * ...
 
 * Linguistique
-  * l'apparition du genre gramatical
+  * l'apparition du genre grammatical
   * l'évolution de l'orthographe
   * ...
+
+* Mathématiques
+  * Les mathématiques de l'amour
+  * Le paradoxe de Simpson
 
 ## Pensée critique
 
@@ -67,6 +73,8 @@ excerpt: ... ...
 
 ## Religion
 
+* Socioligie de la religion chrétienne
+* Pourquoi les chrétiens (surtout évangéliques) sont particulièrement vulnérables aux théories du complot et pseudosciences ?
 ...
 
 ## Éthique

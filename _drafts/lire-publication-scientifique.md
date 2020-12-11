@@ -4,7 +4,7 @@ title: "Comment bien lire une publications scientifique"
 # date:   2020-11-20 16:08:00 +0200
 categories: Sciences
 tags:
-    - Méthodologie scientifique
+    - Méthode scientifique
     - Pensée critique
 excerpt: ... ...
 image:

@@ -4,6 +4,10 @@
             display: block;
             margin: auto;
 
+            &.inline {
+                display: inline-block;
+            }
+
             &.medium-height {
                 max-height: 400px;
             }

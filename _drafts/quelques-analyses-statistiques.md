@@ -2,8 +2,9 @@
 layout: post
 title: "Quelques analyses statistiques"
 # date:   2020-11-16 16:08:00 +0200
-categories: Sciences Sociologie
+categories: Sciences
 tags:
+    - Sociologie
     - Statistiques
     - Comportement humain
 excerpt: ... ...

@@ -2,7 +2,7 @@
 layout: post
 title: "Bienvenue sur QuarkSpin&nbsp;!"
 date:   2020-11-16 21:00:00 +0200
-categories: Divers
+categories: Blog
 tags:
     - Mon blog
 excerpt: Bienvenue sur mon nouveau blog !
