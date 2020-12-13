@@ -1,11 +1,21 @@
 .h-entry {
     .e-content {
+        .image-row {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
         img {
             display: block;
             margin: auto;
 
             &.inline {
                 display: inline-block;
+                text-align: center;
+            }
+
+            &.small-medium-height {
+                max-height: 300px;
             }
 
             &.medium-height {
@@ -28,7 +38,5 @@
                 text-align: center;
             }
         }
-
-
     }
 }

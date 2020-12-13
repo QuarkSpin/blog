@@ -10,7 +10,7 @@ excerpt: Une curiosité juridique dans la Parc de Yellowstone à cause du Sixiè
 image:
   path: /images/post-images/2020-11-25-yellowstone-constitution/main.jpg
   thumbnail: /images/post-images/2020-11-25-yellowstone-constitution/main-thumb-flat.jpg
-  caption: " Photo par [Chris Leipelt](https://unsplash.com/@cleipelt)"
+  caption: "Image de [Chris Leipelt](https://unsplash.com/@cleipelt)"
 ---
 
 {% include toc %}

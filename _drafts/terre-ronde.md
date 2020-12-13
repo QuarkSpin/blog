@@ -9,9 +9,9 @@ tags:
     - Physique
 excerpt: ... ...
 image:
-  # path: /images/post-images/2020-11-22-lire-publication-scientifique/main.jpg
-  # thumbnail: /images/post-images/2020-11-22-lire-publication-scientifique/main-thumb-flat.jpg
-  # caption: " Photo par [Siora Photography](https://unsplash.com/@siora18)"
+  path: /images/post-images/2020-12-12-terre-ronde/main.jpg
+  thumbnail: /images/post-images/2020-12-12-terre-ronde/main-thumb-flat.jpg
+  caption: "Image de [Elena Mozhvilo](https://unsplash.com/@miracleday)"
 ---
 
 La Terre est-elle plate ?

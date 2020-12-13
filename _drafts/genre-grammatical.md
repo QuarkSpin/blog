@@ -10,7 +10,7 @@ excerpt: ...
 image:
   path: /images/post-images/2020-12-06-genre-grammatical/main.jpg
   thumbnail: /images/post-images/2020-12-06-genre-grammatical/main-thumb-flat.jpg
-  caption: "Photo par [Douglas Bagg](https://unsplash.com/@nzdoug16)"
+  caption: "Image de [Douglas Bagg](https://unsplash.com/@nzdoug16)"
 ---
 
 https://fr.babbel.com/fr/magazine/pourquoi-les-mots-ont-ils-un-genre

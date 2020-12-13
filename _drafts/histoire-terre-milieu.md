@@ -10,5 +10,5 @@ excerpt: ...
 image:
   path: /images/post-images/2020-12-05-histoire-terre-milieu/main.jpg
   thumbnail: /images/post-images/2020-12-05-histoire-terre-milieu/main-thumb-flat.jpg
-  caption: "Photo par [Douglas Bagg](https://unsplash.com/@nzdoug16)"
+  caption: "Image de [Douglas Bagg](https://unsplash.com/@nzdoug16)"
 ---

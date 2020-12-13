@@ -9,5 +9,5 @@ excerpt: ...
 image:
   path: /images/post-images/2020-12-05-monowi/main.jpg
   thumbnail: /images/post-images/2020-12-05-monowi/main-thumb-flat.jpg
-  caption: "Photo par [Hedi Alija](https://unsplash.com/@hedialija)"
+  caption: "Image de [Hedi Alija](https://unsplash.com/@hedialija)"
 ---

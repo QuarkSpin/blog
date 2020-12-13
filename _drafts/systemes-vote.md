@@ -11,7 +11,7 @@ excerpt: La France utilise un *scrutin uninominal majoritaire à deux tours* pou
 image:
   path: /images/post-images/2020-12-05-systemes-vote/main.jpg
   thumbnail: /images/post-images/2020-12-05-systemes-vote/main-thumb-flat.jpg
-  caption: "Photo par [Paweł Czerwiński](https://unsplash.com/@pawel_czerwinski)"
+  caption: "Image de [Paweł Czerwiński](https://unsplash.com/@pawel_czerwinski)"
 ---
 
 

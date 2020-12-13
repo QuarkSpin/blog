@@ -10,7 +10,7 @@ excerpt: On positionne souvent les idées, partis et personnages politiques sur 
 image:
   path: /images/post-images/2020-11-17-spectres-politiques/main.jpg
   thumbnail: /images/post-images/2020-11-17-spectres-politiques/main-thumb-flat.jpg
-  caption: "Photo par [Vitor Pinto](https://unsplash.com/@vdapinto)"
+  caption: "Image de [Vitor Pinto](https://unsplash.com/@vdapinto)"
 ---
 
 {% include toc %}

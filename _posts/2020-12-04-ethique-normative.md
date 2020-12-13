@@ -10,7 +10,7 @@ excerpt: La société moderne se pose de nombreuses questions éthiques, notamme
 image:
   path: /images/post-images/2020-12-04-ethique-normative/main.jpg
   thumbnail: /images/post-images/2020-12-04-ethique-normative/main-thumb-flat.jpg
-  caption: " Photo par [Jordan Madrid](https://unsplash.com/@jordanmadrid)"
+  caption: "Image de [Jordan Madrid](https://unsplash.com/@jordanmadrid)"
 ---
 
 {% include toc %}

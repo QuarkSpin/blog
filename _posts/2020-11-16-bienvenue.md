@@ -9,7 +9,7 @@ excerpt: Bienvenue sur mon nouveau blog !
 image:
   path: /images/post-images/2020-11-16-bienvenue/main.jpg
   thumbnail: /images/post-images/2020-11-16-bienvenue/main-thumb-flat.jpg
-  caption: "Photo par [Lucas Benjamin](https://unsplash.com/@aznbokchoy)"
+  caption: "Image de [Lucas Benjamin](https://unsplash.com/@aznbokchoy)"
 ---
 
 Bienvenue sur mon nouveau blog !

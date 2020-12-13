@@ -8,5 +8,5 @@ excerpt: ...
 image:
   path: /images/post-images/2020-12-06-reglages-appareil-photo/main.jpg
   thumbnail: /images/post-images/2020-12-06-reglages-appareil-photo/main-thumb-flat.jpg
-  caption: "Photo par [Marco Xu](https://unsplash.com/@marcute)"
+  caption: "Image de [Marco Xu](https://unsplash.com/@marcute)"
 ---

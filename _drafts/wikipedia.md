@@ -9,7 +9,7 @@ excerpt: ... ...
 image:
   path: /images/post-images/2020-12-09-wikipedia/main.jpg
   thumbnail: /images/post-images/2020-12-09-wikipedia/main-thumb-flat.jpg
-  caption: " Photo par [Matteo Maretto](https://unsplash.com/@matmaphotos)"
+  caption: "Image de [Matteo Maretto](https://unsplash.com/@matmaphotos)"
 ---
 
 
