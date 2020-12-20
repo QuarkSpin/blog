@@ -12,5 +12,8 @@ image:
   caption: "Image de [Matteo Maretto](https://unsplash.com/@matmaphotos)"
 ---
 
+{% include wip %}
+
+{% include toc %}
 
 histoire, fonctionnement, fiabilité, comment bien s'en servir, etc.

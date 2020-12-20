@@ -13,6 +13,10 @@ image:
   caption: "Image de [Douglas Bagg](https://unsplash.com/@nzdoug16)"
 ---
 
+{% include wip %}
+
+{% include toc %}
+
 https://fr.babbel.com/fr/magazine/pourquoi-les-mots-ont-ils-un-genre
 https://fr.babbel.com/fr/magazine/genre-des-mots-et-vision-du-monde
 https://fr.wikipedia.org/wiki/Genre_grammatical

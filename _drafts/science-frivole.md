@@ -1,3 +1,6 @@
+{% include wip %}
+
+{% include toc %}
 
 Mauvaise représentation de la science dans les médias, et le grand public.
 

@@ -11,3 +11,7 @@ image:
   thumbnail: /images/post-images/2020-12-05-monowi/main-thumb-flat.jpg
   caption: "Image de [Hedi Alija](https://unsplash.com/@hedialija)"
 ---
+
+{% include wip %}
+
+{% include toc %}

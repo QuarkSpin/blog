@@ -12,6 +12,10 @@ image:
   caption: "Image de [Luis Quintero](https://www.pexels.com/fr-fr/@jibarofoto)"
 ---
 
+{% include wip %}
+
+{% include toc %}
+
 <!--
 A aborder :
 * Préambule : assummer l'orientation critique et la présence d'opinions personnelles.

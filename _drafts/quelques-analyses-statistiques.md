@@ -10,5 +10,8 @@ tags:
 excerpt: ... ...
 ---
 
+{% include wip %}
+
+{% include toc %}
 
 Tutoriel R : <https://www.youtube.com/watch?v=sav3Mbe0_DM>

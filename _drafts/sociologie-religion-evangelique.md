@@ -12,3 +12,7 @@ excerpt: ... ...
 #   thumbnail: /images/post-images/2020-11-22-lire-publication-scientifique/main-thumb-flat.jpg
 #   caption: "Image de [Siora Photography](https://unsplash.com/@siora18)"
 ---
+
+{% include wip %}
+
+{% include toc %}

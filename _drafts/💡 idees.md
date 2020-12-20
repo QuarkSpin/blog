@@ -28,6 +28,7 @@ excerpt: ... ...
   * Comment fonctionne un vaccin
   * Le système immunitaire
   * Fonctionnement d'un défibrilateur (debunk scène de film cliché, cf. vidéo de primum)
+  * Serment d'Hypocrate
   * ...
 
 * Physique

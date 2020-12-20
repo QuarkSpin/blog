@@ -10,3 +10,7 @@ image:
   thumbnail: /images/post-images/2020-12-06-reglages-appareil-photo/main-thumb-flat.jpg
   caption: "Image de [Marco Xu](https://unsplash.com/@marcute)"
 ---
+
+{% include wip %}
+
+{% include toc %}

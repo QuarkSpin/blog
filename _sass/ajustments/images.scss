@@ -14,6 +14,10 @@
                 text-align: center;
             }
 
+            &.small-height {
+                max-height: 150px;
+            }
+
             &.small-medium-height {
                 max-height: 300px;
             }

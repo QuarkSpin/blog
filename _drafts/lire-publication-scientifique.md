@@ -13,6 +13,10 @@ image:
   caption: "Image de [Siora Photography](https://unsplash.com/@siora18)"
 ---
 
+{% include wip %}
+
+{% include toc %}
+
 ## Introduction
 
 Pourquoi lire une publication scientifique ?

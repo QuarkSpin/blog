@@ -12,3 +12,7 @@ image:
   thumbnail: /images/post-images/2020-12-05-histoire-terre-milieu/main-thumb-flat.jpg
   caption: "Image de [Douglas Bagg](https://unsplash.com/@nzdoug16)"
 ---
+
+{% include wip %}
+
+{% include toc %}
