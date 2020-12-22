@@ -200,9 +200,109 @@ Le système électoral pour la présidentielle américaine est l'un des pires sy
 
 #### Éligibilité
 
-La consti
+La constiution des États-Unis[^us_constitution] définit les critères d'éligibilité à la fonction de président :
 
-### Exemple simplifié
+* Avoir au moins 35 ans
+* Être citoyen américain à la naissance
+* Résider depuis au moins 14 ans aux États-Unis
+* Ne pas être candidat à un troisième mandat
+
+### Les primaires
+
+Les différents partis en compétition, notamment les deux principaux (Démocrate et Républicain), organisent des *élections primaires* un an avant les élections présidentielles pour déterminer quel candidat représentera leur parti. Les modalités de ces élections varient selon le parti et l'état où elles se déroulent. Elle ne sont pas réglementées par la loi mais par les statuts internes des différents partis.
+
+Une fois les primaires terminées se tiennent les conventions nationales de chaque parti, où les candidats sont formellement désignés. Les candidats sont désingés par deux, formant un *ticket* avec un candidat à la présidence et un à la vice-présidence.
+
+### Le principe
+
+L'élection présidentielle américaine est un scrutin indirect. Les électeurs élisent pour chaque état des "grands électeurs", lors d'un scrutin *uninominal majoritaire à un tour*. Ces grands électeurs élisent ensuite le président, toujours lors d'un scrutin *uninominal majoritaire à un tour*, mais requérant la majorité absolue.
+
+![Système électoral américain]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/system.svg)
+
+Si les grands électeurs n'arrivent pas à élire le président à la majorité absolue, c'est la chambre des représentants qui élit le président à raison d'une voix par état. Cela ne s'est produit que deux fois, en 1800 et 1824.
+
+### L'élection des grands électeurs
+
+L'élection des grands électeurs se produit lors de l'*election day*, le mardi qui suit le premier lundi de novembre.
+
+Les électeurs votent pour les grands électeurs en fonction du candidat qu'ils supportent (les bulletins portent la mention "grand ellecteur en faveur de tel candidat", ou simplement le nom du candidat). Le candidat arrivant en tête dans un état remporte tous les grands électeurs de cet état.
+
+Chaque état a un nombre de grands électeurs définit, qui correspond au nombre de ses représentants et sénateurs (+ 3 grands électeurs pour Washington, la capitale), pour un total de 538.
+
+#### Le nombre de représentants
+
+Il y a 435 représentants à la Chambre. Le nombre de représentants de chaque état dépend approximativement de son poids démographique, chaque état se voyant accorder au moins un représentant.
+
+Du fait de cette contrainte, les représentants uniques des états peu peuplés ont un poids supérieurs à ceux des autres états. Par exemple :
+
+* Wyoming (577 000 habitants) : 1 représentant pour 577 000 habitants
+* Californie (39 557 000 habitants) : 1 représentant pour 746 000 habitants
+
+C'est à dire que la voix d'un représentant du Wyoming est 29% plus forte que celle d'un représentant de Californie.
+
+#### Le nombre de sénateurs
+
+Chaque état compte deux sénateurs.
+
+Cette règle historique date des débuts des États-Unis[^us_senate_black] et a été mis en en place afin que les 13 états orginaux acceptent de ratifier la constitution. Elle est aujourd"hui l'une des plus critiquée du système législatif américain[^us_senate_orts], puisqu'elle donne autant de pouvoir à chaque états peu importe sa population. Ainsi les deux sénateurs du Wyoming, représentant 577 000 habitantys, ont autant de pouvoir que ceux les deux de la Californie, représentant 39 557 000 habitants, soit presque 69 fois plus.
+
+#### L'attribution des grands électeurs
+
+On a donc un nombre de grands électeurs par état correspondant au nombre de représentants et de sénateurs (55 pour la Californie, 36 pour le Texas, etc.).
+
+Dans chaque état, les électeurs votent pour un candidat et celui qui arrive en tête remporte tout les grands électeurs de cet état, peu importe son score. Ainsi, qu'un candidat fasse en score de 51% ou 99% dans un état ne change rien au nombre de grands électeurs.
+
+### L'élection du président
+
+Une fois les grand électeurs élus, ceux-ci se réunnissent pour élire formellement le président. Le candidat ayant le plus de grands électeurs remporte la présidence.
+
+### Le problème : exemple simplifié
+
+Imaginons une élection selon ce système dans une version des États-Unis composée de 3 états et où chaque état reçoit un représentant pour chaque 8000 habitants :
+
+* L'état A a 16 000 habitants. Il a 2 représentants et 2 sénateurs, soit 4 grands électeurs.
+* L'état B a 24 000 habitants. Il a 3 représentants et 2 sénateurs, soit 5 grands électeurs.
+* L'état C a 40 000 habitants. Il a 5 représentants et 2 sénateurs, soit 7 grands électeurs.
+
+Deux candidats se présentent :
+
+![Alice]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/alice.svg){: .small-height .inline}
+![Bob]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/bob.svg){: .small-height .inline}
+{: .image-row}
+
+Les citoyens votent dans chaque état :
+
+![Vote 1]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes1.svg){: .medium-height}
+
+36,25% ont voté pour Alice et 63,75% pour Bob. Dans un scrutin direct, Bob serait élu.
+
+![Bob]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/bob.svg){: .small-height}
+
+Mais le scrutin n'est pas direct, il est indirect. Chaque état a un nombre de grands électeurs qui élisent le président. Voici ce qui se produit avec une répartition proportionnelle des grands électeurs (chaque candidat obtenant un nombre de grand électeurs proportionnel à sa victoire dans chaque état) :
+
+![Vote 2]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes2.svg){: .medium-height}
+
+Les grand électeurs élisent alors Bob avec 56,25% des voix. Le vainqueur n'a pas changé, dans cette configuration, mais la représentation est déjà plus loin de la réalité (56,25% contre 63,75% en réalité).
+
+![Bob]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/bob.svg){: .small-height}
+
+Mais la réalite est encore pire. En effet la règle est que le candidat arrivant en tête dans un état remporte l'ensemble des grands électeurs de cet état.
+
+![Vote 3]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes3.svg){: .medium-height}
+
+Les grand électeurs élisent Alice avec 56,25% des voix, alors qu'elle n'a obtenu que 36,25% des suffrages du vote populaire.
+
+![Alice]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/alice.svg){: .small-height}
+
+### Exemples réels
+
+Par cinq fois dans l'histoire, un président américain a été élu tout en perdant le vote populaire :
+
+* John Quincy Adams en 1824 avec 114 000 voix, contre Andrew Jackson avec 153 000 voix (34% de plus)
+* Rutherford B. Hayes en 1876 avec 4 034 000 voix, contre Samuel J. Tilden avec 4 289 000 (6% de plus)
+*
+
+
 
 ### Les problèmes
 
@@ -252,3 +352,9 @@ A aborder
 [^us_elections_prokop]: Prokop, A. (2016, 19 décembre). Why the Electoral College is the absolute worst, explained. Vox. <https://www.vox.com/policy-and-politics/2016/11/7/12315574/electoral-college-explained-presidential-elections-2016>
 
 [^us_elections_norris2]: Norris, P. (2017). *Why American Elections Are Flawed (And How to Fix Them)*. Cornell University Press.
+
+[^us_constitution]: United States Senate. (2020, 21 janvier). *Constitution of the United States*. Senate.gov. <https://www.senate.gov/civics/constitution_item/constitution.htm>
+
+[^us_senate_orts]: Orts, E. W. (2019, 4 janvier). *Here’s How to Fix the Senate*. The Atlantic. <https://www.theatlantic.com/ideas/archive/2019/01/heres-how-fix-senate/579172/>
+
+[^us_senate_black]: Black, E. (2018, 20 juillet). *The House, the Senate and the historical reasons for (un)equal representation*. MinnPost. <https://www.minnpost.com/eric-black-ink/2018/07/house-senate-and-historical-reasons-unequal-representation/>
