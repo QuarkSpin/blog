@@ -31,6 +31,16 @@ Les élections présidentielles approchent, cinq candidats se présentent : Alic
 
 Avant de voter, les électeurs examinent les programmes des candidats. Voici leur classement préférenciel :
 
+![Candidats]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/candidates.svg)
+
+Ainsi :
+
+* 33% des électeurs préfèrent Alice, puis Carol, puis Bob, puis Dave, puis Eve
+* 22% des électeurs préfèrent Eve, puis Bob, puis Carol, puis Dave, puis Alice
+* Etc.
+
+On peut aussi le représenter sous forme de tableau avec la position de chaque candidat :
+
 |     | Alice     | Bob     | Carol     | Dave     | Eve     |
 |-----|-----------|---------|-----------|----------|---------|
 | 33% | **1**     | 3       | 2         | 4        | 5       |
@@ -39,8 +49,6 @@ Avant de voter, les électeurs examinent les programmes des candidats. Voici leu
 | 16% | 5         | 3       | **1**     | 2        | 4       |
 | 7%  | 5         | **1**   | 3         | 4        | 2       |
 | 4%  | 4         | **1**   | 3         | 2        | 5       |
-
-Le tableau indique que 33% des électeurs préfèrent Alice, puis Carol, puis Bob, puis Dave et enfin Eve ; que 22% des électeurs préfèrent Eve, puis Bob, puis Carol, puis Dave, puis Alice ; etc.
 
 Imaginons que chacun vote honnêtement selon ses préférences, et voyons quels seraient les résultats selon différents systèmes de vote.
 
@@ -180,8 +188,40 @@ Les candidats et les préférences des électeurs n'ont pas changé, seulement l
 
 Se pose donc une série de question : quel système devrions-nous adopter ? lequel représente le mieux la volonté des électeurs ? quels sont leurs avantages et inconvénients en termes de représentativité, complexité, etc. ? C'est ce que nous allons voir dans cet article.
 
+## Étude de cas : l'élection présidentielle aux États-Unis
+
+Avant de nous intéresser aux différents mode de scrutin, aux critères importants, à leurs inconvénients et avantages, étudions le cas de l'élection présidentielle aux États-Unis.
+
+Le système électoral pour la présidentielle américaine est l'un des pires système de vote en termes de représentativité des citoyens, même considéré comme le pire de toutes les démocraties occidentales par nombre de spécialistes. [^us_elections_norris] [^us_elections_norris2] [^us_elections_cowan] [^us_elections_prokop]
+
+Étudier son fonctionnement permet de mieux saisir certains problèmes et d'en discuter plsu facilement par la suite.
+
+### Son fonctionnement
+
+#### Éligibilité
+
+La consti
+
+### Exemple simplifié
+
+### Les problèmes
+
+## Un bon système ?
+
+Il y a plusieurs critères à prendre en compte dans l'évaluation des systèmes de vote, notamment avoir la meilleure représentativité possible des citoyens. Mais il y en a d'autres.
+
+###
+
+
+
+
+
+
+
 <!--
 Explorer : faisabilité, avantages et inconvenients, stratégies (pour candidats et votants), etc.
+
+Adresser le problème de l'écart dans le classement des préférences (ex : candidats 1 et 2 préférés de peu, mais très loin des cnadidats 3, 4 et 5 = même classement si 1, 2 et 3 proches en tête et 4 et 5 en loin derrière)
 
 Ressources à consulter :
 
@@ -204,3 +244,11 @@ A aborder
 * Les problèmes avec les systèmes actuels, comparaison des plus connus, etc.
 
 -->
+
+[^us_elections_norris]: Norris, P. (2016, 24 mars). *American elections ranked worst among Western democracies. Here’s why*. The University of Sydney. <https://www.sydney.edu.au/news-opinion/news/2016/03/24/american-elections-ranked-worst-among-western-democracies--heres.html>
+
+[^us_elections_cowan]: Cowan, D. (2020, 2 novembre). *Four ways of electing a president - ranked from worst to best*  Electoral Reform Society. <https://www.electoral-reform.org.uk/four-ways-of-electing-a-president-ranked-from-worst-to-best/>
+
+[^us_elections_prokop]: Prokop, A. (2016, 19 décembre). Why the Electoral College is the absolute worst, explained. Vox. <https://www.vox.com/policy-and-politics/2016/11/7/12315574/electoral-college-explained-presidential-elections-2016>
+
+[^us_elections_norris2]: Norris, P. (2017). *Why American Elections Are Flawed (And How to Fix Them)*. Cornell University Press.
