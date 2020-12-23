@@ -272,7 +272,7 @@ Deux candidats se présentent :
 
 Les citoyens votent dans chaque état :
 
-![Vote 1]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes1.svg){: .medium-height}
+![Votes 1]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes1.svg){: .medium-height}
 
 36,25% ont voté pour Alice et 63,75% pour Bob. Dans un scrutin direct, Bob serait élu.
 
@@ -280,7 +280,7 @@ Les citoyens votent dans chaque état :
 
 Mais le scrutin n'est pas direct, il est indirect. Chaque état a un nombre de grands électeurs qui élisent le président. Voici ce qui se produit avec une répartition proportionnelle des grands électeurs (chaque candidat obtenant un nombre de grand électeurs proportionnel à sa victoire dans chaque état) :
 
-![Vote 2]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes2.svg){: .medium-height}
+![Votes 2]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes2.svg){: .medium-height}
 
 Les grand électeurs élisent alors Bob avec 56,25% des voix. Le vainqueur n'a pas changé, dans cette configuration, mais la représentation est déjà plus loin de la réalité (56,25% contre 63,75% en réalité).
 
@@ -288,7 +288,7 @@ Les grand électeurs élisent alors Bob avec 56,25% des voix. Le vainqueur n'a p
 
 Mais la réalite est encore pire. En effet la règle est que le candidat arrivant en tête dans un état remporte l'ensemble des grands électeurs de cet état.
 
-![Vote 3]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes3.svg){: .medium-height}
+![Votes 3]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes3.svg){: .medium-height}
 
 Les grand électeurs élisent Alice avec 56,25% des voix, alors qu'elle n'a obtenu que 36,25% des suffrages du vote populaire.
 
@@ -298,13 +298,56 @@ Les grand électeurs élisent Alice avec 56,25% des voix, alors qu'elle n'a obte
 
 Par cinq fois dans l'histoire, un président américain a été élu tout en perdant le vote populaire :
 
-* John Quincy Adams en 1824 avec 114 000 voix, contre Andrew Jackson avec 153 000 voix (34% de plus)
-* Rutherford B. Hayes en 1876 avec 4 034 000 voix, contre Samuel J. Tilden avec 4 289 000 (6% de plus)
-*
+* **John Quincy Adams** en 1824 avec 114 000 voix, contre Andrew Jackson avec 153 000 voix (34,21% de plus)
+* **Rutherford B. Hayes** en 1876 avec 4 034 000 voix, contre Samuel J. Tilden avec 4 289 000 voix (6,32% de plus)
+* **Benjamin Harrison** en 1888 avec 5 444 000 voix, contre Grover Cleveland avec 5 534 000 voix (1,65% de plus)
+* **George W. Bush** en 2000 avec 50 456 000 voix, contre Al Gore avec 51 000 000 voix (1,07% de plus)
+* **Donald Trump** en 2016 avec 62 985 000 voix, contre Hillary Clinton avec 65 854 000 voix (4,56% de plus)
 
+### Le pire cas
 
+Dans le pire des cas[^us_worst], un candidat pourrait être élu avec 270 grands électeurs (50,1%) en ayant obtenu uniquement 27,9% des voix du vote populaire.
 
-### Les problèmes
+![Worst case]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/worst.png){: .medium-height}
+
+### L'autre gros problème : la majorité à un tour
+
+Le système de vote pour l'élection présidentielle américaine n'est pas seulement indirect, il est majoritaire à un tour.
+
+Imaginons un scénario avec trois candidats : Alice, Bob et Carol.
+
+Deux candidats se présentent :
+
+![Alice]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/alice.svg){: .small-height .inline}
+![Bob]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/bob.svg){: .small-height .inline}
+![Carol]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/carol.svg){: .small-height .inline}
+{: .image-row}
+
+Voici les résultats du vote :
+
+![Votes 4]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes4.svg){: .medium-height}
+
+Dans cette configuration, c'est toujours Alice qui est élue avec le plus grand nombre de grands électeurs, malgré le fait qu'elle ait obtenu seulement 22,5% des voix, soit plus que Bob (42,5%) et Carol (35%).
+
+Supposons maintenant que Bob et Carol aient des idées proches et que Bob décide de ne pas se présenter. Supposons que 80% de ceux qui auraient voté pour Bob votent pour Carol, et 20% pour Alice. Voici les résultats :
+
+![Votes 5]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes5.svg){: .medium-height}
+
+Carol serait élue avec 100% des voix (pour 68,75% des voix du vote populaire).
+
+![Carol]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/carol.svg){: .small-height}
+
+Ce système de vote est particulièrement vulnérable aux alternatives, c'est à dire que l'introduction d'un candidat de poids va systématiquement désavantager le candidat dont il est le plus proche et favoriser celui dont il est le plus éloigné. Cet particularité est à l'origine du bipartisme fort et de la polarisation des idées aux États-Unis, les "petits candidats" ayant des scores extrêmement faibles (quelques dizièmes de pourcent).
+
+### Récapitulatif
+
+Sans considérer les problèmes pratiques (bulletins peu clairs, découpages partisans des contés, manque de bureaux de votes, etc.), l'élection présidentielle américaine révèle plusieurs gros problèmes :
+
+* Un poids exagérément grand donné aux états les moins peuplés (atteignant parfois un poids par habitant 69 fois plus grand).
+* Un manque fondamental de représentativité, un candidat ayant largement perdu le vote populaire pouvant être élu.
+* Une grande vulnérabilité aux alternatives, avec un désavantage systématique des candidats proches de chaque nouveau candidat.
+
+Dans la suite de cet article nous allons voir comment le système français rend les choses un peu plus équitables, mais pas tellement. Nous verrosn quels sont les différents critères pour évaluer un système de vote, comment mesurer sa solidité et la fiabilité de se représentativité, et passer en revu différents systèmes existants ou théoriques.
 
 ## Un bon système ?
 
@@ -358,3 +401,5 @@ A aborder
 [^us_senate_orts]: Orts, E. W. (2019, 4 janvier). *Here’s How to Fix the Senate*. The Atlantic. <https://www.theatlantic.com/ideas/archive/2019/01/heres-how-fix-senate/579172/>
 
 [^us_senate_black]: Black, E. (2018, 20 juillet). *The House, the Senate and the historical reasons for (un)equal representation*. MinnPost. <https://www.minnpost.com/eric-black-ink/2018/07/house-senate-and-historical-reasons-unequal-representation/>
+
+[^us_worst]: Brown, A. (2020, 10 décembre). *You could win just 11 counties and still win the presidency*. Tableau. <https://public.tableau.com/profile/ari.brown#!/vizhome/MinimumCounties/MinimumCounties?publish=yes>
