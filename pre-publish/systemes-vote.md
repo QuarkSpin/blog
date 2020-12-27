@@ -1,5 +1,7 @@
 ---
-layout: post
+layout: pre-publish-post
+permalink: /pre-publish/systemes-vote/
+# layout: post
 title: "Différents systèmes de vote"
 # date:   2020-11-16 16:08:00 +0200
 categories: Politique
