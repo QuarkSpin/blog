@@ -349,6 +349,147 @@ Sans considérer les problèmes pratiques (bulletins peu clairs, découpages par
 
 Dans la suite de cet article nous allons voir comment le système français rend les choses un peu plus équitables, mais pas tellement. Nous verrosn quels sont les différents critères pour évaluer un système de vote, comment mesurer sa solidité et la fiabilité de se représentativité, et passer en revu différents systèmes existants ou théoriques.
 
+## D'autres modes de scrutin
+
+### Un système direct a deux tours ?
+
+Le mode de scrutin pour l'élection présidentielle en France est fondamentalement différent du système américain sur deux points importants :
+
+* Il est direct, donc il n'y a pas de système de grands électeurs entrainant une représentation faussée.
+* Il comporte deux tours, un candidat doit dont impérativement recevoir plus de 50% des voix pour être élu.
+
+Malgré tout il comporte de sérieuses failles, que nous allons voir brièvement.
+
+Reprenons notre scénario initial :
+
+![Candidats]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/candidates.svg)
+
+Imaginons que chacun vote pour le candidat qu'il préfère réellement. Voici la répartition des votes :
+
+![Votes 6]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes6.svg){: .medium-height}
+
+Dans le système français, l'élection se déroule en deux tours (sauf si l'un des candidats obtient plus de 50% au premier tour).
+
+Les deux candidats ayant obtenu les plus de vote au premier tour sont Alice et Eve. Elles s'affrontent donc au second tour.
+
+![Alice]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/alice.svg){: .small-height .inline}
+![Eve]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/eve.svg){: .small-height .inline}
+{: .image-row}
+
+Ceux ayant voté pour l'une d'elles gardent leur vote. Les autres doivent choisir laquelle ils préfèrent :
+
+![Votes 7]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes7.svg){: .medium-height}
+
+Parmis les 45% d'électeurs n'ayant pas voté pour Alice ou Eve au premier tour, 41% préfèrent Eve.
+
+![Votes 8]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/votes8.svg){: .medium-height}
+
+Eve est élue avec 63% des voix.
+
+![Eve]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/eve.svg){: .small-height}
+
+Ce système est plus représentatif que le système américain, mais cependant la représentation reste faussée.
+
+Évaluons la satisfaction de la population pour le résultat.
+
+Nous connaissons l'ordre dans lequel différentes parties de la population ont classé les candidats selon leurs préférences. Pour simplifier, considérons que le candidat en 1ère position est approuvé à 100%, le 2ème à 75%, etc. :
+
+| Classement | Approbation |
+|------------|-------------|
+| #1         | 100 %       |
+| #2         | 75 %        |
+| #3         | 50 %        |
+| #4         | 25 %        |
+| #5         | 0 %         |
+
+Voici l'approbation moyenne pour chaque candidat :
+
+![Approval 2]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/approval2.svg){: .medium-height}
+
+Ici, c'est Carol qui reçoit l'approbation la plus grande, avec 61,75%, légèrement devant Bob avec 61,00%. Eve, pourtant élue, arrive troisième avec seulement 54,50% d'approbation.
+
+Le scrutin a deux tours fait donc à priori mieux qu'un système à un tour (qui aurait élu Alice, qui a pourtant la plus faible approbation moyenne), mais n'est pas parfait, puisqu'on a deux candidats avec plus d'approbation que celle qui a été élue.
+
+### Un vote par approbation ?
+
+A ce stade, on pourrait se dire que c'est Carol qui devrait être élue. On prendrait ferait la moyenne de l'approbation de la population, en attribuant un nombre de points selon l'ordre du candidat sur un bulletin où tous seraient classés, comme avec la méthode Borda vue dans l'introduction.
+
+Seulement cette méthode a un problème. Nous avons accordé, pour chaque bulletin, 100 points au premier, 75 au deuxième, etc. (ou dans la méthode borda 4 points au premier, 3 au deuxième, etc.). Mais pourquoi l'écart de points est-il le même entre chaque position surt le classement ?
+
+Considérons la première ligne des préférences dans le tableau :
+
+![Line 1]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/line1.svg){: .medium-height}
+
+On voit que 33% des électeurs préfèrent Alice, puis Carol, puis Bob, puis Dave, puis Eve. Mais préfèrent-ils Alice à Carol autant qu'ils préfèrent Carol à Bob ? Peut-être qu'Alice et Carol ont toutes deux des idées qui plaisent beaucoup à ces 33%, celles d'Alice leur plaisant très légèrement plus, et que Bob, Dave et Eve ont tous des idées qui leur déplaisent énormément ?
+
+Quelle serait l'approbation moyenne si les écarts n'étaient pas réguliers ? Par exemple :
+
+| Classement | Approbation |
+|------------|-------------|
+| #1         | 90 %        |
+| #2         | 60 %        |
+| #3         | 50 %        |
+| #4         | 20 %        |
+| #5         | 15 %        |
+
+On obtient :
+
+![Approval 3]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/approval3.svg){: .medium-height}
+
+Cette fois-ci c'est Bob qui est en tête !
+
+Et si on avait ces valeurs :
+
+| Classement | Approbation |
+|------------|-------------|
+| #1         | 60 %        |
+| #2         | 15 %        |
+| #3         | 5 %         |
+| #4         | 0 %         |
+| #5         | 0 %         |
+
+On aurait :
+
+![Approval 4]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/approval4.svg){: .medium-height}
+
+Alice serait en tête !
+
+Et si on avait ces valeurs :
+
+| Classement | Approbation |
+|------------|-------------|
+| #1         | 99 %        |
+| #2         | 50 %        |
+| #3         | 49 %        |
+| #4         | 48 %        |
+| #5         | 5 %         |
+
+On aurait :
+
+![Approval 5]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/approval5.svg){: .medium-height}
+
+Eve serait en tête !
+
+Encore plus compliqué maintenant, imaginons que les écarts ne sont pas les mêmes dans chaque tranche de la population !
+
+Par exemple :
+
+![Approvals]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/approvals.svg){: .medium-height}
+
+* 33% de la population approuve Alice à 97%, Carol à 90%, etc.
+* 22% de la population approuve Eve à 84%, Bob à 82%, etc.
+* Etc.
+
+Et, dans la réalité, le problème est encore bien plus complexes, car dans la tranche de la population qui classe les candidats dans un même ordre, tout le monde n'a pas la même approbation pour chacun. Par exemple parmi les 33% de la première ligne, on a peut-être ça :
+
+![Approvals 2]({{ site.baseurl }}/images/post-images/2020-12-19-systemes-vote/approvals2.svg){: .medium-height}
+
+Quel système pourrait résoudre ce problème ?
+
+## Étude de cas : les élections européennes ???
+
+<!-- www.youtube.com/watch?v=h4Uu5eyN6VU -->
+
 ## Un bon système ?
 
 Il y a plusieurs critères à prendre en compte dans l'évaluation des systèmes de vote, notamment avoir la meilleure représentativité possible des citoyens. Mais il y en a d'autres.
