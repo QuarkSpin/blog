@@ -25,20 +25,26 @@ image:
 
 <!-- comparaison des religiopns (croyances, rites, présence, évolution, démographie, etc...) -->
 
-## Répartition
+## Nombre de membres en 2020
 
-![Christianisme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-01-christianity.svg){: .medium-height}
+![Christianisme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-01.svg){: .medium-height}
 
-![Islam]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-02-islam.svg){: .medium-height}
+![Islam]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-02.svg){: .medium-height}
 
-![Indouisme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-03-hindu.svg){: .medium-height}
+![Indouisme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-03.svg){: .medium-height}
 
-![Bouddhisme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-04-buddhist.svg){: .medium-height}
+![Bouddhisme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-04.svg){: .medium-height}
 
-![Judaïsme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-05-judaism.svg){: .medium-height}
+![Religion traditionnelle chinoise]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-05.svg){: .medium-height}
 
-![Autres]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-06-others.svg){: .medium-height}
+![Religions traditionnelles africaines]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-06.svg){: .medium-height}
 
-![Aucun]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-07-none.svg){: .medium-height}
+![Sikhisme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-07.svg){: .medium-height}
 
-![Toutes]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-all.svg)
+![Judaïsme]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-08.svg){: .medium-height}
+
+![Shinto]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-09.svg){: .medium-height}
+
+![Autres religions]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-10.svg){: .medium-height}
+
+![Sans religion]({{ site.baseurl }}/images/post-images/2020-12-28-religions/religions-11.svg){: .medium-height}
