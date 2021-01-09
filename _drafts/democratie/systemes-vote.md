@@ -4,7 +4,7 @@
 layout: post
 title: "Différents systèmes de vote"
 # date:   2020-12-27 12:08:00 +0200
-categories: Politique
+categories: Politique Démocratie
 tags:
     - Vote
     - Mathématiques
