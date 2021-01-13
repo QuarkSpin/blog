@@ -33,6 +33,17 @@ image:
 
 <!-- comparaison des religions (croyances, mythes, rites, présence, évolution, démographie, etc.) -->
 
+## Introduction
+
+TODO
+
+## Questionnaires
+
+Voici quelques questionnaires que je vous encourage à passer avant de lire cet article pour tester vos connaissances :
+
+* [Quiz sur le christianisme](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aHR7OdUNk1WNjJVQ01ITjVER1BNUkFRMFpDMFhNQi4u){:target="_blank"}
+* [Quiz sur la Bible](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aHR7OdUMUM2VkQ4VFNPUEdOQ0pMUUk4Vjc0VVROOC4u){:target="_blank"}
+
 ## Les différentes religions
 
 ### Qu'est-ce qu'une religion ?
@@ -120,9 +131,105 @@ La première est que certaines religions appartiennent à plusieurs catégories,
 
 La seconde est qu'il existe des interprétations ou des dénominations à l'intérieur d'une même religion qui appartiennent à des catégories différentes. Par exemple les mormons sont une dénomination chrétienne[^nilson01] n'adhérant pas au dogme de la trinité.
 
-## Réforme protestante
+## Brève comparaison des religions
+
+## Christianisme
+
+### Définitions
+
+Il est courrant que chaque dénominations chrétienne proposes ses propes définitions du christianisme, de ce qu'est d'être qu'elles nomment un "vrai chrétien". Ces définitions, souvent orientées pour présenter les dénominations à son origine comme digne héritières du Christ, sont peu pertinentes et ne m'intéressent pas.
+
+Les anthropologues et sociologues des religions proposent différentes définitions du christianisme[^cannell_christ] en fonction de l'objet qu'ils désirent étudier. Mais une définition est communément utilisée [^brit_christ] :
+
+> Religion fondée sur l'enseignement, la personne et la vie de Jésus de Nazareth.
+
+### Nombre de fidèles par dénomination chrétienne en 2020
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/christianism-01.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/christianism-02.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/christianism-03.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/christianism-04.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/christianism-05.svg)
+
+#### Nombre de fidèles par dénomination catholiques en 2020
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/catholicisme-01.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/catholicisme-02.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/catholicisme-03.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/catholicisme-04.svg)
+
+#### Nombre de fidèles par dénomination protestantes en 2020
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-01.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-02.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-03.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-04.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-05.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-06.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-07.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-08.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-09.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-10.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-11.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-12.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-13.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-14.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/protestantisme-15.svg)
+
+#### Nombre de fidèles par dénomination orthodoxes en 2020
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/orthodoxe-01.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/orthodoxe-02.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/orthodoxe-03.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/orthodoxe-04.svg)
+
+### Histoire Simplifiée du Christianisme
+
+[Télécharger le graphique]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/diagram-christianism-v1.svg){: download="Histoire Simplifiée du Christianisme (V 1.0).svg" target="_blank"}
+
+![Christianisme]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/diagram-christianism-v1.svg)
+
+### Réforme protestante
+
+[Télécharger le graphique]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/diagram-reform-v1.svg){: download="Histoire Simplifiée de la Réforme Protestante (V 1.0).svg" target="_blank"}
 
 ![Réforme]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/diagram-reform-v1.svg)
+
+## Brève comparaison des dénominations protestantes
+
+### Gouvernance
+
+[Télécharger le graphique]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/gouvernance.svg){: download="Gouvernance (V 1.0).svg" target="_blank"}
+
+![Gouvernance]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/gouvernance.svg)
+
+## TODO
+
+<!-- Significant movements within the broader Christian world and sometimes transcending denominational boundaries are Pentecostalism, Charismatic Christianity, Evangelicalism, and fundamentalism.  -->
 
 <!-- Références -->
 
@@ -137,3 +244,7 @@ La seconde est qu'il existe des interprétations ou des dénominations à l'int�
 [^prc01]: Pew Research Center. (s. d.). *Pew-Templeton : Global Religious Futures Project*. Global Religious Futures. Consulté le 31 décembre 2020, à l’adresse <http://www.globalreligiousfutures.org>
 
 [^nilson01]: Nilson, S. (2013). *Is Mormonism Christian?* Luther College. <https://www.luthercollege.edu/university/academics/impetus/winter-2013-impetus/is-mormonism-christian>
+
+[^brit_christ]: Stefon, M. et al. (2020). *Christianity*. Encyclopedia Britannica.
+
+[^cannell_christ]: Cannell, F. (2009). *The anthropology of Christianity*. Duke University Press.
