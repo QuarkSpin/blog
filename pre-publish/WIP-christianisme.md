@@ -225,6 +225,18 @@ Les anthropologues et sociologues des religions proposent différentes définiti
 
 ![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/concile-04-debat-01.svg)
 
+#### Cinquième concile
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/concile-05.svg)
+
+#### Sixième concile
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/concile-06.svg)
+
+#### Septième concile
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/concile-07.svg)
+
 ## Brève comparaison des dénominations protestantes
 
 ### Gouvernance
