@@ -113,3 +113,10 @@ excerpt: ... ...
 * Principes de game design de jeu vidéo
   * ...
 ...
+
+## Sources d'idées
+
+* <https://www.lesswrong.com/tags/all>
+* <https://thebestschools.org/magazine/controversial-topics-research-starter/>
+* <https://en.wikipedia.org/wiki/Wikipedia:List_of_controversial_issues>
+* <https://www.procon.org>
