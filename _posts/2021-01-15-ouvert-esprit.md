@@ -56,7 +56,7 @@ Je veux adopter cette approche autant que possible pour toutes les questions qui
 
 ## Une pensée critique
 
-L'ouverture d'esprit ce n'est pas accepter de toutes les idées et de toutes les positions. C'est accepter d'*examiner* toutes les idées et toutes les positions, sans préjuger de la conclusion à laquelle on aboutira. C'est ne pas rejeter une idée du simple fait qu'elle nous déplait ou que ses implications nous déplaisent.
+L'ouverture d'esprit ce n'est pas accepter toutes les idées et toutes les positions. C'est accepter d'*examiner* toutes les idées et toutes les positions, sans préjuger de la conclusion à laquelle on aboutira. C'est ne pas rejeter une idée du simple fait qu'elle nous déplait ou que ses implications nous déplaisent.
 
 Une ouverture d'esprit ne peut être saine que si elle est complétée d'un esprit critique, pour bien raisonner, discerner et évaluer les arguments et faire le tri dans les idées.
 
