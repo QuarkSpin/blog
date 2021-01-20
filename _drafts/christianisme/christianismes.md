@@ -219,6 +219,14 @@ Les anthropologues et sociologues des religions proposent différentes définiti
 
 ![Réforme]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/diagram-reform-v1.svg)
 
+### Réformateurs
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/luther.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/zwingli.svg)
+
+![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/calvin.svg)
+
 ### Conciles oeucuméniques
 
 #### Premier concile
