@@ -1,0 +1,24 @@
+.book-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #212121;
+}
+
+.book-subtitle {
+    font-style: italic;
+    color: #616161;
+}
+
+.book-author {
+    font-weight: 700;
+}
+
+.seperator {
+    clear: both;
+    margin-top: -1rem;
+
+    &+hr {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+}
