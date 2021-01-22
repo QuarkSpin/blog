@@ -6,13 +6,52 @@ collection: lectures
 entries_layout: grid
 ---
 
-Cette page présente les livres (non-fiction) que j'ai trouvé intéressant ou qui me semblent intéressant à lire.
+Cette page présente les livres (non-fiction) que j’ai trouvé intéressants ou qui me semblent intéressants à lire.
 
 {% include toc %}
 
 ## Déjà lu
 
-…
+### Intelligence Artificielle
+
+![Hello World]({{ site.baseurl }}/images/lectures/Hello World.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Hello World
+{: .book-title}
+
+How to be Human in the Age of the Machine
+{: .book-subtitle}
+
+🖋️ Hannah Fry
+{: .book-author}
+
+You are accused of a crime. Who would you rather determined your fate—a human or an algorithm?
+An algorithm is more consistent and less prone to error of judgement. Yet a human can look you in the eye before passing sentence.
+
+Welcome to the age of the algorithm, the story of a not-too-distant future where machines rule supreme, making important decisions—in healthcare, transport, finance, security, what we watch, where we go even who we send to prison. So how much should we rely on them? What kind of future do we want?
+
+Hannah Fry takes us on a tour of the good, the bad and the downright ugly of the algorithms that surround us. In Hello World she lifts the lid on their inner workings, demonstrates their power, exposes their limitations, and examines whether they really are an improvement on the humans they are replacing.
+
+**Mon avis** : 🟢 Une excellente introduction à l’utilisation et la place de l’intelligence artificielle dans nos sociétés modernes, présentant à la fois les risques et les bénéfices de cette technologie. Écrit d’une manière très accessible. À lire absolument !
+
+{% include separator.html %}
+
+![Capitalisme, désir et servitude]({{ site.baseurl }}/images/lectures/Capitalisme desir et servitude.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Capitalisme, désir et servitude
+{: .book-title}
+
+Marx et Spinoza
+{: .book-subtitle}
+
+🖋️ Frédéric Lordon
+{: .book-author}
+
+Comment un certain désir s’y prend-il pour impliquer des puissances tierces dans ses entreprises ? C’est le problème de ce qu’on appellera en toute généralité le patronat, conçu comme un rapport social d’enrôlement. Marx a presque tout dit des structures sociales de la forme capitaliste du patronat et de l’enrôlement salarial. Moins de la diversité des régimes d’affects qui pouvaient s’y couler. Car le capital a fait du chemin depuis les affects tristes de la coercition brute. Et le voilà maintenant qui voudrait des salariés contents, c’est-à-dire qui désireraient conformément à son désir à lui. Pour mieux convertir en travail la force de travail il s’en prend donc désormais aux désirs et aux affects. L’enrôlement des puissances salariales entre dans un nouveau régime et le capitalisme expérimente un nouvel art de faire marcher les salariés.
+
+Compléter le structuralisme marxien des rapports par une anthropologie spinoziste de la puissance et des passions offre alors l’occasion de reprendre à nouveaux frais les notions d’aliénation, d’exploitation et de domination que le capitalisme voudrait dissoudre dans les consentements du salariat joyeux. Et peut-être de prendre une autre perspective sur la possibilité de son dépassement.
+
+**Mon avis** : 🟠 Intéressante analyse du système capitaliste moderne sous l'angle des conflits et de la manipulation des désirs. Malheursement écrit dans un style complexe, avec du jargon, des locutions latines et de longues phrases, ce qui rend la lecture parfois très difficile.
 
 ## En cours de lecture
 
@@ -35,7 +74,7 @@ In “Rationality: From AI to Zombies,” Eliezer Yudkowsky explains the science
 
 A decision theorist and researcher at the Machine Intelligence Research Institute, Yudkowsky published earlier drafts of his writings to the websites Overcoming Bias and Less Wrong. “Rationality: From AI to Zombies” compiles six volumes of Yudkowsky’s essays into a single electronic tome. Collectively, these sequences of linked essays serve as a rich and lively introduction to the science—and the art—of human rationality.
 
-**Mon avis** : Pas encore terminé, très intéressant pour l'instant.
+**Mon avis** : Pas encore terminé, très intéressant pour l’instant.
 
 ## Envie de lire
 
@@ -222,17 +261,17 @@ In this *New York Times* bestseller, leading Bible expert Bart Ehrman skillfully
 ![UK]({{ site.baseurl }}/images/uk-flag.svg) The Great Spiritual Migration
 {: .book-title}
 
-How the World's Largest Religion Is Seeking a Better Way to Be Christian
+How the World’s Largest Religion Is Seeking a Better Way to Be Christian
 {: .book-subtitle}
 
-🖋️ Brian D. Mclaren
+🖋️ Brian D. Mclaren
 {: .book-author}
 
 The Christian story, from Genesis until now, is fundamentally about people on the move—outgrowing old, broken religious systems and embracing new, more redemptive ways of life.
 
 It’s time to move again.
 
-Brian McLaren, a leading voice in contemporary religion, argues that— notwithstanding the dire headlines about the demise of faith and drop in church attendance—Christian faith is not dying. Rather, it is embarking on a once-in-an-era spiritual shift. For millions, the journey has already begun.
+Brian McLaren, a leading voice in contemporary religion, argues that—notwithstanding the dire headlines about the demise of faith and drop in church attendance—Christian faith is not dying. Rather, it is embarking on a once-in-an-era spiritual shift. For millions, the journey has already begun.
 
 Drawing from his work as global activist, pastor, and public theologian, McLaren challenges readers to stop worrying, waiting, and indulging in nostalgia, and instead, to embrace the powerful new understandings that are reshaping the church. In *The Great Spiritual Migration*, he explores three profound shifts that define the change:
 
@@ -319,7 +358,7 @@ Débattre avec des arguments pertinents, exprimer efficacement ses opinions et q
 ![UK]({{ site.baseurl }}/images/uk-flag.svg) The Scout Mindset
 {: .book-title}
 
-Why Some People See Things Clearly and Others Don't
+Why Some People See Things Clearly and Others Don’t
 {: .book-subtitle}
 
 🖋️ Julia Galef
@@ -351,12 +390,12 @@ This book introduces the reader to the niceties of samples (random or stratified
 
 {% include separator.html %}
 
-![The Skeptics' Guide to the Universe]({{ site.baseurl }}/images/lectures/The Skeptics Guide to the Universe.jpg){: .book-cover}
+![The Skeptics’ Guide to the Universe]({{ site.baseurl }}/images/lectures/The Skeptics Guide to the Universe.jpg){: .book-cover}
 
-![UK]({{ site.baseurl }}/images/uk-flag.svg) The Skeptics' Guide to the Universe
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Skeptics’ Guide to the Universe
 {: .book-title}
 
-How To Know What's Really Real in a World Increasingly Full of Fake
+How To Know What’s Really Real in a World Increasingly Full of Fake
 {: .book-subtitle}
 
 🖋️ Steven Novella
@@ -377,7 +416,7 @@ As fascinating as it is entertaining, this page turner is your essential guide t
 ![UK]({{ site.baseurl }}/images/uk-flag.svg) Factfulness
 {: .book-title}
 
-Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Think
+Ten Reasons We’re Wrong About The World—And Why Things Are Better Than You Think
 {: .book-subtitle}
 
 🖋️ Hans Rosling, Ola Rosling, Anna Rosling Rönnlund
@@ -389,30 +428,11 @@ Ten Reasons We're Wrong About The World - And Why Things Are Better Than You Thi
 
 At last, a book that puts all the bad news in perspective—and brings us surprisingly positive data that show the state of the world has in fact improved over the last 50–200 years. Acclaimed by Bill Gates and Barack Obama, named an Observer “best brainy book of the decade”—destined to be a perennial bestseller and non-fiction classic. (let’s make that a fact!)
 
-“Wonderful … a passionate and erudite message that is all more moving because it comes from beyond the grave… His knack for presentation and delight in statistics come across on every page. Who else would choose a chart of “guitars per capita” as a proxy for human progress?” — Financial Times
+“Wonderful … a passionate and erudite message that is all more moving because it comes from beyond the grave… His knack for presentation and delight in statistics come across on every page. Who else would choose a chart of ‘guitars per capita’ as a proxy for human progress?” — Financial Times
 
 “One of the most important books I’ve ever read—an indispensable guide to thinking clearly about the world.” — Bill Gates
 
 **Mon avis** : Pas encore lu.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Intelligence Artificielle
 
@@ -421,35 +441,13 @@ At last, a book that puts all the bad news in perspective—and brings us surpri
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) La voiture qui en savait trop
 {: .book-title}
 
-L'intelligence artificielle a-t-elle une morale ?
+L’intelligence artificielle a-t-elle une morale ?
 {: .book-subtitle}
 
 🖋️ Jean-François Bonnefon
 {: .book-author}
 
-Sur la route, si vous n'aviez pas le choix, préféreriez-vous sauver un homme ou une femme ? Un sans-abri ou un cadre supérieur ? Deux jeunes filles ou deux mamies ? Accepteriez-vous de vous sacrifier avec vos passagers pour éviter d'écraser des enfants ?  Les voitures sans conducteur rouleront bientôt dans nos villes. Pour la première fois dans l'histoire de l'humanité, une machine décidera seule qui sauver, sans que l'humain ait le temps de vérifier sa décision. L'algorithme choisira en fonction des choix moraux que nous lui aurons inculqués. Mais sommes-nous sûrs de notre propre morale ?  Comme le montrent les études scientifiques, la valeur que nous accordons psychologiquement à telle ou telle vie diffère en fonction du sexe, de l'âge, de la condition sociale, de l'état de santé de la personne considérée. Nous sommes aussi conditionnés par notre culture.  Il n'existe pas de morale universelle. Nous ignorons quelle sera celle des machines.   Qui, de nous ou de la machine, prendra les commandes ?
-
-**Mon avis** : Pas encore lu.
-
-{% include separator.html %}
-
-![Hello World]({{ site.baseurl }}/images/lectures/Hello World.jpg){: .book-cover}
-
-![UK]({{ site.baseurl }}/images/uk-flag.svg) Hello World
-{: .book-title}
-
-How to be Human in the Age of the Machine
-{: .book-subtitle}
-
-🖋️ Hannah Fry
-{: .book-author}
-
-You are accused of a crime. Who would you rather determined your fate—a human or an algorithm?
-An algorithm is more consistent and less prone to error of judgement. Yet a human can look you in the eye before passing sentence.
-
-Welcome to the age of the algorithm, the story of a not-too-distant future where machines rule supreme, making important decisions—in healthcare, transport, finance, security, what we watch, where we go even who we send to prison. So how much should we rely on them? What kind of future do we want?
-
-Hannah Fry takes us on a tour of the good, the bad and the downright ugly of the algorithms that surround us. In Hello World she lifts the lid on their inner workings, demonstrates their power, exposes their limitations, and examines whether they really are an improvement on the humans they are replacing.
+Sur la route, si vous n’aviez pas le choix, préféreriez-vous sauver un homme ou une femme ? Un sans-abri ou un cadre supérieur ? Deux jeunes filles ou deux mamies ? Accepteriez-vous de vous sacrifier avec vos passagers pour éviter d’écraser des enfants ? Les voitures sans conducteur rouleront bientôt dans nos villes. Pour la première fois dans l’histoire de l’humanité, une machine décidera seule qui sauver, sans que l’humain ait le temps de vérifier sa décision. L’algorithme choisira en fonction des choix moraux que nous lui aurons inculqués. Mais sommes-nous sûrs de notre propre morale ? Comme le montrent les études scientifiques, la valeur que nous accordons psychologiquement à telle ou telle vie diffère en fonction du sexe, de l’âge, de la condition sociale, de l’état de santé de la personne considérée. Nous sommes aussi conditionnés par notre culture. Il n’existe pas de morale universelle. Nous ignorons quelle sera celle des machines.   Qui, de nous ou de la machine, prendra les commandes ?
 
 **Mon avis** : Pas encore lu.
 
@@ -470,7 +468,7 @@ Paths, Dangers, Strategies
 
 But we have one advantage: we get to make the first move. Will it be possible to construct a seed Artificial Intelligence, to engineer initial conditions so as to make an intelligence explosion survivable? How could one achieve a controlled detonation?
 
-This profoundly ambitious and original audiobook breaks down a vast track of difficult intellectual terrain. After an utterly engrossing journey that takes us to the frontiers of thinking about the human condition and the future of intelligent life, we find in Nick Bostrom's work nothing less than a reconceptualization of the essential task of our time.
+This profoundly ambitious and original audiobook breaks down a vast track of difficult intellectual terrain. After an utterly engrossing journey that takes us to the frontiers of thinking about the human condition and the future of intelligent life, we find in Nick Bostrom’s work nothing less than a reconceptualization of the essential task of our time.
 
 **Mon avis** : Pas encore lu.
 
@@ -481,7 +479,7 @@ This profoundly ambitious and original audiobook breaks down a vast track of dif
 ![UK]({{ site.baseurl }}/images/uk-flag.svg) The Magic of Reality
 {: .book-title}
 
-How we know what's really true
+How we know what’s really true
 {: .book-subtitle}
 
 🖋️ Richard Dawkins
@@ -569,13 +567,13 @@ Ces microbes qui construisent les plantes, les animaux et les civilisations
 🖋️ Marc-André Selosse
 {: .book-author}
 
-Au fil d'un récit foisonnant d'exemples et plein d'esprit, Marc-André Selosse nous conte une véritable révolution scientifique. Les microbes jouent un rôle en tout point essentiel : tous les organismes vivants, végétaux ou animaux, dépendent intimement de microbes qui contribuent à leur nutrition, leur développement, leur immunité ou même leur comportement. Toujours pris dans un réseau d'interactions microbiennes, ces organismes ne sont donc... jamais seuls.
+Au fil d’un récit foisonnant d’exemples et plein d’esprit, Marc-André Selosse nous conte une véritable révolution scientifique. Les microbes jouent un rôle en tout point essentiel : tous les organismes vivants, végétaux ou animaux, dépendent intimement de microbes qui contribuent à leur nutrition, leur développement, leur immunité ou même leur comportement. Toujours pris dans un réseau d’interactions microbiennes, ces organismes ne sont donc… jamais seuls.
 
-Détaillant d'abord de nombreuses symbioses qui associent microbes et plantes, Marc-André Selosse explore les propriétés nouvelles qui en émergent et modifient le fonctionnement de chaque partenaire. Il décrypte ensuite les extraordinaires adaptations symbiotiques des animaux, qu'ils soient terrestres ou sous-marins. Il décrit nos propres compagnons microbiens, le microbiote humain, et leurs contributions, omniprésentes et parfois inattendues.
+Détaillant d’abord de nombreuses symbioses qui associent microbes et plantes, Marc-André Selosse explore les propriétés nouvelles qui en émergent et modifient le fonctionnement de chaque partenaire. Il décrypte ensuite les extraordinaires adaptations symbiotiques des animaux, qu’ils soient terrestres ou sous-marins. Il décrit nos propres compagnons microbiens, le microbiote humain, et leurs contributions, omniprésentes et parfois inattendues.
 
-Enfin, il démontre le rôle des symbioses microbiennes au niveau des écosystèmes, de l'évolution de la vie, du climat, et des pratiques culturelles et alimentaires qui ont forgé les civilisations. Destiné à tous les publics, cet ouvrage constitue une mine d'informations pour les naturalistes, les enseignants, les médecins et pharmaciens, les agriculteurs, les amis des animaux et, plus généralement, tous les curieux du vivant.
+Enfin, il démontre le rôle des symbioses microbiennes au niveau des écosystèmes, de l’évolution de la vie, du climat, et des pratiques culturelles et alimentaires qui ont forgé les civilisations. Destiné à tous les publics, cet ouvrage constitue une mine d’informations pour les naturalistes, les enseignants, les médecins et pharmaciens, les agriculteurs, les amis des animaux et, plus généralement, tous les curieux du vivant.
 
-A l'issue de ce périple dans le monde microbien, le lecteur, émerveillé, ne pourra plus porter le même regard sur notre monde.
+A l’issue de ce périple dans le monde microbien, le lecteur, émerveillé, ne pourra plus porter le même regard sur notre monde.
 
 **Mon avis** : Pas encore lu.
 
