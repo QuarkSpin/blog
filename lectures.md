@@ -51,7 +51,7 @@ Comment un certain désir s’y prend-il pour impliquer des puissances tierces d
 
 Compléter le structuralisme marxien des rapports par une anthropologie spinoziste de la puissance et des passions offre alors l’occasion de reprendre à nouveaux frais les notions d’aliénation, d’exploitation et de domination que le capitalisme voudrait dissoudre dans les consentements du salariat joyeux. Et peut-être de prendre une autre perspective sur la possibilité de son dépassement.
 
-**Mon avis** : 🟠 Intéressante analyse du système capitaliste moderne sous l'angle des conflits et de la manipulation des désirs. Malheursement écrit dans un style complexe, avec du jargon, des locutions latines et de longues phrases, ce qui rend la lecture parfois très difficile.
+**Mon avis** : 🟠 Intéressante analyse du système capitaliste moderne sous l’angle des conflits et de la manipulation des désirs. Malheursement écrit dans un style complexe, avec du jargon, des locutions latines et de longues phrases, ce qui rend la lecture parfois très difficile.
 
 ## En cours de lecture
 
@@ -457,6 +457,50 @@ At last, a book that puts all the bad news in perspective—and brings us surpri
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Pourquoi croit-on ?]({{ site.baseurl }}/images/lectures/Pourquoi croit-on.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Pourquoi croit-on ?
+{: .book-title}
+
+Psychologie des croyances
+{: .book-subtitle}
+
+🖋️ Thierry Ripoll
+{: .book-author}
+
+Comment la psychologie cognitive explique les croyances.
+
+On oublie souvent que l’humain se distingue des autres espèces animales par sa propension à croire en l’existence d’un monde surnaturel. C’est ainsi que derrière la banalité d’un réel immédiatement accessible, il y aurait un monde proprement spirituel doté de forces qui nous échappent et qui pourtant infléchissent puissamment nos vies. La prise en compte de cette réalité dissimulée serait susceptible de donner un sens à notre existence, de la rendre plus acceptable et plus maîtrisable… Nous sommes là dans l’univers de la croyance.
+
+Dans ce livre, Thierry Ripoll, Professeur de psychologie à l’Université d’Aix-Marseille, s’attelle à la passionnante et troublante tâche d’identifier les processus psychologiques et cérébraux qui nous conduisent à croire une multitude de choses (simples superstitions, croyance en l’existence d’énergies non matérielles, pouvoir des rituels et des prières, capacités extrasensorielles, croyances religieuses, théories du complot…). Ces processus, pour la plupart inconscients, n’épargnent personne, pas mêmes ceux qui affichent un scepticisme radical. À des degrés divers, les croyances trouvent toujours un espace pour se développer et conditionnent souvent à notre insu, nos vies, nos décisions, nos choix et notre rapport au monde.
+
+S’il ne fait aucun doute que les croyances sont des réponses naturelles aux difficultés inhérentes que tout un chacun rencontre dans sa vie et si elles participent en partie à notre équilibre psychique, elles n’en constituent pas moins de redoutables tremplins à des comportements potentiellement dangereux pour le croyant comme pour la société dans laquelle il vit. En comprendre l’origine est donc essentiel. Dans ce livre instructif et mordant, Thierry Ripoll apporte un éclairage nouveau sur ce sujet épineux et sociétalement crucial.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Psychologie des croyances aux théories des complots]({{ site.baseurl }}/images/lectures/Psychologie des croyances aux theories des complots.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Psychologie des croyances aux théories des complots
+{: .book-title}
+
+Le bruit de la conspiration
+{: .book-subtitle}
+
+🖋️ Pascal Wagner-Egger
+{: .book-author}
+
+Notre monde est envahi de théories du complot. Comment les sciences permettent-elles de s’y retrouver entre vrai et faux complots, rationalité et irrationalité ?
+
+De nos jours, chaque événement majeur (attentat terroriste, pandémie, mort de célébrité, etc.) donne lieu à des théories alternatives à la version officielle, les théories du complot, qui se diffusent à la vitesse instantanée d’Internet.
+
+À la lumière de nombreuses études scientifiques, ce livre explore les raisons qui font que tous, nous pouvons être attirés par ce genre de récit, et pourquoi certains y croient plus que d’autres. L’auteur analyse les conséquences de ce phénomène, puis propose des pistes pour lutter contre la prolifération des théories complotistes.
+
+**Mon avis** : Pas encore lu.
+
 ### Intelligence Artificielle
 
 ![La voiture qui en savait trop]({{ site.baseurl }}/images/lectures/La voiture qui en savait trop.jpg){: .book-cover}
@@ -484,7 +528,7 @@ Sur la route, si vous n’aviez pas le choix, préféreriez-vous sauver un homme
 How Big Data Increases Inequality and Threatens Democracy
 {: .book-subtitle}
 
-🖋️ Cathy O'Neil
+🖋️ Cathy O’Neil
 {: .book-author}
 
 In this New York Times bestseller, Cathy O’Neil, one of the first champions of algorithmic accountability, sounds an alarm on the mathematical models that pervade modern life—and threaten to rip apart our social fabric.
@@ -757,6 +801,23 @@ Graeber shows that arguments about debt and debt forgiveness have been at the ce
 
 ### Société
 
+![White Fragility]({{ site.baseurl }}/images/lectures/White Fragility.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) White Fragility
+{: .book-title}
+
+Why It’s So Hard for White People to Talk About Racism
+{: .book-subtitle}
+
+🖋️ Robin DiAngelo
+{: .book-author}
+
+In this “vital, necessary, and beautiful book” (Michael Eric Dyson), antiracist educator Robin DiAngelo deftly illuminates the phenomenon of white fragility and “allows us to understand racism as a practice not restricted to ‘bad people’ (Claudia Rankine). Referring to the defensive moves that white people make when challenged racially, white fragility is characterized by emotions such as anger, fear, and guilt, and by behaviors including argumentation and silence. These behaviors, in turn, function to reinstate white racial equilibrium and prevent any meaningful cross-racial dialogue. In this in-depth exploration, DiAngelo examines how white fragility develops, how it protects racial inequality, and what we can do to engage more constructively.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
 ![The Future Is Faster Than You Think]({{ site.baseurl }}/images/lectures/The Future Is Faster Than You Think.jpg){: .book-cover}
 
 ![UK]({{ site.baseurl }}/images/uk-flag.svg) The Future Is Faster Than You Think
@@ -801,6 +862,31 @@ Revenant sur les grandes heures de la fondation de la religion mormone et l’é
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![The Radium Girls]({{ site.baseurl }}/images/lectures/The Radium Girls.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Radium Girls
+{: .book-title}
+
+The Dark Story of America's Shining Women
+{: .book-subtitle}
+
+🖋️ Kate Moore
+{: .book-author}
+
+The incredible true story of the women who fought America’s Undark danger
+
+The Curies’ newly discovered element of radium makes gleaming headlines across the nation as the fresh face of beauty, and wonder drug of the medical community. From body lotion to tonic water, the popular new element shines bright in the otherwise dark years of the First World War.
+
+Meanwhile, hundreds of girls toil amidst the glowing dust of the radium-dial factories. The glittering chemical covers their bodies from head to toe; they light up the night like industrious fireflies. With such a coveted job, these ‘shining girls’ are the luckiest alive—until they begin to fall mysteriously ill.
+
+But the factories that once offered golden opportunities are now ignoring all claims of the gruesome side effects, and the women’s cries of corruption. And as the fatal poison of the radium takes hold, the brave shining girls find themselves embroiled in one of the biggest scandals of America’s early 20th century, and in a groundbreaking battle for workers’ rights that will echo for centuries to come.
+
+Written with a sparkling voice and breakneck pace, *The Radium Girls* fully illuminates the inspiring young women exposed to the ‘wonder’ substance of radium, and their awe-inspiring strength in the face of almost impossible circumstances. Their courage and tenacity led to life-changing regulations, research into nuclear bombing, and ultimately saved hundreds of thousands of lives…
+
+**Mon avis** : Pas encore lu.
+
 ### Style de vie
 
 ![Goodbye, Things]({{ site.baseurl }}/images/lectures/Goodbye, Things.jpg){: .book-cover}
@@ -814,7 +900,7 @@ The New Japanese Minimalism
 🖋️ Fumio Sasaki
 {: .book-author}
 
-Fumio Sasaki is not an enlightened minimalism expert or organizing guru like Marie Kondo--he's just a regular guy who was stressed out and constantly comparing himself to others, until one day he decided to change his life by saying goodbye to everything he didn't absolutely need. The effects were remarkable: Sasaki gained true freedom, new focus, and a real sense of gratitude for everything around him. In *Goodbye, Things* Sasaki modestly shares his personal minimalist experience, offering specific tips on the minimizing process and revealing how the new minimalist movement can not only transform your space but truly enrich your life. The benefits of a minimalist life can be realized by anyone, and Sasaki's humble vision of true happiness will open your eyes to minimalism's potential.
+Fumio Sasaki is not an enlightened minimalism expert or organizing guru like Marie Kondo—he’s just a regular guy who was stressed out and constantly comparing himself to others, until one day he decided to change his life by saying goodbye to everything he didn’t absolutely need. The effects were remarkable: Sasaki gained true freedom, new focus, and a real sense of gratitude for everything around him. In *Goodbye, Things* Sasaki modestly shares his personal minimalist experience, offering specific tips on the minimizing process and revealing how the new minimalist movement can not only transform your space but truly enrich your life. The benefits of a minimalist life can be realized by anyone, and Sasaki’s humble vision of true happiness will open your eyes to minimalism’s potential.
 
 **Mon avis** : Pas encore lu.
 
