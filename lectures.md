@@ -34,7 +34,7 @@ Hannah Fry takes us on a tour of the good, the bad and the downright ugly of the
 
 **Mon avis** : 🟢 Une excellente introduction à l’utilisation et la place de l’intelligence artificielle dans nos sociétés modernes, présentant à la fois les risques et les bénéfices de cette technologie. Écrit d’une manière très accessible. À lire absolument !
 
-{% include separator.html %}
+### Politique
 
 ![Capitalisme, désir et servitude]({{ site.baseurl }}/images/lectures/Capitalisme desir et servitude.jpg){: .book-cover}
 
