@@ -101,6 +101,29 @@ Après plusieurs années de recherches et d’enseignement, Thibaut Giraud a cr�
 
 **Mon avis** : Pas encore lu.
 
+### Politique
+
+![The Color of Law]({{ site.baseurl }}/images/lectures/The Color of Law.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Color of Law
+{: .book-title}
+
+A Forgotten History of How Our Government Segregated America
+{: .book-subtitle}
+
+🖋️ Richard Rothstein
+{: .book-author}
+
+In this groundbreaking history of the modern American metropolis, Richard Rothstein, a leading authority on housing policy, explodes the myth that America’s cities came to be racially divided through *de facto* segregation—that is, through individual prejudices, income differences, or the actions of private institutions like banks and real estate agencies. Rather, *The Color of Law* incontrovertibly makes clear that it was *de jure* segregation—the laws and policy decisions passed by local, state, and federal governments—that actually promoted the discriminatory patterns that continue to this day.
+
+Through extraordinary revelations and extensive research that Ta-Nehisi Coates has lauded as “brilliant” (The Atlantic), Rothstein comes to chronicle nothing less than an untold story that begins in the 1920s, showing how this process of de jure segregation began with explicit racial zoning, as millions of African Americans moved in a great historical migration from the south to the north.
+
+As Jane Jacobs established in her classic *The Death and Life of Great American Cities*, it was the deeply flawed urban planning of the 1950s that created many of the impoverished neighborhoods we know. Now, Rothstein expands our understanding of this history, showing how government policies led to the creation of officially segregated public housing and the demolition of previously integrated neighborhoods. While urban areas rapidly deteriorated, the great American suburbanization of the post-World War II years was spurred on by federal subsidies for builders on the condition that no homes be sold to African Americans. Finally, Rothstein shows how police and prosecutors brutally upheld these standards by supporting violent resistance to black families in white neighborhoods.
+
+The Fair Housing Act of 1968 prohibited future discrimination but did nothing to reverse residential patterns that had become deeply embedded. Yet recent outbursts of violence in cities like Baltimore, Ferguson, and Minneapolis show us precisely how the legacy of these earlier eras contributes to persistent racial unrest. “The American landscape will never look the same to readers of this important book” (Sherrilyn Ifill, president of the NAACP Legal Defense Fund), as Rothstein’s invaluable examination shows that only by relearning this history can we finally pave the way for the nation to remedy its unconstitutional past.
+
+**Mon avis** : Pas encore lu.
+
 ### Christianisme
 
 ![How the Bible Actually Works]({{ site.baseurl }}/images/lectures/How the Bible Actually Works.jpg){: .book-cover}
@@ -453,6 +476,29 @@ Sur la route, si vous n’aviez pas le choix, préféreriez-vous sauver un homme
 
 {% include separator.html %}
 
+![Weapons of Math Destruction]({{ site.baseurl }}/images/lectures/Weapons of Math Destruction.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Weapons of Math Destruction
+{: .book-title}
+
+How Big Data Increases Inequality and Threatens Democracy
+{: .book-subtitle}
+
+🖋️ Cathy O'Neil
+{: .book-author}
+
+In this New York Times bestseller, Cathy O’Neil, one of the first champions of algorithmic accountability, sounds an alarm on the mathematical models that pervade modern life—and threaten to rip apart our social fabric.
+
+We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we get a loan, how much we pay for insurance—are being made not by humans, but by mathematical models. In theory, this should lead to greater fairness: everyone is judged according to the same rules, and bias is eliminated.
+
+And yet, as Cathy O’Neil reveals in this urgent and necessary book, the opposite is true. The models being used today are opaque, unregulated, and incontestable, even when they’re wrong. Most troubling, they reinforce discrimination. Tracing the arc of a person’s life, O’Neil exposes the black box models that shape our future, both as individuals and as a society. These “weapons of math destruction” score teachers and students, sort CVs, grant or deny loans, evaluate workers, target voters, and monitor our health.
+
+O’Neil calls on modellers to take more responsibility for their algorithms and on policy makers to regulate their use. But in the end, it’s up to us to become more savvy about the models that govern our lives. This important book empowers us to ask the tough questions, uncover the truth, and demand change.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
 ![Superintelligence]({{ site.baseurl }}/images/lectures/Superintelligence.jpg){: .book-cover}
 
 ![UK]({{ site.baseurl }}/images/uk-flag.svg) Superintelligence
@@ -472,7 +518,28 @@ This profoundly ambitious and original audiobook breaks down a vast track of dif
 
 **Mon avis** : Pas encore lu.
 
-### Sciences
+### Mathématiques
+
+![The Mathematics of Love]({{ site.baseurl }}/images/lectures/The Mathematics of Love.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Mathematics of Love
+{: .book-title}
+
+Paths, Dangers, Strategies
+{: .book-subtitle}
+
+🖋️ Hannah Fry
+{: .book-author}
+
+There is no topic that attracts more attention-more energy and time and devotion—than love. Love, like most things in life, is full of patterns. And mathematics is ultimately the study of patterns.
+
+In her book The Mathematics of Love—and TEDxTalk of the same name—Dr. Hannah Fry takes the audience on a fascinating journey through the patterns that define our love lives, tackling some of the most common yet complex questions pertaining to love: What’s the chance of us finding love? What’s the chance that it will last? How does online dating work, exactly? When should you settle down? How can you avoid divorce? When is it right to compromise? Can game theory help us decide whether or not to call?
+
+From evaluating the best strategies for online dating to defining the nebulous concept of beauty, Dr. Fry proves-with great insight, wit and fun—that maths is a surprisingly useful tool to negotiate the complicated, often baffling, sometimes infuriating, always interesting, patterns of love.
+
+**Mon avis** : Pas encore lu.
+
+### Sciences naturelles
 
 ![The Magic of Reality]({{ site.baseurl }}/images/lectures/The Magic of Reality.jpg){: .book-cover}
 
@@ -595,5 +662,183 @@ It’s good to know what the parts of a thing are called, but it’s much more i
 Many of the things we use every day—like our food-heating radio boxes (“microwaves”), our very tall roads (“bridges”), and our computer rooms (“datacentres”)—are strange to us. So are the other worlds around our sun (the solar system), the big flat rocks we live on (tectonic plates), and even the stuff inside us (cells). Where do these things come from? How do they work? What do they look like if you open them up? And what would happen if we heated them up, cooled them down, pointed them in a different direction, or pressed this button?
 
 In *Thing Explainer*, Munroe gives us the answers to these questions and many, many more. Funny, interesting, and always understandable, this book is for anyone—age 5 to 105—who has ever wondered how things work, and why.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![The Rise and Fall of the Dinosaurs]({{ site.baseurl }}/images/lectures/The Rise and Fall of the Dinosaurs.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Rise and Fall of the Dinosaurs
+{: .book-title}
+
+A New History of a Lost World
+{: .book-subtitle}
+
+🖋️ Steve Brusatte
+{: .book-author}
+
+*The dinosaurs*. Sixty-six million years ago, the Earth’s most fearsome creatures vanished. Today they remain one of our planet’s great mysteries. Now *The Rise and Fall of the Dinosaurs* reveals their extraordinary, 200-million-year-long story as never before.
+
+In this captivating narrative (enlivened with more than seventy original illustrations and photographs), Steve Brusatte, a young American paleontologist who has emerged as one of the foremost stars of the field—naming fifteen new species and leading groundbreaking scientific studies and fieldwork—masterfully tells the complete, surprising, and new history of the dinosaurs, drawing on cutting-edge science to dramatically bring to life their lost world and illuminate their enigmatic origins, spectacular flourishing, astonishing diversity, cataclysmic extinction, and startling living legacy. Captivating and revelatory, *The Rise and Fall of the Dinosaurs* is a book for the ages.
+
+Brusatte traces the evolution of dinosaurs from their inauspicious start as small shadow dwellers—themselves the beneficiaries of a mass extinction caused by volcanic eruptions at the beginning of the Triassic period—into the dominant array of species every wide-eyed child memorizes today, *T. rex, Triceratops, Brontosaurus*, and more. This gifted scientist and writer re-creates the dinosaurs’ peak during the Jurassic and Cretaceous, when thousands of species thrived, and winged and feathered dinosaurs, the prehistoric ancestors of modern birds, emerged. The story continues to the end of the Cretaceous period, when a giant asteroid or comet struck the planet and nearly every dinosaur species (but not all) died out, in the most extraordinary extinction event in earth’s history, one full of lessons for today as we confront a “sixth extinction.”
+
+Brusatte also recalls compelling stories from his globe-trotting expeditions during one of the most exciting eras in dinosaur research—which he calls “a new golden age of discovery”—and offers thrilling accounts of some of the remarkable findings he and his colleagues have made, including primitive human-sized tyrannosaurs; monstrous carnivores even larger than *T. rex*; and paradigm-shifting feathered raptors from China.
+
+An electrifying scientific history that unearths the dinosaurs’ epic saga, *The Rise and Fall of the Dinosaurs* will be a definitive and treasured account for decades to come.
+
+**Mon avis** : Pas encore lu.
+
+### Sciences sociales
+
+![The End of Gender]({{ site.baseurl }}/images/lectures/The End of Gender.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The End of Gender
+{: .book-title}
+
+Debunking the Myths about Sex and Identity in Our Society
+{: .book-subtitle}
+
+🖋️ Debra Soh
+{: .book-author}
+
+International sex researcher, neuroscientist, and columnist Debra Soh debunks popular gender myths in this research-based, scientific examination of the many facets of gender identity.
+
+Is our gender something we’re born with, or are we conditioned by society? In The End of Gender, neuroscientist and sexologist Dr. Debra Soh uses a research-based approach to address this hot-button topic, unmasking popular misconceptions about the nature vs. nurture debate and exploring what it means to be a woman or a man in today’s society.
+
+Both scientific and objective, and drawing on original research and carefully conducted interviews, Soh tackles a wide range of issues, such as gender-neutral parenting, gender dysphoric children, and the neuroscience of being transgender. She debates today’s accepted notion that gender is a social construct and a spectrum, and challenges the idea that there is no difference between how male and female brains operate.
+
+The End of Gender is a conversation-starting work that will challenge what you thought you knew about gender, identity, and everything in between. Timely, informative, and provocative, it will arm you with the facts you need to come to your own conclusions about gender identity and its place in the world today.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![The Tyranny of Merit]({{ site.baseurl }}/images/lectures/The Tyranny of Merit.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Tyranny of Merit
+{: .book-title}
+
+What’s Become of the Common Good?
+{: .book-subtitle}
+
+🖋️ Michael J. Sandel
+{: .book-author}
+
+These are dangerous times for democracy. We live in an age of winners and losers, where the odds are stacked in favour of the already fortunate. Stalled social mobility and entrenched inequality give the lie to the promise that “you can make it if you try”. And the consequence is a brew of anger and frustration that has fuelled populist protest, with the triumph of Brexit and election of Donald Trump.
+
+Michael J. Sandel argues that to overcome the polarized politics of our time, we must rethink the attitudes toward success and failure that have accompanied globalisation and rising inequality. Sandel highlights the hubris a meritocracy generates among the winners and the harsh judgement it imposes on those left behind. He offers an alternative way of thinking about success—more attentive to the role of luck in human affairs, more conducive to an ethic of humility, and more hospitable to a politics of the common good.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Debt]({{ site.baseurl }}/images/lectures/Debt.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Debt
+{: .book-title}
+
+The First 5,000 Years
+{: .book-subtitle}
+
+🖋️ David Graeber
+{: .book-author}
+
+Every economics textbook says the same thing: Money was invented to replace onerous and complicated barter systems—to relieve ancient people from having to haul their goods to market. The problem with this version of history? There’s not a shred of evidence to support it.
+
+Here anthropologist David Graeber presents a stunning reversal of conventional wisdom. He shows that for more than 5,000 years, since the beginnings of the first agrarian empires, humans have used elaborate credit systems to buy and sell goods—that is, long before the invention of coins or cash. It is in this era, Graeber argues, that we also first encounter a society divided into debtors and creditors.
+
+Graeber shows that arguments about debt and debt forgiveness have been at the center of political debates from Italy to China, as well as sparking innumerable insurrections. He also brilliantly demonstrates that the language of the ancient works of law and religion (words like “guilt,” “sin,” and “redemption”) derive in large part from ancient debates about debt, and shape even our most basic ideas of right and wrong. We are still fighting these battles today without knowing it.
+
+*Debt: The First 5,000 Years* is a fascinating chronicle of this little known history—as well as how it has defined human history, and what it means for the credit crisis of the present day and the future of our economy.
+
+**Mon avis** : Pas encore lu.
+
+### Société
+
+![The Future Is Faster Than You Think]({{ site.baseurl }}/images/lectures/The Future Is Faster Than You Think.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Future Is Faster Than You Think
+{: .book-title}
+
+How Converging Technologies Are Transforming Business, Industries, and Our Lives
+{: .book-subtitle}
+
+🖋️ Peter H. Diamandis, Seven Kotler
+{: .book-author}
+
+In their book *Abundance*, bestselling authors and futurists Peter Diamandis and Steven Kotler tackled grand global challenges, such as poverty, hunger, and energy. Then, in *Bold*, they chronicled the use of exponential technologies that allowed the emergence of powerful new entrepreneurs. Now the bestselling authors are back with *The Future Is Faster Than You Think*, a blueprint for how our world will change in response to the next ten years of rapid technological disruption.
+
+Technology is accelerating far more quickly than anyone could have imagined. During the next decade, we will experience more upheaval and create more wealth than we have in the past hundred years. In this gripping and insightful roadmap to our near future, Diamandis and Kotler investigate how wave after wave of exponentially accelerating technologies will impact both our daily lives and society as a whole. What happens as AI, robotics, virtual reality, digital biology, and sensors crash into 3D printing, blockchain, and global gigabit networks? How will these convergences transform today’s legacy industries? What will happen to the way we raise our kids, govern our nations, and care for our planet?
+
+Diamandis, a space-entrepreneur-turned-innovation-pioneer, and Kotler, bestselling author and peak performance expert, probe the science of technological convergence and how it will reinvent every part of our lives—transportation, retail, advertising, education, health, entertainment, food, and finance—taking humanity into uncharted territories and reimagining the world as we know it.
+
+As indispensable as it is gripping, *The Future Is Faster Than You Think* provides a prescient look at our impending future.
+
+**Mon avis** : Pas encore lu.
+
+### Récits
+
+![Sur ordre de Dieu]({{ site.baseurl }}/images/lectures/Sur ordre de Dieu.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Sur ordre de Dieu
+{: .book-title}
+
+Double meurtre au pays des Mormons
+{: .book-subtitle}
+
+🖋️ Jon Krakauer
+{: .book-author}
+
+« Dans le comté d’Utah, presque tout le monde a entendu parler des fils Lafferty en raison des meurtres atroces. »
+
+Utah. Une petite ville plantée dans le sillage de Salt Lake City, le fief de l’Église mormone. Le 24 juillet 1984, Allen Lafferty, mormon pratiquant, rentre chez lui après sa journée de travail, dans la maison qu’il habite avec sa jeune épouse et leur bébé de quinze mois. Quand il pousse la porte, l’horreur l’attend : Brenda et sa petite fille ont été sauvagement égorgées. En un instant, Allen est convaincu qu’il connaît les coupables. Et pour cause, ce sont ses frères.
+
+À la barre des mois plus tard, Ron et Dan Lafferty ne nieront pas les faits. Pas plus qu’ils n’exprimeront le moindre remords. Les deux Lafferty sont des prophètes, Dieu parle à travers eux, il leur chuchote ses ordres. Pour eux, l’État n’existe pas. L’école ? Une machination. La médecine ? Un charlatanisme. Ron et Dan Lafferty ont quitté le giron des mormons pour embrasser une foi chrétienne radicale, dont l’un des piliers n’est autre que la polygamie. Et Brenda Lafferty avait commis l’erreur d’y être opposée…
+
+Revenant sur les grandes heures de la fondation de la religion mormone et l’épineux dossier des sectes transfuges qu’elle a fait naître dans ses rangs, le maître de la narrative non fiction interroge les ressorts du fanatisme religieux et exhume l’une des affaires criminelles les plus retentissantes de l’histoire américaine des dernières décennies.
+
+**Mon avis** : Pas encore lu.
+
+### Style de vie
+
+![Goodbye, Things]({{ site.baseurl }}/images/lectures/Goodbye, Things.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Goodbye, Things
+{: .book-title}
+
+The New Japanese Minimalism
+{: .book-subtitle}
+
+🖋️ Fumio Sasaki
+{: .book-author}
+
+Fumio Sasaki is not an enlightened minimalism expert or organizing guru like Marie Kondo--he's just a regular guy who was stressed out and constantly comparing himself to others, until one day he decided to change his life by saying goodbye to everything he didn't absolutely need. The effects were remarkable: Sasaki gained true freedom, new focus, and a real sense of gratitude for everything around him. In *Goodbye, Things* Sasaki modestly shares his personal minimalist experience, offering specific tips on the minimizing process and revealing how the new minimalist movement can not only transform your space but truly enrich your life. The benefits of a minimalist life can be realized by anyone, and Sasaki's humble vision of true happiness will open your eyes to minimalism's potential.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Atomic Habits]({{ site.baseurl }}/images/lectures/Atomic Habits.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Atomic Habits
+{: .book-title}
+
+Tiny Changes, Remarkable Results
+{: .book-subtitle}
+
+🖋️ James Clear
+{: .book-author}
+
+Transform your life with tiny changes in behaviour, starting now.
+
+People think that when you want to change your life, you need to think big. But world-renowned habits expert James Clear has discovered another way. He knows that real change comes from the compound effect of hundreds of small decisions: doing two push-ups a day, waking up five minutes early, or holding a single short phone call.
+
+He calls them atomic habits.
+
+In this ground-breaking book, Clears reveals exactly how these minuscule changes can grow into such life-altering outcomes. He uncovers a handful of simple life hacks (the forgotten art of Habit Stacking, the unexpected power of the Two Minute Rule, or the trick to entering the Goldilocks Zone), and delves into cutting-edge psychology and neuroscience to explain why they matter. Along the way, he tells inspiring stories of Olympic gold medalists, leading CEOs, and distinguished scientists who have used the science of tiny habits to stay productive, motivated, and happy.
+
+These small changes will have a revolutionary effect on your career, your relationships, and your life.
 
 **Mon avis** : Pas encore lu.

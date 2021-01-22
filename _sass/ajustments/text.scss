@@ -22,3 +22,23 @@
         margin-top: 20px;
     }
 }
+
+.lectures #markdown-toc > li {
+    &::marker,
+    > a {
+        color: #ad1457;
+    }
+}
+
+.lectures .page-content h3 {
+    border-bottom: solid #ad1457 1px;
+    margin-bottom: 10px;
+}
+
+.lectures .page-content h2:not(#toc-toggle) {
+    background: #ad1457;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    width: fit-content;
+}
