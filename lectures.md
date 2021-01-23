@@ -143,6 +143,27 @@ Ce qui distingue la pensée politique de Noam Chomsky n’est pas une vision nou
 
 **Mon avis** : Pas encore lu.
 
+### Économie
+
+![Tout sur l'économie, ou presque]({{ site.baseurl }}/images/lectures/Tout sur l-economie, ou presque.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Tout sur l'économie, ou presque
+{: .book-title}
+
+Pour comprendre vraiment ce qui cloche dans le système
+{: .book-subtitle}
+
+🖋️ Heu?reka (Gilles Mitteau)
+{: .book-author}
+
+D’où vient l’argent que me prête la banque ? Qu’appelle-t-on la dette ? Qu’est-ce qu’une obligation ? Pourquoi les États veulent-ils absolument « sauver » les banques ? Quel est le rôle des économistes au sein de la société ? Quelle relation entretiennent-ils avec les politiques ? Et pourquoi est-il crucial que nous, citoyens, comprenions les principes de l’économien et de la finance ?
+
+Avec pédagogie et humour, en s’appuyant sur des infographies éclairantes, Gilles Mitteau nous explique tout d’un système omniprésent dans nos vies. Une lecture nécessaire pour mieux appréhender les enjeux actuels — emprise de la finance, crise écologique, dépendance énergétique — afin d’interroger les règles que le capitalisme a érigées en lois immuables et qu’il est urgent de remettre en cause aujourd’hui.
+
+Après avoir été trader à Wall Street, Gilles Mitteau est devenu vulgarisateur afin de combattre les préjugés sur l’économie et la finance. Soucieux de former le grand public à ces deux disciplines réputées ardues et impopulaires, il crée en 2015 une chaîne YouTube baptisée Heu?reka, qui connaît un véritable succès et compte plus de 200 000 abonnés.
+
+**Mon avis** : Pas encore lu.
+
 ### Christianisme
 
 ![How the Bible Actually Works]({{ site.baseurl }}/images/lectures/How the Bible Actually Works.jpg){: .book-cover}
@@ -905,6 +926,99 @@ Comment pensons-nous ? Qu’est-ce qui guide nos préférences, nos jugements, 
 Le « Système 1 » est rapide, intuitif et émotionnel ; le « Système 2 » est plus lent, plus réfléchi, plus contrôlé et plus logique. Via de multiples expériences auxquelles le lecteur est invité à s’essayer lui-même, sont exposés les facultés extraordinaires de la pensée rapide, le rôle de l’émotion dans nos choix et nos jugements, mais aussi les ravages des partis pris et autres biais cognitifs dont nous sommes les jouets illusion de familiarité, effet de halo, biais optimiste, illusion de causalité, effet d’ancrage, illusion rétro-spective… — autant d’exemples de notre tendance à interpréter les événements en fonction de ce que nous connaissons déjà, du sens que nous souhaitons qu’ils aient, et de notre incapacité, inversement, à raisonner statistiquement, en acceptant l’idée de hasard.
 
 Fruit de toute une vie de recherche aux confins de la psychologie et de l’économie, *Système 1/Système 2* dessine une théorie brillante, qui offre des prolongements pratiques immédiats dans la vie quotidienne et professionnelle.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Conversation sur les multivers]({{ site.baseurl }}/images/lectures/Conversation sur les multivers.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Conversation sur les multivers
+{: .book-title}
+
+Mondes possibles de l'astrophysique, de la philosophie et de l'imaginaire
+{: .book-subtitle}
+
+🖋️ Aurélien Barrau, Patrick Gyger, Max Kistler, Jean-Philippe Uzan
+{: .book-author}
+
+Et si notre Univers n’était qu’un parmi d’autres ? Cette idée d’univers multiples, envisagée pourtant depuis l’Antiquité, n’est entrée que récemment — et avec fracas — dans le champ de la science. L’hypothèse fascine, mais elle n’en est pas moins dérangeante : comment se formeraient ces mondes invisibles ? Peut-on tester et réfuter leur existence ? Une telle hypothèse est-elle vraiment scientifique ? Ouvrir la porte aux mondes possibles de l’astrophysique, de la philosophie et de l’imaginaire, c’est montrer qu’il y a une multiplicité de « manières de faire des mondes »…
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Big-bang]({{ site.baseurl }}/images/lectures/Big-bang.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Big-bang
+{: .book-title}
+
+Comprendre l'univers depuis ici et maintenant
+{: .book-subtitle}
+
+🖋️ Jean-Philippe Uzan
+{: .book-author}
+
+L’univers aurait 13,7 milliards d’années, lit-on souvent. Mais que signifie une telle affirmation ? Implique-t-elle que l’univers a une origine ? Comment penser ce big-bang primordial ? Dans cette synthèse magistrale, Jean-Philippe Uzan nous invite à comprendre la construction du modèle du big-bang, cette théorie qui vise à décrire l’univers et son histoire. Il détaille les hypothèses théoriques et les observations sur lesquelles ce modèle repose. Au fil des pages se dessine un extraordinaire échafaudage qui, en un siècle, a bouleversé notre représentation du cosmos comme de l’espace et du temps. Or la cosmologie se trouve à un moment charnière : alors que les satellites et les télescopes géants se multiplient, que les fenêtres d’observation s’ouvrent vertigineusement ondes gravitationnelles, neutrinos, les médias font leur une sur des scénarios pour le moins spéculatifs. Il devient ainsi urgent de clarifier les questions auxquelles la science prétend répondre, celles qui ne sont pas encore tranchées la matière noire, l’inflation, etc. mais aussi celles qui restent en dehors de son champ explicatif. Voilà l’ambition de cet ouvrage qui, tout en célébrant l’une des plus belles théories jamais élaborées par l’esprit humain, démêle finement mythe et savoir.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Le Coup de la girafe]({{ site.baseurl }}/images/lectures/Le Coup de la girafe.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Le Coup de la girafe
+{: .book-title}
+
+Des savants dans la savane
+{: .book-subtitle}
+
+🖋️ Léo Grasset
+{: .book-author}
+
+Pourquoi les girafes ont-elles un si long cou et les zèbres des rayures ? Quel rapport entre une foule de supporters sportifs et un troupeau de gazelles ? Avez-vous déjà frémi d’épouvante à la mention du mot « ratel » ?
+
+Les animaux de la savane africaine ont encore beaucoup à nous apprendre. Ce livre vous expliquera le talent des termites bâtisseurs qui construisent des orgues pour respirer, le rôle du hasard dans la fuite de la gazelle, la dictature quotidienne que subissent les éléphants alors que les buffles vivent en démocratie, l’importance de la Voie lactée pour les bousiers, et le point commun entre les tétons humains et le pénis des hyènes.
+
+« Rien en biologie n’a de sens, si ce n’est à la lumière de l’évolution », disait un célèbre généticien. Mais cette lumière projette des ombres étranges et difficiles à décrypter, et les sujets présentés sont aux frontières actives de la recherche scientifique !
+
+Un livre d’histoires naturelles, contées avec légèreté et humour par un jeune biologiste aventureux et superbement illustrées par ses photographies.
+
+Léo Grasset est titulaire d’un master en biologie. Après un travail de terrain au Zimbabwe, il étudie l’impact des écosystèmes sur les sociétés humaines.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![La grande aventure du sexe]({{ site.baseurl }}/images/lectures/La grande aventure du sexe.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) La grande aventure du sexe
+{: .book-title}
+
+🖋️ Léo Grasset, Colas Grasset
+{: .book-author}
+
+Qu’est-ce que c’est le sexe ? Est-ce que ça a toujours existé ? À quoi ça sert ? Pourquoi y a-t-il des vagins et des pénis ? La promesse de DirtyBiology : tu voulais pas savoir, mais maintenant, c’est trop tard ! Saviez-vous que sur notre planète, certaines espèces ne font pas de sexe ? Qu’il existe une incroyable diversité de formes d’organes reproducteurs et que biologiquement, on peut faire du sexe sans sexes ? Des rites amoureux les plus improbables, à l’invention des mâles et femelles, en passant par le pseudo-sexe des bactéries et la sexualité des champignons : vous ne verrez plus le monde vivant du même œil.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Moi, parasite]({{ site.baseurl }}/images/lectures/Moi, parasite.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Moi, parasite
+{: .book-title}
+
+🖋️ Pierre Kerner
+{: .book-author}
+
+*Moi, parasite* offre enfin la tribune au parti des organismes trop souvent calomniés au seul prétexte qu’ils érigent en art leur mode de vie aux dépens d’autres espèces.
+
+En donnant, chapitre après chapitre, la parole à un parasite différent, le lecteur pourra découvrir les facettes extraordinaires de ces êtres vivants qui s’associent durablement et de manière fusionnelle avec leurs hôtes. L’histoire de la parasitologie est ainsi racontée par un ver solitaire, le Kâma Sutra des parasites expliqué par le Diplozoon (un ver plat fixé sur les branchies de poissons) et les subtilités de l’enchevêtrement parasitaire (un parasite qui parasite un parasite qui…) débroussaillés par une guêpe.
+
+Ces précieux témoignages contribueront à distiller l’ensorcellement qu’exercent les parasites sur nous. Car entre les vers qui manipulent des insectes pour les pousser à se noyer afin de pouvoir s’extirper par leur anus, les tiques qui rendent végétariens ou encore les bébés moules qui vampirisent les poissons, les parasites repoussent toujours l’improbable sans jamais cesser de taquiner l’absolument gore. Et que dire des virus ? Ils poussent encore plus loin le vice en nous démontrant que nous pouvons dire merci aux parasites ! En effet, ils ont participé à l’évolution de notre lignée, et même contribué à modeler le vivant tel que nous le connaissons aujourd’hui.
+
+En refermant *Moi, parasite*, magnifiquement illustré par deux artistes de talent, Alain Prunier et Adrien Demilly, le lecteur ne verra plus les parasites du même œil !
 
 **Mon avis** : Pas encore lu.
 
