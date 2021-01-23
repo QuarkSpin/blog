@@ -687,7 +687,24 @@ Bref : peut-on tout faire dire aux chiffres, et si oui comment ? Évoquant de 
 
 **Mon avis** : Pas encore lu.
 
-{% include separator-invisible.html %}
+{% include separator.html %}
+
+![La formule du savoir]({{ site.baseurl }}/images/lectures/La formule du savoir.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) La formule du savoir
+{: .book-title}
+
+Une philosophie unifiée du savoir fondée sur le théorème de Bayes
+{: .book-subtitle}
+
+🖋️ Lê Nguyên Hoang
+{: .book-author}
+
+Ce livre explore et vulgarise une philosophie du savoir appelée bayésianisme. En s’appuyant sur les travaux de nombreux philosophes, mathématiciens, statisticiens, informaticiens, neuroscientifiques et chercheurs en intelligence artificielle, le livre défend la thèse selon laquelle le bayésianisme est la bonne philosophie du savoir — par opposition notamment aux descriptions usuelles de la méthode scientifique. En effet, notamment une fois combinée à l’algorithmique, cette épistémologie normative peut se vanter d’être universelle et complète.
+
+De plus, elle est consolidée par un très grand nombre de théorèmes mathématiques et de succès empiriques. S’il contient des passages techniques, la grande majorité de l’ouvrage se veut accessible à un large public. En particulier, aucune connaissance préalable n’est requise.
+
+**Mon avis** : Pas encore lu.
 
 ### Sciences naturelles
 
