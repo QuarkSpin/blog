@@ -6,7 +6,7 @@ collection: lectures
 entries_layout: grid
 ---
 
-Cette page présente les livres (non-fiction) que j’ai trouvé intéressants ou qui me semblent intéressants à lire.
+Cette page présente les livres (hors fiction) qui me semblent intéressants à lire.
 
 {% include toc %}
 
@@ -121,6 +121,25 @@ Through extraordinary revelations and extensive research that Ta-Nehisi Coates h
 As Jane Jacobs established in her classic *The Death and Life of Great American Cities*, it was the deeply flawed urban planning of the 1950s that created many of the impoverished neighborhoods we know. Now, Rothstein expands our understanding of this history, showing how government policies led to the creation of officially segregated public housing and the demolition of previously integrated neighborhoods. While urban areas rapidly deteriorated, the great American suburbanization of the post-World War II years was spurred on by federal subsidies for builders on the condition that no homes be sold to African Americans. Finally, Rothstein shows how police and prosecutors brutally upheld these standards by supporting violent resistance to black families in white neighborhoods.
 
 The Fair Housing Act of 1968 prohibited future discrimination but did nothing to reverse residential patterns that had become deeply embedded. Yet recent outbursts of violence in cities like Baltimore, Ferguson, and Minneapolis show us precisely how the legacy of these earlier eras contributes to persistent racial unrest. “The American landscape will never look the same to readers of this important book” (Sherrilyn Ifill, president of the NAACP Legal Defense Fund), as Rothstein’s invaluable examination shows that only by relearning this history can we finally pave the way for the nation to remedy its unconstitutional past.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Comprendre le pouvoir]({{ site.baseurl }}/images/lectures/Comprendre le pouvoir.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Comprendre le pouvoir
+{: .book-title}
+
+L’indispensable de Chomsky
+{: .book-subtitle}
+
+🖋️ Noam Chomsky
+{: .book-author}
+
+Les discussions et conférences rassemblées dans *Comprendre le pouvoir* donnent une perspective profonde et généreuse pour l’évaluation de l’état du monde et pour la compréhension du pouvoir, depuis le fonctionnement des médias modernes jusqu’à la globalisation, en passant par le système d’éducation, les crises environnementales, les stratégies militantes, le complexe militaro-industriel, et plus encore. *Comprendre le pouvoir* couvre ainsi toute l’étendue de la pensée de Chomsky, à laquelle il constitue la meilleure introduction qui soit.
+
+Ce qui distingue la pensée politique de Noam Chomsky n’est pas une vision nouvelle ou une seule idée synthétique. Sa grande contribution réside dans sa maîtrise d’une énorme quantité d’informations factuelles, et dans son habileté surprenante à démasquer, au cas par cas, les mécanismes et les tromperies des puissantes organisations du monde d’aujourd’hui. Sa méthode implique l’enseignement au moyen d’exemples incitant les gens à penser par eux-mêmes de façon critique. Comprendre le pouvoir épouse à merveille cette méthode en présentant, sous forme de dialogues clairs, une vue d’ensemble des réflexions de ce grand intellectuel états-unien.
 
 **Mon avis** : Pas encore lu.
 
@@ -327,6 +346,40 @@ Making Chastity Sexy sheds new light on an abstinence campaign that has successf
 
 **Mon avis** : Pas encore lu.
 
+### Histoire
+
+![Petit traité d'histoire des religions]({{ site.baseurl }}/images/lectures/Petit traite d'histoire des religions.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Petit traité d'histoire des religions
+{: .book-title}
+
+🖋️ Frederic Lenoir
+{: .book-author}
+
+Quelle est la toute première religion de l’humanité ? Comment sont apparues les notions de dieu, de sacrifice, de salut, de prière, de clergé ? Pourquoi est-on passé du culte de divinités féminines à celui de divinités masculines ? de la croyance en plusieurs dieux à la foi en un Dieu unique ? Pourquoi la violence est-elle souvent liée au sacré ? Qui sont les fondateurs des grandes traditions et quel est leur message ? Quelles sont les ressemblances et les différences fondamentales entre les religions ?
+
+Des premiers rituels funéraires aux grandes religions actuelles, Frédéric Lenoir explore l’univers foisonnant du sacré. Une question parcourt ce livre : à quoi servent les religions et pourquoi accompagnent-elles l’aventure humaine depuis l’aube des temps ?
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Pour en finir avec le Moyen Âge]({{ site.baseurl }}/images/lectures/Pour en finir avec le Moyen Age.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Pour en finir avec le Moyen Âge
+{: .book-title}
+
+🖋️ James Clear
+{: .book-author}
+
+Méprisés pendant des siècles, encensés par les romantiques, ces mille ans d’histoire ont presque toujours été recouverts de la crasse de l’ignorance. « Godiche » ne vient-il pas de « gothique » ? « Féodal » ne désigne-t-il pas l’obscurantisme le plus indécrottable ? « Moyenâgeux » les vieilleries poussiéreuses ?
+
+Grâce à ce livre décapant, mille ans d’histoire resurgissent. Le Moyen Âge est mort, vive le Moyen Âge !
+
+**Mon avis** : Pas encore lu.
+
+{% include separator-invisible.html %}
+
 ### Pensée critique
 
 ![Des têtes bien faites]({{ site.baseurl }}/images/lectures/Des tetes bien faites.jpg){: .book-cover}
@@ -371,6 +424,23 @@ Pourquoi les mythes du complot paraissent-ils envahir l’esprit de nos contempo
 Une introduction bienveillante à l’esprit critique.
 
 Débattre avec des arguments pertinents, exprimer efficacement ses opinions et questionner celles des autres avec bienveillance, cela ne s’improvise pas. Pour s’initier à l’art délicat d’exprimer son désaccord et à la pensée critique, le statisticien Nathan Uyttendaele et l’artiste Adelina Kulmakhanova vous proposent un ouvrage mélangeant savoir-faire et mise en scène humoristique des meilleures pratiques et de celles à éviter. À mettre dans toutes les mains !
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Total Bullshit !]({{ site.baseurl }}/images/lectures/Total bullshit.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Total Bullshit !
+{: .book-title}
+
+Au cœur de la post-vérité
+{: .book-subtitle}
+
+🖋️ Sebastian Dieguez
+{: .book-author}
+
+L’année 2016 a été consacrée comme celle de la « post-vérité ». Que faut-il comprendre par ce terme ? Selon le dictionnaire d’Oxford, qui en a fait son mot de l’année, le terme désignerait des « circonstances dans lesquelles les faits objectifs ont moins d’influence pour former l’opinion publique que l’appel à l’émotion et aux croyances personnelles ». Ce livre prend le parti de retourner à la source de cet état des lieux et l’identifie dans le concept de « bullshit » théorisé par le philosophe Harry Frankfurt en 1986. Ce qu’il a défini comme une « indifférence à l’égard de la vérité » distincte du mensonge s’avère en effet un outil conceptuel remarquablement efficace pour saisir comment l’opinion prétend l’emporter sur la vérité et pour comprendre le succès des impostures scientifiques et des « théories du complot ». L’ère de la post-vérité est bien celle du bullshit institué à une échelle globale, et seule une compréhension fine de ce phénomène permettra d’engager la lutte qui se prépare. Heureusement, une telle science du bullshit est en fait déjà disponible, mais il restait à l’assembler en un seul volume accessible, utile et stimulant.
 
 **Mon avis** : Pas encore lu.
 
@@ -501,6 +571,24 @@ De nos jours, chaque événement majeur (attentat terroriste, pandémie, mort de
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Santé, science, doit-on tout gober ?]({{ site.baseurl }}/images/lectures/Sante, science, doit-on tout gober.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Santé, science, doit-on tout gober ?
+{: .book-title}
+
+🖋️ Florian Gouthiere
+{: .book-author}
+
+« Une simple pommade antibiotique efficace à 100 % contre la maladie de Lyme ! » ; « Sinusite chronique : attention aux risques de cancer ! » ; « Le temps de sommeil moins important les soirs de pleine Lune ! » ; « Des scientifiques prouvent qu’il y aurait une vie après la mort ! » ; « Les mouches transmettent la peste ! » ; « Selon un cancérologue, il faut faire l’amour sans préservatif ! »…
+
+Gros titres de journaux, dépêches AFP, reportages TV fourmillent d’infos de ce genre, alarmistes, sensationnalistes… et généralement rigoureusement fausses. Alors, info ou intox ? Comment s’y retrouver dans l’information santé, et plus généralement scientifique ?
+
+L’ambition principale de ce petit livre est d’aider à diminuer les risques de nous faire berner. Il explique comment la plupart des connaissances qui arrivent jusqu’à nous sont produites et circulent, ainsi que les critères pour leur faire confiance ou s’en méfier. Pour y parvenir, il invite le lecteur à explorer, instruments de navigation à la main, plusieurs territoires faussement familiers : celui de notre jugement (chapitres consacrés aux méthodes de l’esprit critique), celui de nos idées reçues (chapitres consacrées à diverses notions indispensables en sciences et en santé) et celui de la fabrique de l’information.
+
+**Mon avis** : Pas encore lu.
+
 ### Intelligence Artificielle
 
 ![La voiture qui en savait trop]({{ site.baseurl }}/images/lectures/La voiture qui en savait trop.jpg){: .book-cover}
@@ -582,6 +670,24 @@ In her book The Mathematics of Love—and TEDxTalk of the same name—Dr. Hanna
 From evaluating the best strategies for online dating to defining the nebulous concept of beauty, Dr. Fry proves-with great insight, wit and fun—that maths is a surprisingly useful tool to negotiate the complicated, often baffling, sometimes infuriating, always interesting, patterns of love.
 
 **Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Statistiques : Méfiez-vous !]({{ site.baseurl }}/images/lectures/Statistiques Mefiez-vous.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Statistiques : Méfiez-vous !
+{: .book-title}
+
+🖋️ Nicolas Gauvrit
+{: .book-author}
+
+Comment montrer à partir des mêmes chiffres que les ouvriers gagnent plus et moins que les cadres ? Pourquoi les bus en bas de chez vous sont-ils systématiquement bondés alors qu’il y a statistiquement un tas de places vides ? Pourquoi certains sondages d’opinion, apparemment parlants, ne disent au fond rien sur les futurs résultats des élections ?
+
+Bref : peut-on tout faire dire aux chiffres, et si oui comment ? Évoquant de nombreux pièges, les multiples possibilités de manipulation régulièrement utilisées (sciemment ou non) par les acteurs des médias, cet ouvrage souhaite mettre en garde le lecteur qu’on essaie trop souvent de duper par l’autorité du chiffre.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator-invisible.html %}
 
 ### Sciences naturelles
 
@@ -734,6 +840,57 @@ An electrifying scientific history that unearths the dinosaurs’ epic saga, *Th
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![La théorie du chaos]({{ site.baseurl }}/images/lectures/La theorie du chaos.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) La théorie du chaos
+{: .book-title}
+
+🖋️ James Gleick
+{: .book-author}
+
+Turbulences, fluctuations, oscillations aléatoires, phénomènes complexes non maîtrisables : une population animale, l’écoulement d’un fluide, un organe biologique, un faisceau de particules, un orage atmosphérique, une économie nationale, autant de systèmes instables qu’on classait sous l’appellation commode de « chaos » avant que quelques scientifiques français et américains ne commencent à explorer le sujet dans les années 1970. A la surprise générale, le chaos s’est révélé gouverné par un ordre dynamique qui a permis d’expliquer bien des phénomènes naturels jusqu’ici totalement incompréhensibles.
+
+La théorie du chaos, dont ce livre vulgarise brillamment les divers aspects, a ouvert de nouvelles portes à la science depuis son éclosion ; elle a bouleversé la vision classique du monde et constitué une révolution comparable à ce que fut, au début du XXe siècle, la théorie de la relativité générale d’Einstein.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Les surdoués ordinaires]({{ site.baseurl }}/images/lectures/Les surdoues ordinaires.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Les surdoués ordinaires
+{: .book-title}
+
+🖋️ Nicolas Gauvrit
+{: .book-author}
+
+Nous nourissons souvent des théories bien tranchées sur les enfants (et les adultes) surdoués. On les méprise, on les encense, on est inquiet ou admiratif. Ils ont un gros cerveau, ils sont sensibles, ils ont de l’humour, ils échouent à l’école, ils décrochent souvent le prix Nobel, ils font des cauchemars, ils sont naïfs, ils ont un sens aigu de la justice. Toutes ces images sont-elles justes, ou bien sont-elles seulement le reflet de nos fantasmes et stéréotypes ? Ce livre passe en revue une série de questions et de théories psychologiques naïves à propos desquelles nous cultivons des croyances sur les enfants surdoués. Au travers d’une approche résolument scientifique, chaque thème est ainsi analysé. Certaines de nos représentations sont validées, d’autres sont connues pour être fausses. Pour un certain nombre, enfin, les travaux des chercheurs sont trop peu nombreux pour qu’on puisse raisonnablement trancher. Attendez-vous à avoir bientôt une vision plus nuancée, et largement plus optimiste, de l’aventure riche et variée qui attend généralement un enfant précoce dans notre monde si ordinaire.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Système 1 / Système 2]({{ site.baseurl }}/images/lectures/Systeme 1 Systeme 2.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Système 1 / Système 2
+{: .book-title}
+
+Les deux vitesses de la pensée
+{: .book-subtitle}
+
+🖋️ Daniel Kahneman
+{: .book-author}
+
+Comment pensons-nous ? Qu’est-ce qui guide nos préférences, nos jugements, nos décisions ? Quand faut-il ou non faire confiance à notre intuition ? Pourquoi agissons-nous souvent contre notre intérêt ? Telles sont quelques-unes des questions qui servent de fil rouge à cet ouvrage, dans lequel Daniel Kahneman nous emmène à la rencontre des deux « personnages » qui se partagent notre esprit.
+
+Le « Système 1 » est rapide, intuitif et émotionnel ; le « Système 2 » est plus lent, plus réfléchi, plus contrôlé et plus logique. Via de multiples expériences auxquelles le lecteur est invité à s’essayer lui-même, sont exposés les facultés extraordinaires de la pensée rapide, le rôle de l’émotion dans nos choix et nos jugements, mais aussi les ravages des partis pris et autres biais cognitifs dont nous sommes les jouets illusion de familiarité, effet de halo, biais optimiste, illusion de causalité, effet d’ancrage, illusion rétro-spective… — autant d’exemples de notre tendance à interpréter les événements en fonction de ce que nous connaissons déjà, du sens que nous souhaitons qu’ils aient, et de notre incapacité, inversement, à raisonner statistiquement, en acceptant l’idée de hasard.
+
+Fruit de toute une vie de recherche aux confins de la psychologie et de l’économie, *Système 1/Système 2* dessine une théorie brillante, qui offre des prolongements pratiques immédiats dans la vie quotidienne et professionnelle.
+
+**Mon avis** : Pas encore lu.
+
 ### Sciences sociales
 
 ![The End of Gender]({{ site.baseurl }}/images/lectures/The End of Gender.jpg){: .book-cover}
@@ -799,6 +956,31 @@ Graeber shows that arguments about debt and debt forgiveness have been at the ce
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Fooled by Randomness]({{ site.baseurl }}/images/lectures/Fooled by Randomness.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Fooled by Randomness
+{: .book-title}
+
+The Hidden Role of Chance in Life and in the Markets
+{: .book-subtitle}
+
+🖋️ Nassim Nicholas Taleb
+{: .book-author}
+
+*Fooled by Randomness* is the word-of-mouth sensation that will change the way you think about business and the world. Nassim Nicholas Taleb—veteran trader, renowned risk expert, polymathic scholar, erudite raconteur, and New York Times bestselling author of The Black Swan—has written a modern classic that turns on its head what we believe about luck and skill.
+
+This book is about luck—or more precisely, about how we perceive and deal with luck in life and business. Set against the backdrop of the most conspicuous forum in which luck is mistaken for skill—the world of trading—*Fooled by Randomness* provides captivating insight into one of the least understood factors in all our lives. Writing in an entertaining narrative style, the author tackles major intellectual issues related to the underestimation of the influence of happenstance on our lives.
+
+The book is populated with an array of characters, some of whom have grasped, in their own way, the significance of chance: the baseball legend Yogi Berra; the philosopher of knowledge Karl Popper; the ancient world’s wisest man, Solon; the modern financier George Soros; and the Greek voyager Odysseus. We also meet the fictional Nero, who seems to understand the role of randomness in his professional life but falls victim to his own superstitious foolishness.
+
+However, the most recognizable character of all remains unnamed—the lucky fool who happens to be in the right place at the right time—he embodies the “survival of the least fit.” Such individuals attract devoted followers who believe in their guru’s insights and methods. But no one can replicate what is obtained by chance.
+
+Are we capable of distinguishing the fortunate charlatan from the genuine visionary? Must we always try to uncover nonexistent messages in random events? It may be impossible to guard ourselves against the vagaries of the goddess Fortuna, but after reading *Fooled by Randomness* we can be a little better prepared.
+
+**Mon avis** : Pas encore lu.
+
 ### Société
 
 ![White Fragility]({{ site.baseurl }}/images/lectures/White Fragility.jpg){: .book-cover}
@@ -839,11 +1021,53 @@ As indispensable as it is gripping, *The Future Is Faster Than You Think* provid
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Beauté fatale]({{ site.baseurl }}/images/lectures/Beaute fatale.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Beauté fatale
+{: .book-title}
+
+Les nouveaux visages d'une aliénation féminine
+{: .book-subtitle}
+
+🖋️ Mona Chollet
+{: .book-author}
+
+Comment les industries du « complexe mode-beauté » travaillent aujourd’hui à entretenir, sur un mode insidieux et séduisant, la logique sexiste au cœur de la sphère culturelle. Le corps féminin est sommé de devenir un produit, de se perfectionner pour mieux se vendre.
+
+Soutiens-gorge rembourrés pour fillettes, obsession de la minceur, banalisation de la chirurgie esthétique, prescription insistante du port de la jupe comme symbole de libération : la « tyrannie du look » affirme aujourd’hui son emprise pour imposer la féminité la plus stéréotypée. Décortiquant presse féminine, discours publicitaires, blogs, séries télévisées, témoignages de mannequins et enquêtes sociologiques, Mona Chollet montre dans ce livre comment les industries du « complexe mode-beauté » travaillent à maintenir, sur un mode insidieux et séduisant, la logique sexiste au cœur de la sphère culturelle.
+
+Sous le prétendu culte de la beauté prospère une haine de soi et de son corps, entretenue par le matraquage de normes inatteignables. Un processus d’autodévalorisation qui alimente une anxiété constante au sujet du physique en même temps qu’il condamne les femmes à ne pas savoir exister autrement que par la séduction, les enfermant dans un état de subordination permanente. En ce sens, la question du corps pourrait bien constituer la clé d’une avancée des droits des femmes sur tous les autres plans, de la lutte contre les violences à celle contre les inégalités au travail.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Outliers]({{ site.baseurl }}/images/lectures/Outliers.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Outliers
+{: .book-title}
+
+The Story of Success
+{: .book-subtitle}
+
+🖋️ Malcolm Gladwell
+{: .book-author}
+
+In this stunning book, Malcolm Gladwell takes us on an intellectual journey through the world of “outliers”—the best and the brightest, the most famous and the most successful. He asks the question: what makes high-achievers different?
+
+His answer is that we pay too much attention to what successful people are like, and too little attention to where they are from: that is, their culture, their family, their generation, and the idiosyncratic experiences of their upbringing. Along the way he explains the secrets of software billionaires, what it takes to be a great soccer player, why Asians are good at math, and what made the Beatles the greatest rock band.
+
+Brilliant and entertaining, *Outliers* is a landmark work that will simultaneously delight and illuminate.
+
+**Mon avis** : Pas encore lu.
+
 ### Récits
 
 ![Sur ordre de Dieu]({{ site.baseurl }}/images/lectures/Sur ordre de Dieu.jpg){: .book-cover}
 
-![UK]({{ site.baseurl }}/images/uk-flag.svg) Sur ordre de Dieu
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Sur ordre de Dieu
 {: .book-title}
 
 Double meurtre au pays des Mormons
@@ -887,7 +1111,28 @@ Written with a sparkling voice and breakneck pace, *The Radium Girls* fully illu
 
 **Mon avis** : Pas encore lu.
 
-### Style de vie
+### Cinéma
+
+![L'anatomie du scénario]({{ site.baseurl }}/images/lectures/l-anatomie-du-scanario.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) L'anatomie du scénario
+{: .book-title}
+
+Comment devenir un scénariste hors pair
+{: .book-subtitle}
+
+🖋️ John Truby
+{: .book-author}
+
+Raconter une histoire ne s’improvise pas. La narration est un artisanat qui, avant de pouvoir prétendre à l’art, exige le respect de règles que John Truby a rassemblées dans cette Anatomie du scénario.
+
+Sa méthode unique nous fait entrer dans les secrets de fabrication de ce qui constitue la condition première de la réussite d’un film : une bonne histoire, et nous guide pas à pas dans la construction des personnages, de l’intrigue, de l’univers du récit, des dialogues, en détaillant les vingt-deux étapes incontournables dans l’écriture d’un bon scénario.
+
+Dans cette nouvelle édition, augmentée de questions/réponses tirées de ses master class avec ses étudiants français, et toujours plus tournée vers la pratique, vous apprendrez comment résoudre les problèmes spécifiques du scénariste, qu’il écrive pour le cinéma ou la télé, à partir d’exemples analysés en profondeur, allant des plus classiques (Casablanca, La Vie est belle, Le Parrain) aux plus récents (Un prophète, L’Arnacœur, Breaking Bad ou Star Wars).
+
+**Mon avis** : Pas encore lu.
+
+### Développement personnel
 
 ![Goodbye, Things]({{ site.baseurl }}/images/lectures/Goodbye, Things.jpg){: .book-cover}
 
@@ -926,5 +1171,55 @@ He calls them atomic habits.
 In this ground-breaking book, Clears reveals exactly how these minuscule changes can grow into such life-altering outcomes. He uncovers a handful of simple life hacks (the forgotten art of Habit Stacking, the unexpected power of the Two Minute Rule, or the trick to entering the Goldilocks Zone), and delves into cutting-edge psychology and neuroscience to explain why they matter. Along the way, he tells inspiring stories of Olympic gold medalists, leading CEOs, and distinguished scientists who have used the science of tiny habits to stay productive, motivated, and happy.
 
 These small changes will have a revolutionary effect on your career, your relationships, and your life.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![So Good They Can't Ignore You]({{ site.baseurl }}/images/lectures/So Good They Can't Ignore You.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) So Good They Can't Ignore You
+{: .book-title}
+
+Why Skills Trump Passion in the Quest for Work You Love
+{: .book-subtitle}
+
+🖋️ Cal Newport
+{: .book-author}
+
+“Follow your passion” is bad career advice. Find out what you should do instead…
+
+In *So Good They Can’t Ignore You*, Cal Newport sets out on a quest to discover the reality of how people end up loving what they do. Spending time with organic farmers, venture capitalists, screenwriters, freelance computer programmers, and others who admitted to deriving great satisfaction from their work, Newport debunks the long-held belief that “following your passion” is the key to satisfaction. Drawing from these real life examples and cutting edge science, he details the alternative strategies that work much better for developing a compelling career.
+
+*So Good They Can’t Ignore You* is or anyone fretting about what to do with their life, or frustrated by simplistic slogans like “do what you love and the money will follow”. It will change the way you think about your career, happiness and the crafting of a remarkable life.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![The War of Art]({{ site.baseurl }}/images/lectures/The War of Art.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The War of Art
+{: .book-title}
+
+Break Through the Blocks and Win Your Inner Creative
+{: .book-subtitle}
+
+🖋️ Steven Pressfield
+{: .book-author}
+
+A succinct, engaging, and practical guide for succeeding in any creative sphere, The War of Art is nothing less than Sun-Tzu for the soul.
+
+What keeps so many of us from doing what we long to do?
+
+Why is there a naysayer within? How can we avoid the roadblocks of any creative endeavor—be it starting up a dream business venture, writing a novel, or painting a masterpiece?
+
+Bestselling novelist Steven Pressfield identifies the enemy that every one of us must face, outlines a battle plan to conquer this internal foe, then pinpoints just how to achieve the greatest success.
+
+The War of Art emphasizes the resolve needed to recognize and overcome the obstacles of ambition and then effectively shows how to reach the highest level of creative discipline.
+
+Think of it as tough love… for yourself.
+
+Whether an artist, writer or business person, this simple, personal, and no-nonsense book will inspire you to seize the potential of your life.
 
 **Mon avis** : Pas encore lu.
