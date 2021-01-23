@@ -1149,6 +1149,24 @@ Dans cette nouvelle édition, augmentée de questions/réponses tirées de ses m
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Qu'est-ce qu'un bon film ?]({{ site.baseurl }}/images/lectures/Qu'est-ce qu'un bon film.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Qu'est-ce qu'un bon film ?
+{: .book-title}
+
+🖋️ Laurent Jullier
+{: .book-author}
+
+— J’ai adoré.
+
+— Tu es fou ? C’était mauvais.
+
+Au cinéma, nous n’avons pas tous les mêmes goûts. Il existe quantité de raisons de s’enthousiasmer pour un film (ou de bâiller devant lui), et ce livre en fait le tour. Il ne tranche pas. Quels que soient mes goûts et ceux de mon voisin, je n’ai pas à me sentir inférieur ni supérieur à lui. Même s’il fait la moue quand je lui dis quel est mon film préféré. D’ailleurs la recette du bon film n’existe pas, sinon les réalisateurs l’appliqueraient depuis longtemps. Tout le monde fait de son mieux, de chaque côté de l’écran. Ce n’est pas facile. On ne sait pas toujours dire à l’avance quelles qualités un film doit posséder pour nous plaire. Et en sortant de la séance, on ne sait pas toujours quoi dire. *Qu’est-ce qu’un bon film ?* dédramatise la question. Acceptons nos différences.
+
+**Mon avis** : Pas encore lu.
+
 ### Développement personnel
 
 ![Goodbye, Things]({{ site.baseurl }}/images/lectures/Goodbye, Things.jpg){: .book-cover}
