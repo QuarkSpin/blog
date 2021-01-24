@@ -1047,6 +1047,31 @@ The End of Gender is a conversation-starting work that will challenge what you t
 
 {% include separator.html %}
 
+![The Myth of Mars and Venus]({{ site.baseurl }}/images/lectures/The Myth of Mars and Venus.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Myth of Mars and Venus
+{: .book-title}
+
+Do men and women really speak different languages?
+{: .book-subtitle}
+
+🖋️ Deborah Cameron
+{: .book-author}
+
+Popular assumptions about gender and communication - famously summed up in the title of the massively influential 1992 bestseller *Men Are From Mars, Women Are From Venus* - can have unforeseen but far-reaching consequences in many spheres of life, from attitudes to the phenomenon of 'date-rape' to expectations of achievement at school, and potential discrimination in the work-place.
+
+In this wide-ranging and thoroughly readable book, Deborah Cameron, Rupert Murdoch Professor of Language and Communication at Oxford University and author of a number of leading texts in the field of language and gender studies, draws on over 30 years of scientific research to explain what we really know and to demonstrate how this is often very different from the accounts we are familiar with from recent popular writing.
+
+Ambitious in scope and exceptionally accessible, *The Myth of Mars and Venus* tells it like it is: widely accepted attitudes from the past and from other cultures are at heart related to assumptions about language and the place of men and women in society; and there is as much similarity and variation within each gender as between men and women, often associated with social roles and relationships.
+
+The author goes on to consider the influence of Darwinian theories of natural selection and the notion that girls and boys are socialized during childhood into different ways of using language, before addressing problems of 'miscommunication' surrounding, for example, sex and consent to sex, and women's relative lack of success in work and politics.
+
+Arguing that what linguistic differences there are between men and women are driven by the need to construct and project personal meaning and identity, Cameron concludes that we have an urgent need to think about gender in more complex ways than the prevailing myths and stereotypes allow. A compelling and insightful read for anyone with an interest in communication, language, and the sexes.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
 ![The Tyranny of Merit]({{ site.baseurl }}/images/lectures/The Tyranny of Merit.jpg){: .book-cover}
 
 ![UK]({{ site.baseurl }}/images/uk-flag.svg) The Tyranny of Merit
