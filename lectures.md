@@ -367,6 +367,29 @@ Making Chastity Sexy sheds new light on an abstinence campaign that has successf
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Leaving the Fold]({{ site.baseurl }}/images/lectures/Leaving the Fold.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Leaving the Fold
+{: .book-title}
+
+A Guide for Former Fundamentalists and Others Leaving Their Religion
+{: .book-subtitle}
+
+🖋️ Marlene Winell
+{: .book-author}
+
+Psychologist Marlene Winell is uniquely qualified to address the subject of this book. In addition to her personal experience with leaving fundamentalist religion, she has worked with clients recovering from religion for 28 years. She is known for coining the term Religious Trauma Syndrome.
+
+*Leaving the Fold* is a self-help book that examines the effects of authoritarian religion (fundamentalist Christianity in particular) on individuals who leave the faith. The concrete steps for healing are useful for anyone in recovery from toxic religion.
+
+In this book you'll discover: what you can expect about stages of religious recovery, information about the key issues of recovery, relevant family dynamics, the power of manipulations, motivations for belonging and for leaving religion, specific steps for healing and reclaiming life, further steps for rebuilding life in the present.
+
+*Leaving the Fold* is the only self-help psychology book on the subject of religious recovery. The accessible, compassionate writing is ideal for the reader who needs clear information and concrete help.
+
+**Mon avis** : Pas encore lu.
+
 ### Histoire
 
 ![Petit traité d'histoire des religions]({{ site.baseurl }}/images/lectures/Petit traite d'histoire des religions.jpg){: .book-cover}
