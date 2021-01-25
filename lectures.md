@@ -434,6 +434,20 @@ Pourquoi les mythes du complot paraissent-ils envahir l’esprit de nos contempo
 
 {% include separator.html %}
 
+![Apocalypse cognitive]({{ site.baseurl }}/images/lectures/Apocalypse cognitive.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Apocalypse cognitive
+{: .book-title}
+
+🖋️ Gérald Bronner
+{: .book-author}
+
+La situation est inédite. Jamais, dans l’histoire de l’humanité, nous n’avons disposé d’autant d’informations et jamais nous n’avons eu autant de temps libre pour y puiser loisir et connaissance du monde. Nos prédécesseurs en avaient rêvé : la science et la technologie libéreraient l’humanité. Mais ce rêve risque désormais de tourner au cauchemar. Le déferlement d’informations a entraîné une concurrence généralisée de toutes les idées, une dérégulation du « marché cognitif » qui a une fâcheuse conséquence : capter, souvent pour le pire, le précieux trésor de notre attention. Nos esprits subissent l’envoûtement des écrans et s’abandonnent aux mille visages de la déraison. Victime d’un pillage en règle, notre esprit est au cœur d’un enjeu dont dépend notre avenir. Ce contexte inquiétant dévoile certaines des aspirations profondes de l’humanité. L’heure de la confrontation avec notre propre nature aurait-elle sonné ? De la façon dont nous réagirons dépendront les possibilités d’échapper à ce qu’il faut bien appeler une menace civilisationnelle. C’est le récit de cet enjeu historique que propose le nouveau livre événement de Gérald Bronner. 
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
 ![L’art d’exprimer son désaccord sans se fâcher]({{ site.baseurl }}/images/lectures/L-Art-d-exprimer-son-desaccord-sans-se-facher.jpg){: .book-cover}
 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) L’art d’exprimer son désaccord sans se fâcher
@@ -1137,6 +1151,22 @@ Are we capable of distinguishing the fortunate charlatan from the genuine vision
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Espaces et temps du jeu vidéo]({{ site.baseurl }}/images/lectures/Espaces et temps du jeu video.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Espaces et temps du jeu vidéo
+{: .book-title}
+
+🖋️ Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux
+{: .book-author}
+
+Explorer les confins de la galaxie, des donjons sinistres ou des pays enchantés, vivre au temps des croisades ou rejouer l'issue de la guerre froide, bâtir des villes ou des empires millénaires... au point d'en oublier parfois sa famille, la fatigue ou la faim. Tout jeu vidéo est une invitation au voyage. Les jeux vidéo sont des univers dans lesquels les joueurs plongent, s'immergent, voire s'enferment, pour vivre des aventures hors du temps et de l'espace quotidiens.
+
+Cette divergence, cette annulation, voire cette inversion du temps s'accompagnent du déploiement d'un espace de l'autre côté de l'écran. Comment cet espace-temps vidéoludique s'articule-t-il avec l'espace-temps du quotidien ? Et quelles sont les spatialités et les temporalités que les jeux vidéo déploient ? Cet ouvrage fait converger autour de ces questions les réflexions d'auteurs de diverses sciences humaines et sociales, de la géographie aux études littéraires en passant par l'anthropologie et la philosophie.
+
+**Mon avis** : Pas encore lu.
+
 ### Société
 
 ![White Fragility]({{ site.baseurl }}/images/lectures/White Fragility.jpg){: .book-cover}
@@ -1303,6 +1333,72 @@ Dans cette nouvelle édition, augmentée de questions/réponses tirées de ses m
 — Tu es fou ? C’était mauvais.
 
 Au cinéma, nous n’avons pas tous les mêmes goûts. Il existe quantité de raisons de s’enthousiasmer pour un film (ou de bâiller devant lui), et ce livre en fait le tour. Il ne tranche pas. Quels que soient mes goûts et ceux de mon voisin, je n’ai pas à me sentir inférieur ni supérieur à lui. Même s’il fait la moue quand je lui dis quel est mon film préféré. D’ailleurs la recette du bon film n’existe pas, sinon les réalisateurs l’appliqueraient depuis longtemps. Tout le monde fait de son mieux, de chaque côté de l’écran. Ce n’est pas facile. On ne sait pas toujours dire à l’avance quelles qualités un film doit posséder pour nous plaire. Et en sortant de la séance, on ne sait pas toujours quoi dire. *Qu’est-ce qu’un bon film ?* dédramatise la question. Acceptons nos différences.
+
+**Mon avis** : Pas encore lu.
+
+### Jeux-vidéo
+
+![Blood, Sweat, and Pixels]({{ site.baseurl }}/images/lectures/Blood, Sweat, and Pixels.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Blood, Sweat, and Pixels
+{: .book-title}
+
+The Triumphant, Turbulent Stories Behind How Video Games Are Made
+{: .book-subtitle}
+
+🖋️ Jason Schreier
+{: .book-author}
+
+Developing video games—hero’s journey or fool’s errand? The creative and technical logistics that go into building today’s hottest games can be more harrowing and complex than the games themselves, often seeming like an endless maze or a bottomless abyss. In *Blood, Sweat, and Pixels*, Jason Schreier takes readers on a fascinating odyssey behind the scenes of video game development, where the creator may be a team of 600 overworked underdogs or a solitary geek genius. Exploring the artistic challenges, technical impossibilities, marketplace demands, and Donkey Kong-sized monkey wrenches thrown into the works by corporate, *Blood, Sweat, and Pixels* reveals how bringing any game to completion is more than Sisyphean—it’s nothing short of miraculous.
+
+Taking some of the most popular, bestselling recent games, Schreier immerses readers in the hellfire of the development process, whether it’s RPG studio Bioware’s challenge to beat an impossible schedule and overcome countless technical nightmares to build *Dragon Age: Inquisition*; indie developer Eric Barone’s single-handed efforts to grow country-life RPG *Stardew Valley* from one man’s vision into a multi-million-dollar franchise; or Bungie spinning out from their corporate overlords at Microsoft to create *Destiny*, a brand new universe that they hoped would become as iconic as *Star Wars* and *Lord of the Rings*—even as it nearly ripped their studio apart.
+
+Documenting the round-the-clock crunches, buggy-eyed burnout, and last-minute saves, *Blood, Sweat, and Pixels* is a journey through development hell—and ultimately a tribute to the dedicated diehards and unsung heroes who scale mountains of obstacles in their quests to create the best games imaginable.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Press Reset]({{ site.baseurl }}/images/lectures/Press Reset.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Press Reset
+{: .book-title}
+
+Ruin and Recovery in the Video Game Industry
+{: .book-subtitle}
+
+🖋️ Jason Schreier
+{: .book-author}
+
+From the bestselling author of *Blood, Sweat, and Pixels* comes the next definitive, behind-the-scenes account of the video game industry: how some of the past decade’s most renowned studios fell apart—and the stories, both triumphant and tragic, of what happened next.
+
+Jason Schreier’s groundbreaking reporting has earned him a place among the preeminent investigative journalists covering the world of video games. In his eagerly anticipated, deeply researched new book, Schreier trains his investigative eye on the volatility of the video game industry and the resilience of the people who work in it.
+
+The business of videogames is both a prestige industry and an opaque one. Based on dozens of first-hand interviews that cover the development of landmark games—*Bioshock Infinite*, *Epic Mickey*, *Dead Space*, and more—on to the shocking closures of the studios that made them, *Press Reset* tells the stories of how real people are affected by game studio shutdowns, and how they recover, move on, or escape the industry entirely.
+
+Schreier’s insider interviews cover hostile takeovers, abusive bosses, corporate drama, bounced checks, and that one time the Boston Red Sox’s Curt Schilling decided he was going to lead a game studio that would take out *World of Warcraft*. Along the way, he asks pressing questions about why, when the video game industry is more successful than ever, it’s become so hard to make a stable living making video games—and whether the business of making games can change before it’s too late.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Philosophie des jeux vidéo]({{ site.baseurl }}/images/lectures/Philosophie des jeux video.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Philosophie des jeux vidéo
+{: .book-title}
+
+🖋️ Mathieu Triclot
+{: .book-author}
+
+*Philosophie des jeux vidéo* se propose d'analyser la spécificité technique et esthétique du média, d'explorer les principaux lieux où l'expérience contemporaine du jeu vidéo s'est façonnée et de disséquer les investissements politiques du " sujet vidéoludique " à l'âge de la marchandise animée.
+
+Vous êtes face à un jeu vidéo. Vous pressez les touches, déplacez la souris, appuyez en cadence sur les boutons du pad. Qu'est-ce qui se produit alors ? Quel est cet état si particulier, à la limite du vertige et de l'hallucination ?
+
+Depuis les premiers hackers, qui programmaient la nuit sur les ordinateurs géants d'universités américaines, jusqu'à la console de salon, en passant par la salle d'arcade des années 1970, ce qui s'est à chaque fois inventé, au fil de l'histoire des jeux vidéo, ce sont de nouvelles liaisons à la machine, de nouvelles manières de jouir de l'écran.
+
+On aurait tort de négliger ces petits objets qui ressemblent fort à de simples gadgets : ils concentrent en fait les logiques les plus puissantes du capitalisme informationnel. Et ceci parce qu'ils combinent, comme aucune autre forme culturelle, désir, marchandise et information.
+
+Les jeux vidéo sont de petites poussières de rêve grâce auxquelles le capitalisme se secoue de son grand sommeil mais ce sont aussi des miroirs brisés qui renvoient une image complexe de la subjectivité contemporaine : en s'y intensifiant, les logiques du management informationnel y redeviennent visibles, accessibles à la critique, actionnables, reconfigurables, jouables.
 
 **Mon avis** : Pas encore lu.
 
