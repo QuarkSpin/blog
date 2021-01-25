@@ -1402,6 +1402,31 @@ Les jeux vidéo sont de petites poussières de rêve grâce auxquelles le capita
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Power-Up]({{ site.baseurl }}/images/lectures/Power-Up.png){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Power-Up
+{: .book-title}
+
+How Japanese Video Games Gave the World an Extra Life
+{: .book-subtitle}
+
+🖋️ Chris Kohler
+{: .book-author}
+
+BradyGames’ *Power-Up: How Japanese Video Games Gave the World an Extra Life*, by Chris Kohler, is a unique book that gives readers an entertaining and authoritative look at the indelible influence the video gaming, particularly, Japanese gaming, has had on the world. *Power-Up* is the first English-language work of its kind to examine the reasons behind the success of Japanese video games, rather than focusing on the history of video games. Just some of the features readers will find in this book include:
+
+Profiles of some of the most fascinating Japanese video game designers in the industry, along with a critical look at Japanese video games from their earliest beginnings to new, exciting trends that ride the bleeding edge of popular culture.
+
+Explanations on why Japanese video games are unique and why they resonate so well with young American players.
+
+Fresh insight into classic Japanese video games and the elements that made them so different from American games, the origin of Nintendo, Japan’s oldest and largest video game producer, Japanese Role-Playing Games, and much more!
+
+In addition, the future of the Japanese gaming industry is also explored.
+
+**Mon avis** : Pas encore lu.
+
 ### Développement personnel
 
 ![Goodbye, Things]({{ site.baseurl }}/images/lectures/Goodbye, Things.jpg){: .book-cover}
