@@ -101,6 +101,48 @@ Après plusieurs années de recherches et d’enseignement, Thibaut Giraud a cr�
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![The Socrates Express]({{site.baseurl}}/images/lectures/The Socrates Express.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) The Socrates Express
+{: .book-title}
+
+In Search of Life Lessons from Dead Philosophers
+{: .book-subtitle}
+
+🖋️ Eric Weiner
+{: .book-author}
+
+We turn to philosophy for the same reasons we travel: to see the world from a dif­ferent perspective, to unearth hidden beauty, and to find new ways of being. We want to learn how to embrace wonder. Face regrets. Sustain hope.
+
+Eric Weiner combines his twin passions for philosophy and global travel in a pil­grimage that uncovers surprising life lessons from great thinkers around the world, from Rousseau to Nietzsche, Confucius to Simone Weil. Traveling by train (the most thoughtful mode of transport), he journeys thousands of miles, making stops in Athens, Delhi, Wyoming, Coney Island, Frankfurt, and points in between to recon­nect with philosophy’s original purpose: teaching us how to lead wiser, more meaningful lives. From Socrates and ancient Athens to Simone de Beauvoir and twentieth-century Paris, Weiner’s chosen philosophers and places provide important signposts as we navigate today’s chaotic times.
+
+In *The Socrates Express*, Weiner invites us to voyage alongside him on his life-changing pursuit of wisdom and discovery as he attempts to find answers to our most vital questions.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Lost in Thought]({{site.baseurl}}/images/lectures/Lost in Thought.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) Lost in Thought
+{: .book-title}
+
+The Hidden Pleasures of an Intellectual Life
+{: .book-subtitle}
+
+🖋️ Zena Hitz
+{: .book-author}
+
+In an overloaded, superficial, technological world, in which almost everything and everybody is judged by its usefulness, where can we turn for escape, lasting pleasure, contemplation, or connection to others? While many forms of leisure meet these needs, Zena Hitz writes, few experiences are so fulfilling as the inner life, whether that of a bookworm, an amateur astronomer, a birdwatcher, or someone who takes a deep interest in one of countless other subjects. Drawing on inspiring examples, from Socrates and Augustine to Malcolm X and Elena Ferrante, and from films to Hitz's own experiences as someone who walked away from elite university life in search of greater fulfillment, *Lost in Thought* is a passionate and timely reminder that a rich life is a life rich in thought.
+
+Today, when even the humanities are often defended only for their economic or political usefulness, Hitz says our intellectual lives are valuable not despite but because of their practical uselessness. And while anyone can have an intellectual life, she encourages academics in particular to get back in touch with the desire to learn for its own sake, and calls on universities to return to the person-to-person transmission of the habits of mind and heart that bring out the best in us.
+
+Reminding us of who we once were and who we might become, *Lost in Thought* is a moving account of why renewing our inner lives is fundamental to preserving our humanity.
+
+**Mon avis** : Pas encore lu.
+
 ### Éthique
 
 ![Ethics in the Real World]({{site.baseurl}}/images/lectures/Ethics in the Real World.jpg){: .book-cover}
@@ -173,7 +215,24 @@ Grâce à ce livre décapant, mille ans d’histoire resurgissent. Le Moyen Âge
 
 **Mon avis** : Pas encore lu.
 
-{% include separator-invisible.html %}
+{% include separator.html %}
+
+![Land]({{ site.baseurl }}/images/lectures/Land.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Land
+{: .book-title}
+
+How the Hunger for Ownership Shaped the Modern World
+{: .book-subtitle}
+
+🖋️ Simon Winchester
+{: .book-author}
+
+Land—whether meadow or mountainside, desert or peat bog, parkland or pasture, suburb or city—is central to our existence. It quite literally underlies and underpins everything. Employing the keen intellect, insatiable curiosity, and narrative verve that are the foundations of his previous bestselling works, Simon Winchester examines what we human beings are doing—and have done—with the billions of acres that together make up the solid surface of our planet.
+
+*Land: How the Hunger for Ownership Shaped the Modern World* examines in depth how we acquire land, how we steward it, how and why we fight over it, and finally, how we can, and on occasion do, come to share it. Ultimately, Winchester confronts the essential question: who actually owns the world’s land—and why does it matter?
+
+**Mon avis** : Pas encore lu.
 
 ### Christianisme
 
@@ -442,7 +501,7 @@ Pourquoi les mythes du complot paraissent-ils envahir l’esprit de nos contempo
 🖋️ Gérald Bronner
 {: .book-author}
 
-La situation est inédite. Jamais, dans l’histoire de l’humanité, nous n’avons disposé d’autant d’informations et jamais nous n’avons eu autant de temps libre pour y puiser loisir et connaissance du monde. Nos prédécesseurs en avaient rêvé : la science et la technologie libéreraient l’humanité. Mais ce rêve risque désormais de tourner au cauchemar. Le déferlement d’informations a entraîné une concurrence généralisée de toutes les idées, une dérégulation du « marché cognitif » qui a une fâcheuse conséquence : capter, souvent pour le pire, le précieux trésor de notre attention. Nos esprits subissent l’envoûtement des écrans et s’abandonnent aux mille visages de la déraison. Victime d’un pillage en règle, notre esprit est au cœur d’un enjeu dont dépend notre avenir. Ce contexte inquiétant dévoile certaines des aspirations profondes de l’humanité. L’heure de la confrontation avec notre propre nature aurait-elle sonné ? De la façon dont nous réagirons dépendront les possibilités d’échapper à ce qu’il faut bien appeler une menace civilisationnelle. C’est le récit de cet enjeu historique que propose le nouveau livre événement de Gérald Bronner. 
+La situation est inédite. Jamais, dans l’histoire de l’humanité, nous n’avons disposé d’autant d’informations et jamais nous n’avons eu autant de temps libre pour y puiser loisir et connaissance du monde. Nos prédécesseurs en avaient rêvé : la science et la technologie libéreraient l’humanité. Mais ce rêve risque désormais de tourner au cauchemar. Le déferlement d’informations a entraîné une concurrence généralisée de toutes les idées, une dérégulation du « marché cognitif » qui a une fâcheuse conséquence : capter, souvent pour le pire, le précieux trésor de notre attention. Nos esprits subissent l’envoûtement des écrans et s’abandonnent aux mille visages de la déraison. Victime d’un pillage en règle, notre esprit est au cœur d’un enjeu dont dépend notre avenir. Ce contexte inquiétant dévoile certaines des aspirations profondes de l’humanité. L’heure de la confrontation avec notre propre nature aurait-elle sonné ? De la façon dont nous réagirons dépendront les possibilités d’échapper à ce qu’il faut bien appeler une menace civilisationnelle. C’est le récit de cet enjeu historique que propose le nouveau livre événement de Gérald Bronner.
 
 **Mon avis** : Pas encore lu.
 
@@ -740,6 +799,47 @@ D’où vient l’argent que me prête la banque ? Qu’appelle-t-on la dette 
 Avec pédagogie et humour, en s’appuyant sur des infographies éclairantes, Gilles Mitteau nous explique tout d’un système omniprésent dans nos vies. Une lecture nécessaire pour mieux appréhender les enjeux actuels — emprise de la finance, crise écologique, dépendance énergétique — afin d’interroger les règles que le capitalisme a érigées en lois immuables et qu’il est urgent de remettre en cause aujourd’hui.
 
 Après avoir été trader à Wall Street, Gilles Mitteau est devenu vulgarisateur afin de combattre les préjugés sur l’économie et la finance. Soucieux de former le grand public à ces deux disciplines réputées ardues et impopulaires, il crée en 2015 une chaîne YouTube baptisée Heu?reka, qui connaît un véritable succès et compte plus de 200 000 abonnés.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![The Infinite Game]({{site.baseurl}}/images/lectures/The Infinite Game.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) The Infinite Game
+{: .book-title}
+
+🖋️ Simon Sinek
+{: .book-author}
+
+How do we win a game that has no end? Finite games, like football or chess, have known players, fixed rules and a clear endpoint. The winners and losers are easily identified. Infinite games, games with no finish line, like business or politics, or life itself, have players who come and go. The rules of an infinite game are changeable while infinite games have no defined endpoint. There are no winners or losers—only ahead and behind.
+
+The question is, how do we play to succeed in the game we’re in?
+
+In this revelatory new book, Simon Sinek offers a framework for leading with an infinite mindset. On one hand, none of us can resist the fleeting thrills of a promotion earned or a tournament won, yet these rewards fade quickly. In pursuit of a Just Cause, we will commit to a vision of a future world so appealing that we will build it week after week, month after month, year after year. Although we do not know the exact form this world will take, working toward it gives our work and our life meaning.
+
+Leaders who embrace an infinite mindset build stronger, more innovative, more inspiring organizations. Ultimately, they are the ones who lead us into the future.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Arguing with Zombies]({{site.baseurl}}/images/lectures/Arguing with Zombies.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) Arguing with Zombies
+{: .book-title}
+
+Economics, Politics, and the Fight for a Better Future
+{: .book-subtitle}
+
+🖋️ Paul Krugman
+{: .book-author}
+
+There is no better guide to basic economics than Nobel Prize-winning economist and New York Times columnist Paul Krugman. Likewise, there is no stronger foe of zombie economics, the misunderstandings that just won’t die.
+
+In *Arguing with Zombies*, Krugman tackles many of these misunderstandings in a series of concise, digestible chapters. With quick, vivid sketches, this New York Times bestseller turns readers into intelligent consumers of the daily news and unlocks the concepts behind the greatest economic policy issues of our time.
+
+*Arguing with Zombies* is an indispensable guide to two decades’ worth of political and economic discourse in the United States and around the globe. Writing at the height of his powers, Krugman delivers an instant classic that can serve as a reference point for this and future generations.
 
 **Mon avis** : Pas encore lu.
 
@@ -1285,6 +1385,86 @@ En refermant *Moi, parasite*, magnifiquement illustré par deux artistes de tale
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Welcome to the Universe]({{site.baseurl}}/images/lectures/Welcome to the Universe.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) Welcome to the Universe
+{: .book-title}
+
+An Astrophysical Tour
+{: .book-subtitle}
+
+🖋️ Neil deGrasse Tyson, Michael Strauss, J. Richard Gott
+{: .book-author}
+
+*Welcome to the Universe* is a personal guided tour of the cosmos by three of today’s leading astrophysicists. Inspired by the enormously popular introductory astronomy course that Neil deGrasse Tyson, Michael A. Strauss, and J. Richard Gott taught together at Princeton, this book covers it all—from planets, stars, and galaxies to black holes, wormholes, and time travel.
+
+Describing the latest discoveries in astrophysics, the informative and entertaining narrative propels you from our home solar system to the outermost frontiers of space. How do stars live and die? Why did Pluto lose its planetary status? What are the prospects of intelligent life elsewhere in the universe? How did the universe begin? Why is it expanding and why is its expansion accelerating? Is our universe alone or part of an infinite multiverse? Answering these and many other questions, the authors open your eyes to the wonders of the cosmos, sharing their knowledge of how the universe works.
+
+Breathtaking in scope and stunningly illustrated throughout, *Welcome to the Universe* is for those who hunger for insights into our evolving universe that only world-class astrophysicists can provide.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Astrophysics for People in a Hurry]({{site.baseurl}}/images/lectures/Astrophysics for People in a Hurry.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) Astrophysics for People in a Hurry
+{: .book-title}
+
+🖋️ Neil deGrasse Tyson
+{: .book-author}
+
+What is the nature of space and time? How do we fit within the universe? How does the universe fit within us? There’s no better guide through these mind-expanding questions than acclaimed astrophysicist and best-selling author Neil deGrasse Tyson.
+
+But today, few of us have time to contemplate the cosmos. So Tyson brings the universe down to Earth succinctly and clearly, with sparkling wit, in tasty chapters consumable anytime and anywhere in your busy day.
+
+While you wait for your morning coffee to brew, for the bus, the train, or a plane to arrive, *Astrophysics for People in a Hurry* will reveal just what you need to be fluent and ready for the next cosmic headlines: from the Big Bang to black holes, from quarks to quantum mechanics, and from the search for planets to the search for life in the universe.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Seven and a Half Lessons About the Brain]({{site.baseurl}}/images/lectures/Seven and a Half Lessons About the Brain.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) Seven and a Half Lessons About the Brain
+{: .book-title}
+
+🖋️ Lisa Feldman Barrett
+{: .book-author}
+
+Have you ever wondered why you have a brain? Let renowned neuroscientist Lisa Feldman Barrett demystify that big gray blob between your ears. In seven short essays (plus a bite-sized story about how brains evolved), this slim, entertaining, and accessible collection reveals mind-expanding lessons from the front lines of neuroscience research. You'll learn where brains came from, how they're structured (and why it matters), and how yours works in tandem with other brains to create everything you experience. Along the way, you'll also learn to dismiss popular myths such as the idea of a "lizard brain" and the alleged battle between thoughts and emotions, or even between nature and nurture, to determine your behavior.
+
+Sure to intrigue casual readers and scientific veterans alike, *Seven and a Half Lessons About the Brain* is full of surprises, humor, and important implications for human nature--a gift of a book that you will want to savor again and again.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![The New Climate War]({{site.baseurl}}/images/lectures/The New Climate War.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) The New Climate War
+{: .book-title}
+
+The Fight to Take Back Our Planet Hardcover
+{: .book-subtitle}
+
+🖋️ Michael E. Mann
+{: .book-author}
+
+A renowned climate scientist shows how fossil fuel companies have waged a thirty-year campaign to deflect blame and responsibility and delay action on climate change, and offers a battle plan for how we can save the planet.
+
+Recycle. Fly less. Eat less meat. These are some of the ways that we've been told can slow climate change. But the inordinate emphasis on individual behavior is the result of a marketing campaign that has succeeded in placing the responsibility for fixing climate change squarely on the shoulders of individuals.
+
+Fossil fuel companies have followed the example of other industries deflecting blame (think "guns don't kill people, people kill people") or greenwashing (think of the beverage industry's "Crying Indian" commercials of the 1970s). Meanwhile, they've blocked efforts to regulate or price carbon emissions, run PR campaigns aimed at discrediting viable alternatives, and have abdicated their responsibility in fixing the problem they've created. The result has been disastrous for our planet.
+
+In *The New Climate War*, Mann argues that all is not lost. He draws the battle lines between the people and the polluters-fossil fuel companies, right-wing plutocrats, and petrostates. And he outlines a plan for forcing our governments and corporations to wake up and make real change, including: a common-sense, attainable approach to carbon pricing- and a revision of the well-intentioned but flawed currently proposed version of the Green New Deal; allowing renewable energy to compete fairly against fossil fuels; debunking the false narratives and arguments that have worked their way into the climate debate and driven a wedge between even those who support climate change solutions; combatting climate doomism and despair-mongering.
+
+With immensely powerful vested interests aligned in defense of the fossil fuel status quo, the societal tipping point won't happen without the active participation of citizens everywhere aiding in the collective push forward. This book will reach, inform, and enable citizens everywhere to join this battle for our planet.
+
+**Mon avis** : Pas encore lu.
+
 ### Sciences sociales
 
 ![The End of Gender]({{site.baseurl}}/images/lectures/The End of Gender.jpg){: .book-cover}
@@ -1635,5 +1815,45 @@ The War of Art emphasizes the resolve needed to recognize and overcome the obsta
 Think of it as tough love… for yourself.
 
 Whether an artist, writer or business person, this simple, personal, and no-nonsense book will inspire you to seize the potential of your life.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![The Life-Changing Magic of Tidying Up]({{ site.baseurl }}/images/lectures/The Life-Changing Magic of Tidying Up.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Life-Changing Magic of Tidying Up
+{: .book-title}
+
+The Japanese Art of Decluttering and Organizing
+{: .book-subtitle}
+
+🖋️ Marie Kondō
+{: .book-author}
+
+Despite constant efforts to declutter your home, do papers still accumulate like snowdrifts and clothes pile up like a tangled mess of noodles?
+
+Japanese cleaning consultant Marie Kondo takes tidying to a whole new level, promising that if you properly simplify and organize your home once, you’ll never have to do it again. Most methods advocate a room-by-room or little-by-little approach, which doom you to pick away at your piles of stuff forever. The KonMari Method, with its revolutionary category-by-category system, leads to lasting results. In fact, none of Kondo’s clients have lapsed (and she still has a three-month waiting list).
+
+With detailed guidance for determining which items in your house “spark joy” (and which don’t), this international bestseller will help you clear your clutter and enjoy the unique magic of a tidy home—and the calm, motivated mindset it can inspire.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Spark Joy]({{ site.baseurl }}/images/lectures/Spark Joy.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Spark Joy
+{: .book-title}
+
+An Illustrated Master Class on the Art of Organizing and Tidying Up
+{: .book-subtitle}
+
+🖋️ Marie Kondō
+{: .book-author}
+
+Japanese decluttering guru Marie Kondo has revolutionized homes—and lives—across the world. Now, Kondo presents an illustrated guide to usingher acclaimed KonMari Method to create a joy-filled home that works the way you need it to.
+
+*Spark Joy* features step-by-step folding illustrations for everything from shirts to socks, plus drawings of perfectly organized drawers and closets. Kondo also answers frequently asked questions, such as whether to keep “necessary” items that may not bring you joy. With guidance on specific categories including kitchen tools, cleaning supplies, hobby goods, digital photos, and even building your own personal “power spot” in your home, this comprehensive companion is sure to spark joy in anyone who wants to simplify their life.
 
 **Mon avis** : Pas encore lu.
