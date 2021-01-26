@@ -8,6 +8,8 @@ entries_layout: grid
 
 Cette page présente les livres (hors fiction) qui me semblent intéressants à lire. Elle est mise à jour au fil de mes découvertes.
 
+La liste étant assez longue, vous pouvez accéder à une thématique précise en utilisant la table des matières ci-dessous.
+
 {% include toc %}
 
 ## Déjà lu
@@ -142,6 +144,20 @@ Today, when even the humanities are often defended only for their economic or po
 Reminding us of who we once were and who we might become, *Lost in Thought* is a moving account of why renewing our inner lives is fundamental to preserving our humanity.
 
 **Mon avis** : Pas encore lu.
+
+### Linguistique
+
+![Les autres ne savent plus ecrire]({{ site.baseurl }}/images/lectures/Les autres ne savent plus ecrire.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Les autres ne savent plus ecrire
+{: .book-title}
+
+🖋️ Romain « Monte » Filstroff
+{: .book-author}
+
+Tout était-il vraiment mieux avant ? Aujourd’hui, il semblerait que les autres ne savent plus parler : les jeunes, les pauvres, les immigrés, les nouvelles générations, les journalistes, les québécois… Mais qu’est-ce qui a changé entretemps ? Ce livre, qui est le premier de l’auteur, continue dans la lignée de son travail vidéo qu’on ne présente plus : de façon ludique, on revient sur l’histoire de la langue et ses évolutions récentes, en n’oubliant jamais de comparer avec d’autres idiomes qu’ils soient proches ou lointains. De plus, et pour que la lecture soit facile pour tous, de nombreux encadrés et anecdotes apportent des informations ou des précisions sur les sujets abordés. Parmi les thématiques abordées, on retrouve bien évidemment la norme et le bon usage, des concepts centraux qui sont souvent au cœur du travail de l’auteur, mais aussi des choses plus légères, comme l’histoire insolite d’une petite langue d’Amazonie, celles de quelques langues mortes ressuscitées. L’auteur aborde aussi l’opposition que l’on fait parfois entre la langue des femmes et celles des hommes, en cherchant toujours à casser quelques idées reçues lorsque cela est possible.
+
+**Mon avis** : Pas encore lu.
 
 ### Éthique
 
@@ -781,6 +797,62 @@ Ce qui distingue la pensée politique de Noam Chomsky n’est pas une vision nou
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Twilight of Democracy]({{ site.baseurl }}/images/lectures/Twilight of Democracy.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Twilight of Democracy
+{: .book-title}
+
+The Seductive Lure of Authoritarianism
+{: .book-subtitle}
+
+🖋️ Anne Applebaum
+{: .book-author}
+
+A Pulitzer Prize–winning historian explains, with electrifying clarity, why elites in democracies around the world are turning toward nationalism and authoritarianism.
+
+From the United States and Britain to continental Europe and beyond, liberal democracy is under siege, while authoritarianism is on the rise. In *Twilight of Democracy*, Anne Applebaum, an award-winning historian of Soviet atrocities who was one of the first American journalists to raise an alarm about antidemocratic trends in the West, explains the lure of nationalism and autocracy. In this captivating essay, she contends that political systems with radically simple beliefs are inherently appealing, especially when they benefit the loyal to the exclusion of everyone else.
+
+Despotic leaders do not rule alone; they rely on political allies, bureaucrats, and media figures to pave their way and support their rule. The authoritarian and nationalist parties that have arisen within modern democracies offer new paths to wealth or power for their adherents. Applebaum describes many of the new advocates of illiberalism in countries around the world, showing how they use conspiracy theory, political polarization, social media, and even nostalgia to change their societies.
+
+Elegantly written and urgently argued, *Twilight of Democracy* is a brilliant dissection of a world-shaking shift and a stirring glimpse of the road back to democratic values.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![How Fascism Works]({{ site.baseurl }}/images/lectures/How Fascism Works.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) How Fascism Works
+{: .book-title}
+
+The Politics of Us and Them
+{: .book-subtitle}
+
+🖋️ Jason Stanley
+{: .book-author}
+
+As the child of refugees of World War II Europe and a renowned philosopher and scholar of propaganda, Jason Stanley has a deep understanding of how democratic societies can be vulnerable to fascism: Nations don’t have to be fascist to suffer from fascist politics. In fact, fascism’s roots have been present in the United States for more than a century. Alarmed by the pervasive rise of fascist tactics both at home and around the globe, Stanley focuses here on the structures that unite them, laying out and analyzing the ten pillars of fascist politics—the language and beliefs that separate people into an “us” and a “them.” He knits together reflections on history, philosophy, sociology, and critical race theory with stories from contemporary Hungary, Poland, India, Myanmar, and the United States, among other nations. He makes clear the immense danger of underestimating the cumulative power of these tactics, which include exploiting a mythic version of a nation’s past; propaganda that twists the language of democratic ideals against themselves; anti-intellectualism directed against universities and experts; law and order politics predicated on the assumption that members of minority groups are criminals; and fierce attacks on labor groups and welfare. These mechanisms all build on one another, creating and reinforcing divisions and shaping a society vulnerable to the appeals of authoritarian leadership.
+
+By uncovering disturbing patterns that are as prevalent today as ever, Stanley reveals that the stuff of politics—charged by rhetoric and myth—can quickly become policy and reality. Only by recognizing fascists politics, he argues, may we resist its most harmful effects and return to democratic ideals.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Surviving Autocracy]({{ site.baseurl }}/images/lectures/Surviving Autocracy.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) Surviving Autocracy
+{: .book-title}
+
+🖋️ Masha Gessen
+{: .book-author}
+
+In the run-up to the 2016 election, Masha Gessen stood out from other journalists for the ability to convey the ominous significance of Donald Trump’s speech and behavior, unprecedented in a national candidate. Within forty-eight hours of his victory, the essay “Autocracy: Rules for Survival” had gone viral, and Gessen’s coverage of Trump’s norm-smashing presidency became essential reading for a citizenry struggling to wrap their heads around the unimaginable. Thanks to the special perspective that is the legacy of a Soviet childhood and two decades covering the resurgence of totalitarianism in Russia, Gessen has a sixth sense for signs of autocracy—and the unique cross-cultural fluency to delineate its emergence to Americans. This incisive book provides an indispensable overview of the calamitous trajectory of the past few years. Gessen not only highlights the corrosion of the media, the judiciary, and the cultural norms we hoped would save us but also tells us the story of how a short few years have changed us from a people who saw ourselves as a nation of immigrants to a populace haggling over a border wall, heirs to a degraded sense of truth, meaning, and possibility. *Surviving Autocracy* is an inventory of ravages but also a beacon to recovery—or to enduring, and resisting, an ongoing assault.
+
+**Mon avis** : Pas encore lu.
+
 ### Économie
 
 ![Tout sur l’économie, ou presque]({{ site.baseurl }}/images/lectures/Tout sur l-economie, ou presque.jpg){: .book-cover}
@@ -1090,6 +1162,23 @@ De plus, elle est consolidée par un très grand nombre de théorèmes mathémat
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![Le théorème du parapluie]({{ site.baseurl }}/images/lectures/Le theoreme du parapluie.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Le théorème du parapluie
+{: .book-title}
+
+Ou l'art d'observer le monde dans le bon sens
+{: .book-subtitle}
+
+🖋️ Mickaël Launay
+{: .book-author}
+
+Savez-vous que le 34 avril est un jour très utile ? Que certains fleuves coulent de bas en haut ? Que la Lune tourne en ligne droite ? Que la couverture de ce livre est peut-être rouge ? Et que tout en lisant ces quelques lignes vous voyagez à la vitesse de 300 000 kilomètres par seconde ? Ces affirmations peuvent vous sembler absurdes, et pourtant elles sont vraies ! Notre perception du monde est parfois trompeuse. En science, le réel bouscule nos préjugés et ne cesse de remettre en cause nos plus intimes convictions. Il ne s'agit pas toujours d'être plus intelligent pour répondre aux grandes questions : il faut avant tout être astucieux. Un simple changement de point de vue suffit parfois à éclairer les phénomènes les plus complexes. Les mathématiques en particulier nous offrent un outil puissant pour comprendre les rouages de l'Univers. Elles nous apprennent à penser plus large pour comprendre plus loin. C'est ce que nous montre ici Mickaël Launay, à travers un voyage passionnant qui commence dans les allées des supermarchés et s'achève dans les profondeurs vertigineuses des trous noirs. Ah, et il reste une dernière question : quel est le rapport entre tout cela et un parapluie ?
+
+**Mon avis** : Pas encore lu.
+
 ### Sciences naturelles
 
 ![The Magic of Reality]({{site.baseurl}}/images/lectures/The Magic of Reality.jpg){: .book-cover}
@@ -1194,6 +1283,29 @@ Enfin, il démontre le rôle des symbioses microbiennes au niveau des écosystè
 A l’issue de ce périple dans le monde microbien, le lecteur, émerveillé, ne pourra plus porter le même regard sur notre monde.
 
 **Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![What If?]({{site.baseurl}}/images/lectures/What If.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) What If?
+{: .book-title}
+
+Serious Scientific Answers to Absurd Hypothetical Questions
+{: .book-subtitle}
+
+🖋️ Randall Munroe
+{: .book-author}
+
+Millions of people visit xkcd.com each week to read Randall Munroe’s iconic webcomic. His stick-figure drawings about science, technology, language, and love have a large and passionate following.
+
+Fans of xkcd ask Munroe a lot of strange questions. What if you tried to hit a baseball pitched at 90 percent the speed of light? How fast can you hit a speed bump while driving and live? If there was a robot apocalypse, how long would humanity last?
+
+In pursuit of answers, Munroe runs computer simulations, pores over stacks of declassified military research memos, solves differential equations, and consults with nuclear reactor operators. His responses are masterpieces of clarity and hilarity, complemented by signature xkcd comics. They often predict the complete annihilation of humankind, or at least a really big explosion.
+
+The book features new and never-before-answered questions, along with updated and expanded versions of the most popular answers from the xkcd website. What If? will be required reading for xkcd fans and anyone who loves to ponder the hypothetical.
+
+**Mon avis** : Pas encore lu.
 
 {% include separator.html %}
 
@@ -1855,5 +1967,24 @@ An Illustrated Master Class on the Art of Organizing and Tidying Up
 Japanese decluttering guru Marie Kondo has revolutionized homes—and lives—across the world. Now, Kondo presents an illustrated guide to usingher acclaimed KonMari Method to create a joy-filled home that works the way you need it to.
 
 *Spark Joy* features step-by-step folding illustrations for everything from shirts to socks, plus drawings of perfectly organized drawers and closets. Kondo also answers frequently asked questions, such as whether to keep “necessary” items that may not bring you joy. With guidance on specific categories including kitchen tools, cleaning supplies, hobby goods, digital photos, and even building your own personal “power spot” in your home, this comprehensive companion is sure to spark joy in anyone who wants to simplify their life.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![The Gentle Art of Swedish Death Cleaning]({{ site.baseurl }}/images/lectures/The Gentle Art of Swedish Death Cleaning.jpg){: .book-cover}
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) The Gentle Art of Swedish Death Cleaning
+{: .book-title}
+
+How to Free Yourself and Your Family from a Lifetime of Clutter
+{: .book-subtitle}
+
+🖋️ Margareta Magnusson
+{: .book-author}
+
+In Sweden there is a kind of decluttering called *döstädning*, *dö* meaning “death” and *städning* meaning “cleaning.” This surprising and invigorating process of clearing out unnecessary belongings can be undertaken at any age or life stage but should be done sooner than later, before others have to do it for you. In *The Gentle Art of Swedish Death Cleaning*, artist Margareta Magnusson, with Scandinavian humor and wisdom, instructs readers to embrace minimalism. Her radical and joyous method for putting things in order helps families broach sensitive conversations, and makes the process uplifting rather than overwhelming.
+
+Margareta suggests which possessions you can easily get rid of (unworn clothes, unwanted presents, more plates than you’d ever use) and which you might want to keep (photographs, love letters, a few of your children’s art projects). Digging into her late husband’s tool shed, and her own secret drawer of vices, Margareta introduces an element of fun to a potentially daunting task. Along the way readers get a glimpse into her life in Sweden, and also become more comfortable with the idea of letting go.
 
 **Mon avis** : Pas encore lu.
