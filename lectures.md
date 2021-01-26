@@ -164,7 +164,7 @@ Des premiers rituels funéraires aux grandes religions actuelles, Frédéric Len
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) Pour en finir avec le Moyen Âge
 {: .book-title}
 
-🖋️ James Clear
+🖋️ Régine Pernoud
 {: .book-author}
 
 Méprisés pendant des siècles, encensés par les romantiques, ces mille ans d’histoire ont presque toujours été recouverts de la crasse de l’ignorance. « Godiche » ne vient-il pas de « gothique » ? « Féodal » ne désigne-t-il pas l’obscurantisme le plus indécrottable ? « Moyenâgeux » les vieilleries poussiéreuses ?
