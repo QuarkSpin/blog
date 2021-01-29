@@ -1179,6 +1179,22 @@ Savez-vous que le 34 avril est un jour très utile ? Que certains fleuves coulen
 
 **Mon avis** : Pas encore lu.
 
+{% include separator.html %}
+
+![La théorie du chaos]({{ site.baseurl }}/images/lectures/La theorie du chaos.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) La théorie du chaos
+{: .book-title}
+
+🖋️ James Gleick
+{: .book-author}
+
+Turbulences, fluctuations, oscillations aléatoires, phénomènes complexes non maîtrisables : une population animale, l’écoulement d’un fluide, un organe biologique, un faisceau de particules, un orage atmosphérique, une économie nationale, autant de systèmes instables qu’on classait sous l’appellation commode de « chaos » avant que quelques scientifiques français et américains ne commencent à explorer le sujet dans les années 1970. A la surprise générale, le chaos s’est révélé gouverné par un ordre dynamique qui a permis d’expliquer bien des phénomènes naturels jusqu’ici totalement incompréhensibles.
+
+La théorie du chaos, dont ce livre vulgarise brillamment les divers aspects, a ouvert de nouvelles portes à la science depuis son éclosion ; elle a bouleversé la vision classique du monde et constitué une révolution comparable à ce que fut, au début du XXe siècle, la théorie de la relativité générale d’Einstein.
+
+**Mon avis** : Pas encore lu.
+
 ### Sciences naturelles
 
 ![The Magic of Reality]({{site.baseurl}}/images/lectures/The Magic of Reality.jpg){: .book-cover}
@@ -1350,22 +1366,6 @@ Brusatte traces the evolution of dinosaurs from their inauspicious start as smal
 Brusatte also recalls compelling stories from his globe-trotting expeditions during one of the most exciting eras in dinosaur research—which he calls “a new golden age of discovery”—and offers thrilling accounts of some of the remarkable findings he and his colleagues have made, including primitive human-sized tyrannosaurs; monstrous carnivores even larger than *T. rex*; and paradigm-shifting feathered raptors from China.
 
 An electrifying scientific history that unearths the dinosaurs’ epic saga, *The Rise and Fall of the Dinosaurs* will be a definitive and treasured account for decades to come.
-
-**Mon avis** : Pas encore lu.
-
-{% include separator.html %}
-
-![La théorie du chaos]({{ site.baseurl }}/images/lectures/La theorie du chaos.jpg){: .book-cover}
-
-![FR]({{ site.baseurl }}/images/fr-flag.svg) La théorie du chaos
-{: .book-title}
-
-🖋️ James Gleick
-{: .book-author}
-
-Turbulences, fluctuations, oscillations aléatoires, phénomènes complexes non maîtrisables : une population animale, l’écoulement d’un fluide, un organe biologique, un faisceau de particules, un orage atmosphérique, une économie nationale, autant de systèmes instables qu’on classait sous l’appellation commode de « chaos » avant que quelques scientifiques français et américains ne commencent à explorer le sujet dans les années 1970. A la surprise générale, le chaos s’est révélé gouverné par un ordre dynamique qui a permis d’expliquer bien des phénomènes naturels jusqu’ici totalement incompréhensibles.
-
-La théorie du chaos, dont ce livre vulgarise brillamment les divers aspects, a ouvert de nouvelles portes à la science depuis son éclosion ; elle a bouleversé la vision classique du monde et constitué une révolution comparable à ce que fut, au début du XXe siècle, la théorie de la relativité générale d’Einstein.
 
 **Mon avis** : Pas encore lu.
 
@@ -1692,22 +1692,6 @@ Are we capable of distinguishing the fortunate charlatan from the genuine vision
 
 **Mon avis** : Pas encore lu.
 
-{% include separator.html %}
-
-![Espaces et temps du jeu vidéo]({{ site.baseurl }}/images/lectures/Espaces et temps du jeu video.jpg){: .book-cover}
-
-![FR]({{ site.baseurl }}/images/fr-flag.svg) Espaces et temps du jeu vidéo
-{: .book-title}
-
-🖋️ Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux
-{: .book-author}
-
-Explorer les confins de la galaxie, des donjons sinistres ou des pays enchantés, vivre au temps des croisades ou rejouer l’issue de la guerre froide, bâtir des villes ou des empires millénaires… au point d’en oublier parfois sa famille, la fatigue ou la faim. Tout jeu vidéo est une invitation au voyage. Les jeux vidéo sont des univers dans lesquels les joueurs plongent, s’immergent, voire s’enferment, pour vivre des aventures hors du temps et de l’espace quotidiens.
-
-Cette divergence, cette annulation, voire cette inversion du temps s’accompagnent du déploiement d’un espace de l’autre côté de l’écran. Comment cet espace-temps vidéoludique s’articule-t-il avec l’espace-temps du quotidien ? Et quelles sont les spatialités et les temporalités que les jeux vidéo déploient ? Cet ouvrage fait converger autour de ces questions les réflexions d’auteurs de diverses sciences humaines et sociales, de la géographie aux études littéraires en passant par l’anthropologie et la philosophie.
-
-**Mon avis** : Pas encore lu.
-
 ### Cinéma
 
 ![L’anatomie du scénario]({{ site.baseurl }}/images/lectures/l-anatomie-du-scanario.jpg){: .book-cover}
@@ -1837,6 +1821,22 @@ Fresh insight into classic Japanese video games and the elements that made them 
 In addition, the future of the Japanese gaming industry is also explored.
 
 **Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Espaces et temps du jeu vidéo]({{ site.baseurl }}/images/lectures/Espaces et temps du jeu video.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Espaces et temps du jeu vidéo
+{: .book-title}
+
+🖋️ Hovig Ter Minassian, Samuel Rufat, Samuel Coavoux
+{: .book-author}
+
+Explorer les confins de la galaxie, des donjons sinistres ou des pays enchantés, vivre au temps des croisades ou rejouer l’issue de la guerre froide, bâtir des villes ou des empires millénaires… au point d’en oublier parfois sa famille, la fatigue ou la faim. Tout jeu vidéo est une invitation au voyage. Les jeux vidéo sont des univers dans lesquels les joueurs plongent, s’immergent, voire s’enferment, pour vivre des aventures hors du temps et de l’espace quotidiens.
+
+Cette divergence, cette annulation, voire cette inversion du temps s’accompagnent du déploiement d’un espace de l’autre côté de l’écran. Comment cet espace-temps vidéoludique s’articule-t-il avec l’espace-temps du quotidien ? Et quelles sont les spatialités et les temporalités que les jeux vidéo déploient ? Cet ouvrage fait converger autour de ces questions les réflexions d’auteurs de diverses sciences humaines et sociales, de la géographie aux études littéraires en passant par l’anthropologie et la philosophie.
+
+**Mon avis** : Pas encore lu.
 
 ### Développement personnel
 
