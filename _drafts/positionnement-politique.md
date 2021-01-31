@@ -38,15 +38,21 @@ image:
 
 ### Political Compass
 
+![Political Compass]({{ site.baseurl }}/images/post-images/2021-01-20-positionnement-politique/political-compass.svg)
+
 <https://www.politicalcompass.org/yourpoliticalcompass?ec=-6.38&soc=-5.38>
 
 ### 8 Values
+
+![8 Values]({{ site.baseurl }}/images/post-images/2021-01-20-positionnement-politique/8-values.svg)
 
 <https://8values.github.io/results.html?e=75.6&d=67.8&g=58.3&s=72.5>
 
 ### 9 Axes
 
-...
+![9 Axes]({{ site.baseurl }}/images/post-images/2021-01-20-positionnement-politique/9-axes.svg)
+
+<https://9axes.github.io/results.html?a=31&b=63&c=68&d=35&e=49&f=77&g=63&h=67&i=45>
 
 ## Annexe – Réponses aux tests
 
