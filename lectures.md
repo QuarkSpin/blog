@@ -6,6 +6,9 @@ collection: lectures
 entries_layout: grid
 ---
 
+Dernière mise à jour le **02/02/2021**
+{: .notice--info}
+
 Cette page présente les livres (hors fiction) qui me semblent intéressants à lire. Elle est mise à jour au fil de mes découvertes.
 
 La liste étant assez longue, vous pouvez accéder à une thématique précise en utilisant la table des matières ci-dessous.
@@ -77,6 +80,31 @@ In “Rationality: From AI to Zombies,” Eliezer Yudkowsky explains the science
 A decision theorist and researcher at the Machine Intelligence Research Institute, Yudkowsky published earlier drafts of his writings to the websites Overcoming Bias and Less Wrong. “Rationality: From AI to Zombies” compiles six volumes of Yudkowsky’s essays into a single electronic tome. Collectively, these sequences of linked essays serve as a rich and lively introduction to the science—and the art—of human rationality.
 
 **Mon avis** : Pas encore terminé, très intéressant pour l’instant.
+
+### Christianisme
+
+![How the Bible Actually Works]({{site.baseurl}}/images/lectures/How the Bible Actually Works.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) How the Bible Actually Works
+{: .book-title}
+
+In Which I Explain How An Ancient, Ambiguous, and Diverse Book Leads Us to Wisdom Rather Than Answers—and Why That’s Great News
+{: .book-subtitle}
+
+🖋️ Peter Enns
+{: .book-author}
+
+Controversial evangelical Bible scholar, popular blogger and podcast host of *The Bible for Normal People*, and author of *The Bible Tells Me So* and *The Sin of Certainty* explains that the Bible is not an instruction manual or rule book but a powerful learning tool that nurtures our spiritual growth by refusing to provide us with easy answers but instead forces us to acquire wisdom.
+
+For many Christians, the Bible is a how-to manual filled with literal truths about belief that must be strictly followed. But the Bible is not static, Peter Enns argues. It does not hold easy answers to the perplexing questions and issues that confront us in our daily lives. Rather, the Bible is a dynamic instrument for study that not only offers an abundance of insights but provokes us to find our own answers to spiritual questions, cultivating God’s wisdom within us.
+
+“The Bible becomes a confusing mess when we expect it to function as a rulebook for faith. But when we allow the Bible to determine our expectations, we see that Wisdom, not answers, is the Bible’s true subject matter,” writes Enns. This distinction, he points out, is important because when we come to the Bible expecting it to be a textbook intended by God to give us unwavering certainty about our faith, we are actually creating problems for ourselves. The Bible, in other words, really isn’t the problem; having the wrong expectation is what interferes with our reading.
+
+Rather than considering the Bible as an ancient book weighed down with problems, flaws, and contradictions that must be defended by modern readers, Enns offers a vision of the holy scriptures as an inspired and empowering resource to help us better understand how to live as a person of faith today.
+
+How the Bible Actually Works makes clear that there is no one right way to read the Bible. Moving us beyond the damaging idea that “being right” is the most important measure of faith, Enns’s freeing approach to Bible study helps us to instead focus on pursuing enlightenment and building our relationship with God—which is exactly what the Bible was designed to do.
+
+**Mon avis** : Pas encore lu.
 
 ## Envie de lire
 
@@ -251,31 +279,6 @@ Land—whether meadow or mountainside, desert or peat bog, parkland or pasture, 
 **Mon avis** : Pas encore lu.
 
 ### Christianisme
-
-![How the Bible Actually Works]({{site.baseurl}}/images/lectures/How the Bible Actually Works.jpg){: .book-cover}
-
-![UK]({{site.baseurl}}/images/uk-flag.svg) How the Bible Actually Works
-{: .book-title}
-
-In Which I Explain How An Ancient, Ambiguous, and Diverse Book Leads Us to Wisdom Rather Than Answers—and Why That’s Great News
-{: .book-subtitle}
-
-🖋️ Peter Enns
-{: .book-author}
-
-Controversial evangelical Bible scholar, popular blogger and podcast host of *The Bible for Normal People*, and author of *The Bible Tells Me So* and *The Sin of Certainty* explains that the Bible is not an instruction manual or rule book but a powerful learning tool that nurtures our spiritual growth by refusing to provide us with easy answers but instead forces us to acquire wisdom.
-
-For many Christians, the Bible is a how-to manual filled with literal truths about belief that must be strictly followed. But the Bible is not static, Peter Enns argues. It does not hold easy answers to the perplexing questions and issues that confront us in our daily lives. Rather, the Bible is a dynamic instrument for study that not only offers an abundance of insights but provokes us to find our own answers to spiritual questions, cultivating God’s wisdom within us.
-
-“The Bible becomes a confusing mess when we expect it to function as a rulebook for faith. But when we allow the Bible to determine our expectations, we see that Wisdom, not answers, is the Bible’s true subject matter,” writes Enns. This distinction, he points out, is important because when we come to the Bible expecting it to be a textbook intended by God to give us unwavering certainty about our faith, we are actually creating problems for ourselves. The Bible, in other words, really isn’t the problem; having the wrong expectation is what interferes with our reading.
-
-Rather than considering the Bible as an ancient book weighed down with problems, flaws, and contradictions that must be defended by modern readers, Enns offers a vision of the holy scriptures as an inspired and empowering resource to help us better understand how to live as a person of faith today.
-
-How the Bible Actually Works makes clear that there is no one right way to read the Bible. Moving us beyond the damaging idea that “being right” is the most important measure of faith, Enns’s freeing approach to Bible study helps us to instead focus on pursuing enlightenment and building our relationship with God—which is exactly what the Bible was designed to do.
-
-**Mon avis** : Pas encore lu.
-
-{% include separator.html %}
 
 ![The Bible Tells Me So]({{site.baseurl}}/images/lectures/The Bible Tells Me So.jpg){: .book-cover}
 
