@@ -5,7 +5,7 @@ title: "Annexe — Réponses au test Political Compass"
 date:   2021-02-02 21:09:00 +0200
 ---
 
-Cette page est une annexe de l’article [Mon positionnement politique #1 — Début 2021]({{ site.baseurl }}/2021-02-02/positionnement-politique). Elle présente les réponses que j’ai données au test du [Political Compass](https://www.politicalcompass.org/test/fr){: target="_blank"} en **janvier 2021**.
+Cette page est une annexe de l’article [Mon positionnement politique — Début 2021]({{ site.baseurl }}/2021-02-02/positionnement-politique). Elle présente les réponses que j’ai données au test du [Political Compass](https://www.politicalcompass.org/test/fr){: target="_blank"} en **janvier 2021**.
 {: .notice--success}
 
 Le test, [disponible ici](https://www.politicalcompass.org/test/fr){: target="_blank"}, demande de choisir pour chaque affirmation entre les réponses 🔴 *Pas du tout d’accord*, 🟠 *Pas d’accord*, 🔵 *D’accord* et 🟢 *Tout-à-fait d’accord*. Il faut comprendre le terme « d’accord » comme « plutôt d’accord, mais pas complètement », et inversement pour « pas d’accord ». J’ai également choisi de répondre « pas du tout » et « tout à fait » aux questions auxquelles je n’avais pas d’avis tranché à 100 %, mais peut-être à 95 %, ce qui me semble mieux correspondre à l’esprit du test.

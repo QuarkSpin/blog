@@ -5,7 +5,7 @@ title: "Annexe — Réponses au test 8 Values"
 date:   2021-02-02 21:09:00 +0200
 ---
 
-Cette page est une annexe de l’article [Mon positionnement politique #1 — Début 2021]({{ site.baseurl }}/2021-02-02/positionnement-politique). Elle présente les réponses que j’ai données au test des [8 Values](https://8values.github.io){: target="_blank"} en **janvier 2021**.
+Cette page est une annexe de l’article [Mon positionnement politique — Début 2021]({{ site.baseurl }}/2021-02-02/positionnement-politique). Elle présente les réponses que j’ai données au test des [8 Values](https://8values.github.io){: target="_blank"} en **janvier 2021**.
 {: .notice--success}
 
 Le test, [disponible ici](https://8values.github.io){: target="_blank"}, demande de choisir pour chaque affirmation entre les réponses 🔴 *Strongly Disagree*, 🟠 *Disagree*, ⚪ *Neutral/Unsure*, 🔵 *Agree* et 🟢 *Strongly Agree*.

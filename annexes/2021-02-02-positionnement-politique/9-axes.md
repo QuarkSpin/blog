@@ -5,7 +5,7 @@ title: "Annexe — Réponses au test 9 Axes"
 date:   2021-02-02 21:09:00 +0200
 ---
 
-Cette page est une annexe de l'article [Mon positionnement politique #1 — Début 2021]({{ site.baseurl }}/2021-02-02/positionnement-politique). Elle présente les réponses que j'ai données au test des [9 Axes](https://9axes.github.io){: target="_blank"} en **janvier 2021**.
+Cette page est une annexe de l'article [Mon positionnement politique — Début 2021]({{ site.baseurl }}/2021-02-02/positionnement-politique). Elle présente les réponses que j'ai données au test des [9 Axes](https://9axes.github.io){: target="_blank"} en **janvier 2021**.
 {: .notice--success}
 
 En raison du grand nombre de questions (216), je n'ai pas fourni les justifications pour mes réponses dans cette annexe.
