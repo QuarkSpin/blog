@@ -405,6 +405,25 @@ In this *New York Times* bestseller, leading Bible expert Bart Ehrman skillfully
 
 {% include separator.html %}
 
+![Heaven and Hell]({{site.baseurl}}/images/lectures/Heaven and Hell.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) Heaven and Hell
+{: .book-title}
+
+A History of the Afterlife
+{: .book-subtitle}
+
+🖋️ Bart D. Ehrman
+{: .book-author}
+
+Whether we believe in them or not, we are all familiar with the concepts of heaven and hell. There was a time, however, when no one thought they would go to either of these places after they died. In fact, Jesus didn t believe a dead person s soul was bound for heaven or hell, and these ideas are nowhere to be found in the Old Testament. So, where did they come from?
+
+From the Epic of Gilgamesh to the writings of Augustine, Bart Ehrman provides a fascinating and thought-provoking history of the afterlife. He traces how beliefs changed over time and reveals the social, cultural and historical roots of competing views held by Greeks, Jews and Christians. Ultimately, he shows that many of our ideas about heaven and hell emerged long after Jesus’s time, through the struggle to explain the injustices of our world.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
 ![The Great Spiritual Migration]({{site.baseurl}}/images/lectures/The Great Spiritual Migration.jpg){: .book-cover}
 
 ![UK]({{site.baseurl}}/images/uk-flag.svg) The Great Spiritual Migration
