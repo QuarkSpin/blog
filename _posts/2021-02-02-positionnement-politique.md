@@ -62,7 +62,7 @@ Voici mon positionnement :
 
 ![Political Compass]({{ site.baseurl }}/images/post-images/2021-02-02-positionnement-politique/political-compass.svg)
 
-Je suis dans le quadrant *collectiviste-libertaire*, avec -6,38 sur l’axe économique et -5,38/10 sur l’axe social.
+Je suis dans le quadrant *collectiviste-libertaire*, avec -6,38 sur l’axe économique et -5,38 sur l’axe social.
 
 ### 8 Values
 
