@@ -21,3 +21,7 @@ image:
 La Terre est-elle plate ?
 
 --> l'idée est de partir de la théorie du complot de la Terre plate, de la débunker vite fait pui de s'intéroger : comment savez-vous que la Terre est ronde ? Est-ce pour de bonnes raisons ?
+
+
+
+www.youtube.com/watch?v=IwJzsE8CvzQ

@@ -1,9 +1,7 @@
 ---
-layout: collection
+layout: page
 title: Lectures
 permalink: /lectures/
-collection: lectures
-entries_layout: grid
 ---
 
 Dernière mise à jour le **02/02/2021**
