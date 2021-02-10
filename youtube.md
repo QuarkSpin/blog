@@ -7,7 +7,7 @@ permalink: /chaines-youtube/
 Dernière mise à jour le **02/02/2021**
 {: .notice--info}
 
-Cette page présente les chaînes YouTube qui m'intéressent. Elle est mise à jour au fil de mes découvertes.
+Cette page présente les chaînes YouTube qui m'intéressent *personnellement*. Elle est mise à jour au fil de mes découvertes.
 
 Je note chaque chaine de 1 à 3 étoiles, subjectivement, en fonction de la qualité des propos et de la technique. Même les chaines avec une seule étoile sont intéressantes.
 
@@ -65,6 +65,23 @@ Coriosités scientifiques et historiques.
 * [Ceci n'est pas du bleu](https://www.youtube.com/watch?v=dnTzYXRUHBQ){: target="_blank"} (6:38)
 * [Comment photographier un fantôme ?](https://www.youtube.com/watch?v=2-a3rZMkW0g){: target="_blank"} (13:21)
 * [Écoutons des voix de personnages historiques !](https://www.youtube.com/watch?v=UjAGcpRSFaI){: target="_blank"} (29:29)
+
+{% include separator.html %}
+
+[![CGP Grey]({{ site.baseurl }}/images/youtube/CGP Grey.jpg){: .channel-icon}](https://www.youtube.com/greymatter/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [CGP Grey](https://www.youtube.com/greymatter/featured)
+{: .channel-title}
+
+Vulgarisation très simple de sujets méconnus, sous forme d'animations 2D.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Who Owns The Statue of Liberty?](https://www.youtube.com/watch?v=SgZ1f4ACZBQ){: target="_blank"} (7:28)
+* [The Simple Solution to Traffic](https://www.youtube.com/watch?v=iHzzSao6ypE){: target="_blank"} (4:29)
+* [How to Become Pope](https://www.youtube.com/watch?v=kF8I_r9XT7A){: target="_blank"} (5:08)
 
 ## Sciences diverses
 
@@ -150,6 +167,40 @@ Vulgarisation scientifique sur divers sujets.
 * [Nous avons plus que 5 sens](https://www.youtube.com/watch?v=6XQhUJ5fqMk){: target="_blank"} (9:05)
 * [Les trous noirs (1/2)](https://www.youtube.com/watch?v=hJe5MDMWOaU){: target="_blank"} (29:09)
 * [La SNCF peut-elle être ponctuelle ?](https://www.youtube.com/watch?v=Zb3LixrUmDw){: target="_blank"} (41:31)
+
+{% include separator.html %}
+
+[![Veritasium]({{ site.baseurl }}/images/youtube/Veritasium.jpg){: .channel-icon}](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+{: .channel-title}
+
+Vulgarisation scientifique sur divers sujets par un docteur en physique.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Can You Solve This?](https://www.youtube.com/watch?v=vKA4w2O61Xo){: target="_blank"} (4:43)
+* [This equation will change how you see the world (the logistic map)](https://www.youtube.com/watch?v=ovJcsL7vyrk){: target="_blank"} (18:38)
+* [I Asked Bill Gates What's The Next Crisis?](https://www.youtube.com/watch?v=Grv1RJkdyqI){: target="_blank"} (13:13)
+
+{% include separator.html %}
+
+[![Vsauce]({{ site.baseurl }}/images/youtube/Vsauce.jpg){: .channel-icon}](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
+{: .channel-title}
+
+Vulgarisation scientifique sur divers sujets.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Illusions of Time](https://www.youtube.com/watch?v=zHL9GP_B30E){: target="_blank"} (31:07)
+* [Behavior and Belief](https://www.youtube.com/watch?v=BR-eMMCp7tg){: target="_blank"} (28:26)
+* [Which Way Is Down?](https://www.youtube.com/watch?v=Xc4xYacTu-E){: target="_blank"} (26:10)
 
 ## Actualités et analyses
 
@@ -967,6 +1018,59 @@ Histoires captivantes sur des figures de la culture populaire.
 ## Musique
 
 ...
+
+## Foi chrétienne
+
+[![Église protestante unie de l'Étoile]({{ site.baseurl }}/images/youtube/Eglise protestante unie de l'Etoile.jpg){: .channel-icon}](https://www.youtube.com/channel/UCGIDFDZZrEGt3uZZ0nRKwCQ)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Église protestante unie de l'Étoile](https://www.youtube.com/channel/UCGIDFDZZrEGt3uZZ0nRKwCQ)
+{: .channel-title}
+
+Prédications, études bibliques, catéchismes et méditations de l'Église protestante unie de l'Étoile à Paris.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Heureux les humbles, mais non à l'humiliation](https://www.youtube.com/watch?v=kf5j7bIYAy8){: target="_blank"} (38:42)
+* [Les paraboles scandaleuses 1](https://www.youtube.com/watch?v=jbhwbtT2rx8){: target="_blank"} (42:37)
+* [Qu'est-ce que la prière ? \| Initiation à une pensée protestante](https://www.youtube.com/watch?v=AXPTrxmDbdc){: target="_blank"} (1:01:17)
+
+{% include separator.html %}
+
+[![Preche la Parole]({{ site.baseurl }}/images/youtube/Preche la Parole.jpg){: .channel-icon}](https://www.youtube.com/user/PrechelaParole/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Preche la Parole](https://www.youtube.com/user/PrechelaParole/featured)
+{: .channel-title}
+
+Prédications, études bibliques et podcast de l'Église Réformée Baptiste de Saint-Jérôme au Québec.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Hors contexte : « La lettre tue, mais l’Esprit vivifie » – 2 Corinthiens 3.6](https://www.youtube.com/watch?v=D2vMMxT0ciA){: target="_blank"} (59:01)
+* [Jérusalem et Athènes - Actes 17.16-34](https://www.youtube.com/watch?v=iMHzgoJNs_s){: target="_blank"} (53:34)
+* [Liberté d'expression = droit au blasphème?](https://www.youtube.com/watch?v=Ek3CcvHAwdc){: target="_blank"} (45:54)
+
+{% include separator.html %}
+
+[![Campus protestant]({{ site.baseurl }}/images/youtube/Campus protestant.jpg){: .channel-icon}](https://www.youtube.com/c/Campusprotestant/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Campus protestant](https://www.youtube.com/c/Campusprotestant/featured)
+{: .channel-title}
+
+Interviews, reportages et débats sur des questions de théologie et de société d'un point de vue protestant.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [Les manuscrits de Qumrân contredisent-ils la Bible ?](https://www.youtube.com/watch?v=rBg74FMHrGU){: target="_blank"} (9:20)
+* [Qu’arrive-t-il à l’Eglise catholique ?](https://www.youtube.com/watch?v=gKnITnziI-g){: target="_blank"} (18:14)
+* [Qui nous roulera la pierre ? Les femmes dans l'Eglise](https://www.youtube.com/watch?v=SWxG2PF_bpo){: target="_blank"} (12:25)
+
+
 
 ## <!-- TEMP -->
 
