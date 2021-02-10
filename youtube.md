@@ -151,7 +151,7 @@ Vulgarisation scientifique sur divers sujets.
 * [Les trous noirs (1/2)](https://www.youtube.com/watch?v=hJe5MDMWOaU){: target="_blank"} (29:09)
 * [La SNCF peut-elle être ponctuelle ?](https://www.youtube.com/watch?v=Zb3LixrUmDw){: target="_blank"} (41:31)
 
-## Reportages et analyses
+## Actualités et analyses
 
 [![Le Monde]({{ site.baseurl }}/images/youtube/le-monde.jpg){: .channel-icon}](https://www.youtube.com/c/lemondefr)
 
@@ -187,6 +187,61 @@ Propose des enquêtes et analyses sur différents sujets d'actualité ou de soci
 
 {% include separator.html %}
 
+[![Last Week Tonight]({{ site.baseurl }}/images/youtube/last-week-tonight.jpg){: .channel-icon}](https://www.youtube.com/user/LastWeekTonight/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight/featured)
+{: .channel-title}
+
+Analyses critiques sur différents sujets d'actualité ou de société, aux USA ou à l'international.
+
+⚠️ langage vulgaire
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Trump & Election Results](https://www.youtube.com/watch?v=cMz_sTgoydQ){: target="_blank"} (17:57)
+* [OAN](https://www.youtube.com/watch?v=UnSILVWDKL8){: target="_blank"} (18:05)
+* [French Elections](https://www.youtube.com/watch?v=hkZir1L7fSY){: target="_blank"} (18:08)
+
+## Documentaires et reportages
+
+[![ARTE]({{ site.baseurl }}/images/youtube/ARTE.jpg){: .channel-icon}](https://www.youtube.com/channel/UCwI-JbGNsojunnHbFAc0M4Q)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [ARTE](https://www.youtube.com/channel/UCwI-JbGNsojunnHbFAc0M4Q)
+{: .channel-title}
+
+Documentaires du service public franco-allemand.
+
+ℹ️ les vidéos ne restent en ligne que quelques mois
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** (si encore en ligne) :
+
+* [Israël : les orthodoxes sortent du ghetto](https://www.youtube.com/watch?v=8oejVu1N1b0){: target="_blank"} (23:40)
+* [La Chine, selon Confucius](https://www.youtube.com/watch?v=exR-3GWsYuM){: target="_blank"} (1:28:54)
+* [Birmanie, les coulisses d'une dictature](https://www.youtube.com/watch?v=MJk02cPh0eU){: target="_blank"} (54:10)
+
+{% include separator.html %}
+
+[![DW Documentary]({{ site.baseurl }}/images/youtube/DW Documentary.jpg){: .channel-icon}](https://www.youtube.com/c/DWDocumentary/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [DW Documentary](https://www.youtube.com/c/DWDocumentary/featured)
+{: .channel-title}
+
+Documentaires et reportages du service public allemand (en anglais).
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [The Mennonites – a trip back in time](https://www.youtube.com/watch?v=Pt_XU4W4DBA){: target="_blank"} (42:25)
+* [By train across Sri Lanka](https://www.youtube.com/watch?v=s8VNJ88AFWw){: target="_blank"} (42:25)
+* [Evangelical Christians in the USA](https://www.youtube.com/watch?v=fom53HFip9I){: target="_blank"} (42:25)
+
+{% include separator.html %}
+
 [![L'Effet Papillon]({{ site.baseurl }}/images/youtube/effet-papillon.jpg){: .channel-icon}](https://www.youtube.com/channel/UCIQv1KE4NlcevsQwKCZtxQw/featured)
 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [L'Effet Papillon](https://www.youtube.com/channel/UCIQv1KE4NlcevsQwKCZtxQw/featured)
@@ -204,22 +259,54 @@ Reportages sur des sujets de politique internationale ou de société.
 
 {% include separator.html %}
 
-[![Last Week Tonight]({{ site.baseurl }}/images/youtube/last-week-tonight.jpg){: .channel-icon}](https://www.youtube.com/user/LastWeekTonight/featured)
+[![Real Stories]({{ site.baseurl }}/images/youtube/Real Stories.jpg){: .channel-icon}](https://www.youtube.com/c/RealStories/featured)
 
-![UK]({{ site.baseurl }}/images/uk-flag.svg) [Last Week Tonight](https://www.youtube.com/user/LastWeekTonight/featured)
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Real Stories](https://www.youtube.com/c/RealStories/featured)
 {: .channel-title}
 
-Analyses critiques sur différents sujets d'actualité ou de société, aux USA ou à l'international.
+Doccumentaires de différentes productions, à la durée et qualité variables.
 
-⚠️ langage vulgaire
-
-**Mon avis** : ⭐⭐⭐
+**Mon avis** : ⭐
 
 **3 vidéos pour découvrir** :
 
-* [Trump & Election Results](https://www.youtube.com/watch?v=cMz_sTgoydQ){: target="_blank"} (17:57)
-* [OAN](https://www.youtube.com/watch?v=UnSILVWDKL8){: target="_blank"} (18:05)
-* [French Elections](https://www.youtube.com/watch?v=hkZir1L7fSY){: target="_blank"} (18:08)
+* [Where Did Chicago Go Wrong? America's Hyper-Segregated City](https://www.youtube.com/watch?v=ot7xCM-Oeig){: target="_blank"} (1:00:23)
+* [On The Front Line: Fighting The Taliban](https://www.youtube.com/watch?v=rtC1hVA7pXE){: target="_blank"} (48:26)
+* [Love And Sex In China](https://www.youtube.com/watch?v=E23ER7YMpUY){: target="_blank"} (58:05)
+
+{% include separator.html %}
+
+[![Netflix]({{ site.baseurl }}/images/youtube/Netflix.jpg){: .channel-icon}](https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Netflix](https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw)
+{: .channel-title}
+
+La chaine comporte principalement des bandes annonces pour la plateforme, mais Netflix a aussi posté gratuitement certains de ses propres documentaires. Tous les documentaires sont aussi accessibles sur la plateforme Netflix avec un abonnement.
+
+**Mon avis** : ⭐⭐ (pour les documentaires)
+
+**3 vidéos pour découvrir** :
+
+* [Our Planet \| Forests](https://www.youtube.com/watch?v=JkaxUblCGz0){: target="_blank"} (48:17)
+* [Knock Down The House](https://www.youtube.com/watch?v=YCSo2hZRcXk){: target="_blank"} (1:26:39)
+* [Abstract: The Art of Design \| Bjarke Ingels: Architecture](https://www.youtube.com/watch?v=rKeFCd1j5BE){: target="_blank"} (44:20)
+
+{% include separator.html %}
+
+[![BBC Documentary]({{ site.baseurl }}/images/youtube/BBC Documentary.jpg){: .channel-icon}](https://www.youtube.com/channel/UCZEPItn2Nb62Zso5eohHAAA)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [BBC Documentary](https://www.youtube.com/channel/UCZEPItn2Nb62Zso5eohHAAA)
+{: .channel-title}
+
+Docummentaires et reportages du service public anglais.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Afghanistan \| Wild Shepherdess with Kate Humble](https://www.youtube.com/watch?v=UP8pA0v6QFE){: target="_blank"} (51:54)
+* [Flights And Fights - Inside The Low Cost Airline](https://www.youtube.com/watch?v=U1vEK5c2QgI){: target="_blank"} (49:52)
+* [The Industrial Revolution](https://www.youtube.com/watch?v=GYln_S2PVYA){: target="_blank"} (51:13)
 
 ## Droit
 
@@ -447,6 +534,23 @@ Chroniques sur les morts emblématiques du cinéma.
 * [La mort de MUFASA cachait un secret ! (LE ROI LION)](https://www.youtube.com/watch?v=Z5JuT0qiHQo){: target="_blank"} (5:43)
 * [Léonidas N'A PAS raté son tir ! (300)](https://www.youtube.com/watch?v=Ywi84nZ1XiM){: target="_blank"} (9:30)
 * [La fin de BLADE RUNNER cachait un secret !](https://www.youtube.com/watch?v=lWJbDhSW7l0){: target="_blank"} (8:54)
+
+{% include separator.html %}
+
+[![MrMeeea]({{ site.baseurl }}/images/youtube/MrMeeea.jpg){: .channel-icon}](https://www.youtube.com/channel/UCEEi1rclmzywXicV7JfPjWw)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [MrMeeea](https://www.youtube.com/channel/UCEEi1rclmzywXicV7JfPjWw)
+{: .channel-title}
+
+L'histoire de la création des adaptations cinéma populaires.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Le Noël de Mickey (1983)](https://www.youtube.com/watch?v=UfqQlGs47cA){: target="_blank"} (15:53)
+* [ASTERIX et la Surprise de CESAR](https://www.youtube.com/watch?v=NEYevIFCySI){: target="_blank"} (30:44)
+* [Pourquoi Jurassic Park est-il si bien ?](https://www.youtube.com/watch?v=R_JndKOiSWE){: target="_blank"} (25:20)
 
 ## Histoire
 
@@ -704,6 +808,165 @@ Vidéos documentaires sur l'histoire spatiale et aéronautiques
 * [Quand un 747 fait la course avec un Concorde](https://www.youtube.com/watch?v=rYwgf6coJVs){: target="_blank"} (13:06)
 * [La destruction de la navette Columbia](https://www.youtube.com/watch?v=Nelzv2NJqqQ){: target="_blank"} (13:16)
 * [Pilote de ligne pendant 13 ans, sans aucune licence](https://www.youtube.com/watch?v=FNGMkHbiulk){: target="_blank"} (7:41)
+
+{% include separator.html %}
+
+[![Le Sense Of Wonder]({{ site.baseurl }}/images/youtube/Le Sense Of Wonder.jpg){: .channel-icon}](https://www.youtube.com/c/LeSenseOfWonder/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Le Sense Of Wonder](https://www.youtube.com/c/LeSenseOfWonder/featured)
+{: .channel-title}
+
+Vulgarisation sur l'astrophysique, avec une touche de science-fiction, par un docteur en astrophysique.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Les Vaisseaux Interstellaires \| Voyage vers Proxima b](https://www.youtube.com/watch?v=i6rFIQ6UkR4){: target="_blank"} (10:04)
+* [La Mort du Soleil](https://www.youtube.com/watch?v=cRY0jJYVyDc){: target="_blank"} (7:03)
+* [La fusée lunaire d’Hergé](https://www.youtube.com/watch?v=98hnR0q-jrQ){: target="_blank"} (23:48)
+
+{% include separator.html %}
+
+[![AstronoGeek]({{ site.baseurl }}/images/youtube/AstronoGeek.jpg){: .channel-icon}](https://www.youtube.com/c/AstronoGeek/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [AstronoGeek](https://www.youtube.com/c/AstronoGeek/featured)
+{: .channel-title}
+
+Vulgarisation de l'astronomie.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Connaître la distance Terre-Lune au millimètre près !](https://www.youtube.com/watch?v=6E6YILvjmX0){: target="_blank"} (21:04)
+* [Il découvre une planète... par hasard !](https://www.youtube.com/watch?v=w14EhOqUe6I){: target="_blank"} (19:54)
+* [Sommes-nous VRAIMENT allés sur la Lune ?](https://www.youtube.com/watch?v=M74B0YHZabQ){: target="_blank"} (27:16)
+
+## Jeu vidéo
+
+[![Pause Process]({{ site.baseurl }}/images/youtube/Pause Process.jpg){: .channel-icon}](https://www.youtube.com/channel/UC0JUkXAVVA4qWH1BQRs5N3A)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Pause Process](https://www.youtube.com/channel/UC0JUkXAVVA4qWH1BQRs5N3A)
+{: .channel-title}
+
+Chroniques sur les techniques et l'histoire de la création des jeux vidéo.
+
+ℹ️ chaîne peu active
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Shadow Of The Colossus (ou la Méthode Ueda)](https://www.youtube.com/watch?v=loF1-xLKG1A){: target="_blank"} (22:46)
+* [Le Deep Learning](https://www.youtube.com/watch?v=s8MT-5X7cyk){: target="_blank"} (16:04)
+* [Le Level Design](https://www.youtube.com/watch?v=SjRo6k2XvCo){: target="_blank"} (13:31)
+
+{% include separator.html %}
+
+[![PsEuDoLeSs1]({{ site.baseurl }}/images/youtube/PsEuDoLeSs1.jpg){: .channel-icon}](https://www.youtube.com/user/PsEuDoLeSs1/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [PsEuDoLeSs1](https://www.youtube.com/user/PsEuDoLeSs1/featured)
+{: .channel-title}
+
+Critiques et analyse en détails de jeux videos.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Red Barrel #13 : Vision d'aigle/détective](https://www.youtube.com/watch?v=vckoi3vXcyE){: target="_blank"} (27:15)
+* [Pseudo-Critique : The Legend of Zelda - Breath of the Wild](https://www.youtube.com/watch?v=2q09evsnf_0){: target="_blank"} (18:36)
+* [FAR CRY 5 a peur des blancs](https://www.youtube.com/watch?v=k4kicNTDTzQ){: target="_blank"} (11:42)
+
+{% include separator.html %}
+
+[![PuNkY]({{ site.baseurl }}/images/youtube/PuNkY.jpg){: .channel-icon}](https://www.youtube.com/c/PuNkYPSB/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [PuNkY](https://www.youtube.com/c/PuNkYPSB/featured)
+{: .channel-title}
+
+Vidéos sumi-humoristiques sur les curiosités et l'histoire des jeux vidéos, notamment les jeux rétro.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [LES JEUX dans LES BOÎTES DE CÉRÉALES !!!](https://www.youtube.com/watch?v=FGKew3fRiW0){: target="_blank"} (14:58)
+* [NEED FOR SPEED sur WII ?!?](https://www.youtube.com/watch?v=x451jE2mS2I){: target="_blank"} (17:55)
+* [Les PÉPITES CACHÉES de la GAME BOY !](https://www.youtube.com/watch?v=LBu9_yBvJPo){: target="_blank"} (4:43)
+
+{% include separator.html %}
+
+[![Edward]({{ site.baseurl }}/images/youtube/Edward.jpg){: .channel-icon}](https://www.youtube.com/c/EdwardRetroDecouverte/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Edward](https://www.youtube.com/c/EdwardRetroDecouverte/featured)
+{: .channel-title}
+
+Chroniques sur l'histoire des jeux vidéos.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [L'histoire de Mario](https://www.youtube.com/watch?v=G_tNO82T2Pw){: target="_blank"} (31:42)
+* [L'histoire des Sims !](https://www.youtube.com/watch?v=0DlUP7QRf-A){: target="_blank"} (26:40)
+* [1001 Pattes - Rétro Découverte](https://www.youtube.com/watch?v=A6f6sXnlD04){: target="_blank"} (10:17)
+
+{% include separator.html %}
+
+[![Game Spectrum]({{ site.baseurl }}/images/youtube/Game Spectrum.jpg){: .channel-icon}](https://www.youtube.com/c/GameSpectrum/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Game Spectrum](https://www.youtube.com/c/GameSpectrum/featured)
+{: .channel-title}
+
+Série documentaire sur le jeu vidéo et son rapport au monde.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Comment se fabriquent les jeux vidéo](https://www.youtube.com/watch?v=E8G7zipy6bM){: target="_blank"} (1:09:03)
+* [Qui sont les joueurs de jeu vidéo ?](https://www.youtube.com/watch?v=_sUvKvoK9I8){: target="_blank"} (1:58:56)
+* [Comment Zelda Breath of the Wild nous parle de liberté](https://www.youtube.com/watch?v=3bmMV6zhSkk){: target="_blank"} (12:18)
+
+## Culture populaire
+
+[![Arkeo Toys]({{ site.baseurl }}/images/youtube/Arkeo Toys.jpg){: .channel-icon}](https://www.youtube.com/channel/UCoRReVQsekQ-tOwUo-lCOpA)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Arkeo Toys](https://www.youtube.com/channel/UCoRReVQsekQ-tOwUo-lCOpA)
+{: .channel-title}
+
+Chroniques sur l'histoire et les secrets des jouets (surtout des années 80-90).
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [5 Jouets de GUERRE](https://www.youtube.com/watch?v=5al41hIjo2k){: target="_blank"} (12:22)
+* [Baby Yoda VS Ewoks: La Bataille du Marketing](https://www.youtube.com/watch?v=NBCDiNpS2Fg){: target="_blank"} (11:21)
+* [Le Parc d'Attraction Maudit? MIRAPOLIS !!!](https://www.youtube.com/watch?v=fgU_gT78DRQ){: target="_blank"} (8:22)
+
+{% include separator.html %}
+
+[![La chaîne de P.A.U.L]({{ site.baseurl }}/images/youtube/La chaine de P.A.U.L.jpg){: .channel-icon}](https://www.youtube.com/c/PAULvid%C3%A9os/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [La chaîne de P.A.U.L](https://www.youtube.com/c/PAULvid%C3%A9os/featured)
+{: .channel-title}
+
+Histoires captivantes sur des figures de la culture populaire.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [HIDE THE PAIN HAROLD - QUAND UN RETRAITÉ DEVIENT UN MÈME MONDIAL](https://www.youtube.com/watch?v=rQ4JEjgr5nk){: target="_blank"} (19:20)
+* [EMMA WATSON - GRANDIR QUAND ON EST HERMIONE](https://www.youtube.com/watch?v=fuXue4HjUaU){: target="_blank"} (35:23)
+* [THE ANGRY GERMAN KID - LA TRANSFORMATION D'UNE CYBER-VICTIME](https://www.youtube.com/watch?v=G71ygHxAbnk){: target="_blank"} (19:01)
+
+## Musique
+
+...
 
 ## <!-- TEMP -->
 
