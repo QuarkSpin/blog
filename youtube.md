@@ -255,6 +255,42 @@ Analyses critiques sur différents sujets d'actualité ou de société, aux USA 
 * [OAN](https://www.youtube.com/watch?v=UnSILVWDKL8){: target="_blank"} (18:05)
 * [French Elections](https://www.youtube.com/watch?v=hkZir1L7fSY){: target="_blank"} (18:08)
 
+{% include separator.html %}
+
+[![Mediapart]({{ site.baseurl }}/images/youtube/Mediapart.jpg){: .channel-icon}](https://www.youtube.com/c/mediapart)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Mediapart](https://www.youtube.com/c/mediapart)
+{: .channel-title}
+
+Media d'information et d'analyses critiques. Le plus intéressant : l'émission [Ouvrez les Guillemets](https://www.youtube.com/playlist?list=PL0H7ONNEUnnt59niYAZ07dFTi99u2L2n_).
+
+⚠️ clairement orienté à gauche, pas toujours très objectif, mais très intéressant quand même
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Présidentiables : la course est lancée](https://www.youtube.com/watch?v=XJco60VveMA){: target="_blank"} (10:34)
+* [Le grand retour de la gauche bourgeoise](https://www.youtube.com/watch?v=3p2dQ8CIJ38){: target="_blank"} (12:34)
+* [#MeToo​: Adèle Haenel explique pourquoi elle sort du silence](https://www.youtube.com/watch?v=QFRPci2wK2Y){: target="_blank"} (1:03:18)
+
+{% include separator.html %}
+
+[![Osons Causer]({{ site.baseurl }}/images/youtube/Osons Causer.jpg){: .channel-icon}](______________________)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Osons Causer](______________________)
+{: .channel-title}
+
+Analyses et interviews sur des sujets d'actualité et de société.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [D'OÙ VIENT VRAIMENT LE POUVOIR DU PRÉSIDENT ?](https://www.youtube.com/watch?v=Zjwbp4q1gQM){: target="_blank"} (17:01)
+* [Suède : ne rien faire face au Covid. Que vaut la solution du film Hold up ?](https://www.youtube.com/watch?v=FE1ELFU6hzs){: target="_blank"} (15:17)
+* [SOCIOLOGIE DE L'INCESTE - avec Alice Debauche](https://www.youtube.com/watch?v=9D6m2EQsNjs){: target="_blank"} (1:14:38)
+
 ## Documentaires et reportages
 
 [![ARTE]({{ site.baseurl }}/images/youtube/ARTE.jpg){: .channel-icon}](https://www.youtube.com/channel/UCwI-JbGNsojunnHbFAc0M4Q)
@@ -329,7 +365,7 @@ Doccumentaires de différentes productions, à la durée et qualité variables.
 
 [![Netflix]({{ site.baseurl }}/images/youtube/Netflix.jpg){: .channel-icon}](https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw)
 
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [Netflix](https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw)
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Netflix](https://www.youtube.com/channel/UCWOA1ZGywLbqmigxE4Qlvuw)
 {: .channel-title}
 
 La chaine comporte principalement des bandes annonces pour la plateforme, mais Netflix a aussi posté gratuitement certains de ses propres documentaires. Tous les documentaires sont aussi accessibles sur la plateforme Netflix avec un abonnement.
@@ -346,7 +382,7 @@ La chaine comporte principalement des bandes annonces pour la plateforme, mais N
 
 [![BBC Documentary]({{ site.baseurl }}/images/youtube/BBC Documentary.jpg){: .channel-icon}](https://www.youtube.com/channel/UCZEPItn2Nb62Zso5eohHAAA)
 
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [BBC Documentary](https://www.youtube.com/channel/UCZEPItn2Nb62Zso5eohHAAA)
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [BBC Documentary](https://www.youtube.com/channel/UCZEPItn2Nb62Zso5eohHAAA)
 {: .channel-title}
 
 Docummentaires et reportages du service public anglais.
@@ -358,6 +394,57 @@ Docummentaires et reportages du service public anglais.
 * [Afghanistan \| Wild Shepherdess with Kate Humble](https://www.youtube.com/watch?v=UP8pA0v6QFE){: target="_blank"} (51:54)
 * [Flights And Fights - Inside The Low Cost Airline](https://www.youtube.com/watch?v=U1vEK5c2QgI){: target="_blank"} (49:52)
 * [The Industrial Revolution](https://www.youtube.com/watch?v=GYln_S2PVYA){: target="_blank"} (51:13)
+
+{% include separator.html %}
+
+[![VICE]({{ site.baseurl }}/images/youtube/VICE.jpg){: .channel-icon}](https://www.youtube.com/c/VICE/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [VICE](https://www.youtube.com/c/VICE/featured)
+{: .channel-title}
+
+Reportages et enquêtes sur des sujets variés.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [This Is What Winning Looks Like (Part 1/3)](https://www.youtube.com/watch?v=BKHPTHx0ScQ){: target="_blank"} (29:01)
+* [The Evangelicals Voting for Biden \| God's Country](https://www.youtube.com/watch?v=O9yrM92WwlM){: target="_blank"} (17:16)
+* [The Satanic Temple's Protest for First Amendment Rights](https://www.youtube.com/watch?v=6AOX-_HdFKQ){: target="_blank"} (13:33)
+
+## Conférences et entretiens
+
+[![TED]({{ site.baseurl }}/images/youtube/TED.jpg){: .channel-icon}](https://www.youtube.com/c/TED/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [TED](https://www.youtube.com/c/TED/featured)
+{: .channel-title}
+
+Conférences sur différents sujets.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Inside the mind of a master procrastinator \| Tim Urban](https://www.youtube.com/watch?v=arj7oStGLkU){: target="_blank"} (14:04)
+* [How language shapes the way we think \| Lera Boroditsky](https://www.youtube.com/watch?v=RKK7wGAYP6k){: target="_blank"} (14:12)
+* [The next outbreak? We’re not ready \| Bill Gates](https://www.youtube.com/watch?v=6Af6b_wyiwI){: target="_blank"} (8:36)
+
+{% include separator.html %}
+
+[![TEDx Talks]({{ site.baseurl }}/images/youtube/TEDx Talks.jpg){: .channel-icon}](https://www.youtube.com/user/TEDxTalks/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) ![FR]({{ site.baseurl }}/images/fr-flag.svg) [TEDx Talks](https://www.youtube.com/user/TEDxTalks/featured)
+{: .channel-title}
+
+Conférences sur différents sujets.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [L'acrasie aura-t-elle votre peau ? \| Thomas Durand](https://www.youtube.com/watch?v=grZkrM1WpNU){: target="_blank"} (14:14)
+* [How to take a picture of a black hole \| Katie Bouman](https://www.youtube.com/watch?v=BIvezCVcsYs){: target="_blank"} (12:51)
+* [How to sound smart in your TEDx Talk \| Will Stephen](https://www.youtube.com/watch?v=8S0FDjFBj8o){: target="_blank"} (5:55)
 
 ## Droit
 
@@ -1015,10 +1102,6 @@ Histoires captivantes sur des figures de la culture populaire.
 * [EMMA WATSON - GRANDIR QUAND ON EST HERMIONE](https://www.youtube.com/watch?v=fuXue4HjUaU){: target="_blank"} (35:23)
 * [THE ANGRY GERMAN KID - LA TRANSFORMATION D'UNE CYBER-VICTIME](https://www.youtube.com/watch?v=G71ygHxAbnk){: target="_blank"} (19:01)
 
-## Musique
-
-...
-
 ## Foi chrétienne
 
 [![Église protestante unie de l'Étoile]({{ site.baseurl }}/images/youtube/Eglise protestante unie de l'Etoile.jpg){: .channel-icon}](https://www.youtube.com/channel/UCGIDFDZZrEGt3uZZ0nRKwCQ)
@@ -1070,7 +1153,251 @@ Interviews, reportages et débats sur des questions de théologie et de sociét�
 * [Qu’arrive-t-il à l’Eglise catholique ?](https://www.youtube.com/watch?v=gKnITnziI-g){: target="_blank"} (18:14)
 * [Qui nous roulera la pierre ? Les femmes dans l'Eglise](https://www.youtube.com/watch?v=SWxG2PF_bpo){: target="_blank"} (12:25)
 
+## Étude des religions
 
+[![Religion For Breakfast]({{ site.baseurl }}/images/youtube/Religion For Breakfast.jpg){: .channel-icon}](https://www.youtube.com/c/ReligionForBreakfast/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Religion For Breakfast](https://www.youtube.com/c/ReligionForBreakfast/featured)
+{: .channel-title}
+
+Vulgarisation sur les religions, par un docteur en anthropologie des religions.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Aztec Religion Explained](https://www.youtube.com/watch?v=vdO-QB7weUs){: target="_blank"} (21:15)
+* [Was the Gospel of John Changed to Suppress Mary Magdalene?](https://www.youtube.com/watch?v=rfy6oiB_U-A){: target="_blank"} (10:39)
+* [Intro to Hanukkah](https://www.youtube.com/watch?v=a-feLb8PbA4){: target="_blank"} (14:56)
+
+{% include separator.html %}
+
+[![Bart D. Ehrman]({{ site.baseurl }}/images/youtube/Bart D. Ehrman.jpg){: .channel-icon}](https://www.youtube.com/channel/UCm9O8xILJQAs9LxaM4HiMOQ)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Bart D. Ehrman](https://www.youtube.com/channel/UCm9O8xILJQAs9LxaM4HiMOQ)
+{: .channel-title}
+
+Conférences et débats sur le proto-christianisme, par un docteur en anthropologie des religions.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Are the Gospels Historically Reliable? The Problem of Contradictions](https://www.youtube.com/watch?v=AymnA526j9U){: target="_blank"} (59:18)
+* [Misquoting Jesus in the Bible](https://www.youtube.com/watch?v=pfheSAcCsrE){: target="_blank"} (1:35:19)
+* [Bart Ehrman Michael Bird Debate 2016](https://www.youtube.com/watch?v=RtkeNuCwinc){: target="_blank"} (1:55:03)
+
+## Pensée critique
+
+[![Mr. Sam - Point d'interrogation]({{ site.baseurl }}/images/youtube/Mr. Sam - Point d'interrogation.jpg){: .channel-icon}](https://www.youtube.com/user/SamuelBuisseret)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Mr. Sam - Point d'interrogation](https://www.youtube.com/user/SamuelBuisseret)
+{: .channel-title}
+
+Émissions, discussions, analyses et débats sur la pensée critique.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [CES 6 ASTUCES VOUS ÉVITERONT LE PIRE](https://www.youtube.com/watch?v=U44YkyQ51pw){: target="_blank"} (57:51)
+* [L'ERREUR fondamentale des JOURNALISTES](https://www.youtube.com/watch?v=Rkk76tM6OBk){: target="_blank"} (35:35)
+* [LA TOUR n° 7 DU WTC: LA PREUVE DÉCISIVE ?](https://www.youtube.com/watch?v=D9nvQi5eA4k){: target="_blank"} (43:18)
+
+{% include separator.html %}
+
+[![Hygiène Mentale]({{ site.baseurl }}/images/youtube/Hygiene Mentale.jpg){: .channel-icon}](https://www.youtube.com/c/Hygi%C3%A8neMentale/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Hygiène Mentale](https://www.youtube.com/c/Hygi%C3%A8neMentale/featured)
+{: .channel-title}
+
+Vulgarisation des mécanismes de la pensée critique.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [La Pensée Bayesienne](https://www.youtube.com/watch?v=x-2uVNze56s){: target="_blank"} (22:38)
+* [Crop Circles - spécificité et sensibilité des tests sur le paranormal](https://www.youtube.com/watch?v=iB6gcSyl6Fs){: target="_blank"} (35:05)
+* [Faire confiance à la théorie, ou a l'expérience ?](https://www.youtube.com/watch?v=ThEQ34nKfS0){: target="_blank"} (17:49)
+
+{% include separator.html %}
+
+[![Officiel DEFAKATOR]({{ site.baseurl }}/images/youtube/Officiel DEFAKATOR.jpg){: .channel-icon}](https://www.youtube.com/c/OfficielDEFAKATOR/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Officiel DEFAKATOR](https://www.youtube.com/c/OfficielDEFAKATOR/featured)
+{: .channel-title}
+
+Analyses appliqués de la pensée critique, avec humour.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Voyage au pays des méchants et des gentils](https://www.youtube.com/watch?v=PqbYXvkmc98){: target="_blank"} (25:42)
+* [TUTO : Gestes barrières contre la connerie virale](https://www.youtube.com/watch?v=qFjmu9dZej0){: target="_blank"} (12:52)
+* [TUTO : Décrypter un débat foireux](https://www.youtube.com/watch?v=_Xv5iiyeQdA){: target="_blank"} (24:16)
+
+{% include separator.html %}
+
+[![La Tronche en Biais]({{ site.baseurl }}/images/youtube/La Tronche en Biais.jpg){: .channel-icon}](https://www.youtube.com/channel/UCq-8pBMM3I40QlrhM9ExXJQ)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [La Tronche en Biais](https://www.youtube.com/channel/UCq-8pBMM3I40QlrhM9ExXJQ)
+{: .channel-title}
+
+Vulgarisation de la pensée critique, analyses et entretiens avec des spécialistes sur différents sujets.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [L'imposteur de l'anthropologie médicale \| Jean-Dominique Michel](https://www.youtube.com/watch?v=rCSR87Gc4IM){: target="_blank"} (33:23)
+* [Réponse à une maman Antivax](https://www.youtube.com/watch?v=IGh663zSdgw){: target="_blank"} (27:52)
+* [Comment naît une publication scientifique ?](https://www.youtube.com/watch?v=xYIwVDX0y9Q){: target="_blank"} (2:05:10)
+
+{% include separator.html %}
+
+[![G Milgram]({{ site.baseurl }}/images/youtube/G Milgram.jpg){: .channel-icon}](https://www.youtube.com/channel/UCAoUBng0Mfu0qn4lPimS6MA/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [G Milgram](https://www.youtube.com/channel/UCAoUBng0Mfu0qn4lPimS6MA/featured)
+{: .channel-title}
+
+Enquêtes sur la pensée et les milieux dits "complotistes".
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Je crée une FAKE NEWS, vous la partagez PAR MILLIERS... (expérience)](https://www.youtube.com/watch?v=OOOkt2_PWc4){: target="_blank"} (8:49)
+* [Le monde parallèle des QAnon français](https://www.youtube.com/watch?v=OYqC0_E-Vq0){: target="_blank"} (26:02)
+* [Ils soignent avec... de l'EAU !](https://www.youtube.com/watch?v=ZIfT3jtPEok){: target="_blank"} (20:19)
+
+{% include separator.html %}
+
+[![Julia Galef]({{ site.baseurl }}/images/youtube/Julia Galef.jpg){: .channel-icon}](https://www.youtube.com/channel/UCz-RZblnhjXK_krP1jDybeQ)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Julia Galef](https://www.youtube.com/channel/UCz-RZblnhjXK_krP1jDybeQ)
+{: .channel-title}
+
+Petites chroniques sur la pensée critique.
+
+ℹ️ chaîne peu active
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [A visual guide to Bayesian thinking](https://www.youtube.com/watch?v=BrK7X_XlGB8){: target="_blank"} (11:24)
+* [Your brain is not a Bayes net (and why that matters)](https://www.youtube.com/watch?v=cFv5DvrLDCg){: target="_blank"} (8:57)
+* [Stop saying "I can't understand"](https://www.youtube.com/watch?v=chALQCm9VgE){: target="_blank"} (6:57)
+
+{% include separator.html %}
+
+[![Observatoire Zététique]({{ site.baseurl }}/images/youtube/Observatoire Zetetique.jpg){: .channel-icon}](https://www.youtube.com/channel/UCe75Xt9qzIKNruP5LTUFsyQ/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Observatoire Zététique](https://www.youtube.com/channel/UCe75Xt9qzIKNruP5LTUFsyQ/featured)
+{: .channel-title}
+
+Conférences appliquées de la pensée critique par différents spécialistes.
+
+ℹ️ chaîne peu active
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [Comment évaluer l'efficacité d'une thérapie ?](https://www.youtube.com/watch?v=s_voYxIG0mc){: target="_blank"} (1:29:33)
+* [La Sophrologie : Une Analyse Critique](https://www.youtube.com/watch?v=Tep4GBgri-E){: target="_blank"} (53:41)
+* [Le Traitement Médiatique l'information Scientifique](https://www.youtube.com/watch?v=z8W8CygtlzQ){: target="_blank"} (1:51:09)
+
+{% include separator.html %}
+
+[![Instant Sceptique]({{ site.baseurl }}/images/youtube/Instant Sceptique.jpg){: .channel-icon}](https://www.youtube.com/c/InstantSceptique/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Instant Sceptique](https://www.youtube.com/c/InstantSceptique/featured)
+{: .channel-title}
+
+Interviews avec des spécialistes sur la pensée critique.
+
+ℹ️ chaîne peu active
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [Zététique : Richard Monvoisin](https://www.youtube.com/watch?v=VK1DmvEBwOQ){: target="_blank"} (55:20)
+* [Zététique : Henri Broch](https://www.youtube.com/watch?v=UvMGZeU7hdw){: target="_blank"} (1:06:55)
+* [Zététique : Gérald Bronner : La société de l'information a-t-elle noyé notre esprit critique ?](https://www.youtube.com/watch?v=tXQSx0UaDbw){: target="_blank"} (52:06)
+
+## Politique
+
+[![Second Thought]({{ site.baseurl }}/images/youtube/Second Thought.jpg){: .channel-icon}](https://www.youtube.com/c/SecondThought/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Second Thought](https://www.youtube.com/c/SecondThought/featured)
+{: .channel-title}
+
+Analyse critique de la politique, principalement américaine.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [The Electoral College Is Anti-Democracy](https://www.youtube.com/watch?v=3SHgd74fjMk){: target="_blank"} (11:11)
+* [The Unfortunate Truth About Mother Teresa](https://www.youtube.com/watch?v=2uxtcy4FpN8){: target="_blank"} (6:36)
+* [America's Stunted Political Spectrum](https://www.youtube.com/watch?v=ULYWIDcUOY4){: target="_blank"} (7:26)
+
+{% include separator.html %}
+
+[![HugoDécrypte]({{ site.baseurl }}/images/youtube/HugoDecrypte.jpg){: .channel-icon}](https://www.youtube.com/c/HugoD%C3%A9crypte/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [HugoDécrypte](https://www.youtube.com/c/HugoD%C3%A9crypte/featured)
+{: .channel-title}
+
+Analyses, reportages, interviews et actualités sur la politique, principalement française, et quelques sujets de société.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Une journée avec le Premier ministre à Matignon !](https://www.youtube.com/watch?v=6cHq4YJzk4g){: target="_blank"} (16:27)
+* [IMMERSION CHEZ LES ROYALISTES EN FRANCE](https://www.youtube.com/watch?v=a_x7vAWZ5Hg){: target="_blank"} (17:01)
+* [J'INFILTRE LE JT 20H DE FRANCE 2](https://www.youtube.com/watch?v=dl95yxDa8u8){: target="_blank"} (18:03)
+
+{% include separator.html %}
+
+[![Accropolis Replays]({{ site.baseurl }}/images/youtube/Accropolis Replays.jpg){: .channel-icon}](https://www.youtube.com/channel/UCq80IvL314jsE7PgYsTdw7Q/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Accropolis Replays](https://www.youtube.com/channel/UCq80IvL314jsE7PgYsTdw7Q/featured)
+{: .channel-title}
+
+Entretiens avec des personnalités politiques françaises.
+
+ℹ️ les vidéos sont "non répertoriées", c'est-à-dire listées uniquement sur la page d'acceuil de la chaine
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Le Premier ministre sur le plateau d'Accropolis !](https://www.youtube.com/watch?v=hnXpL0Qhnws){: target="_blank"} (1:37:47)
+* [Marta de Cidrac, Sénatrice LR, est l'invitée d'Accropolis](https://www.youtube.com/watch?v=Z5zjCy_ccYQ){: target="_blank"} (58:11)
+* [Ouverture de notre marathon sur le climat avec Étienne Klein](https://www.youtube.com/watch?v=yVz6g4Gtc1c){: target="_blank"} (58:14)
+
+{% include separator.html %}
+
+[![Le Dessous des Cartes]({{ site.baseurl }}/images/youtube/Le Dessous des Cartes.jpg){: .channel-icon}](______________________)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Le Dessous des Cartes](______________________)
+{: .channel-title}
+
+Une analyse de la géopolitique basée sur des cartes géographiques. Une émission d'ARTE.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [COVID-19 - Les deux Corée face au virus](https://www.youtube.com/c/LeDessousdesCartesARTE/featured){: target="_blank"} (8:44)
+* [De Trump à Biden : quel leadership américain ?](https://www.youtube.com/watch?v=h-hosZWN7QM){: target="_blank"} (11:55)
+* [Haut-Karabagh : le conflit entre Arméniens et Azéris](https://www.youtube.com/watch?v=QIsIvWuiBM4){: target="_blank"} (8:57)
 
 ## <!-- TEMP -->
 
