@@ -1399,6 +1399,40 @@ Une analyse de la géopolitique basée sur des cartes géographiques. Une émiss
 * [De Trump à Biden : quel leadership américain ?](https://www.youtube.com/watch?v=h-hosZWN7QM){: target="_blank"} (11:55)
 * [Haut-Karabagh : le conflit entre Arméniens et Azéris](https://www.youtube.com/watch?v=QIsIvWuiBM4){: target="_blank"} (8:57)
 
+{% include separator.html %}
+
+[![Géopolitis]({{ site.baseurl }}/images/youtube/Geopolitis.jpg){: .channel-icon}](https://www.youtube.com/c/Geopolitis/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Géopolitis](https://www.youtube.com/c/Geopolitis/featured)
+{: .channel-title}
+
+Analyses géopolitiques. Émission de la RTS (service public suisse).
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Guerre commerciale](https://www.youtube.com/watch?v=EhPPZ3FA7zI){: target="_blank"} (25:37)
+* [Japon, l’empire se réveille](https://www.youtube.com/watch?v=ZqsLz72PPZc){: target="_blank"} (26:44)
+* [Maître Poutine](https://www.youtube.com/watch?v=iob3K6f27sY){: target="_blank"} (26:51)
+
+{% include separator.html %}
+
+[![Politikon]({{ site.baseurl }}/images/youtube/Politikon.jpg){: .channel-icon}](https://www.youtube.com/c/Politikonphi/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Politikon](https://www.youtube.com/c/Politikonphi/featured)
+{: .channel-title}
+
+Présentation de théories politiques en philosophie en sciences humaines.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* ["La propriété privée de soi-même" - Le libertarianisme](https://www.youtube.com/watch?v=DofuoNzjBsI){: target="_blank"} (16:16)
+* [Conseillisme et démocratie](https://www.youtube.com/watch?v=0nfBnvJxB-U){: target="_blank"} (14:30)
+* [Max Weber - L'éthique protestante et l'esprit du capitalisme](https://www.youtube.com/watch?v=I8uyVbjga9Y){: target="_blank"} (7:25)
+
 ## <!-- TEMP -->
 
 {% include separator.html %}
