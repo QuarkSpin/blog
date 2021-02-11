@@ -484,6 +484,23 @@ Une avocate vulgarise le droit, notamment dans les domaines de la création et d
 * [LA VÉRITÉ SUR L'ARTICLE 13](https://www.youtube.com/watch?v=PYN0L_CTWZI){: target="_blank"} (15:25)
 * [VOS CLICHES SUR LES AVOCATS](https://www.youtube.com/watch?v=esrTJDbm8bk){: target="_blank"} (5:20)
 
+{% include separator.html %}
+
+[![Camille décode]({{ site.baseurl }}/images/youtube/Camille decode.jpg){: .channel-icon}](https://www.youtube.com/channel/UCWHZkABcR34T276qySN8xTA/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Camille décode](https://www.youtube.com/channel/UCWHZkABcR34T276qySN8xTA/featured)
+{: .channel-title}
+
+Une avocate commente l'actualité juridique et vulgarise le droit.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [Ce que prévoit la LOI SÉCURITÉ GLOBALE](https://www.youtube.com/watch?v=Zlj_YWoHW7U){: target="_blank"} (12:47)
+* [VIOL, AGRESSION sexuelle, ATTEINTE sexuelle : quelle différence ?!](https://www.youtube.com/watch?v=KR-FNT8gBA4){: target="_blank"} (3:56)
+* [TOUT COMPRENDRE (ou presque) de L'AFFAIRE VINCENT LAMBERT](https://www.youtube.com/watch?v=30rjMSEvvKo){: target="_blank"} (10:17)
+
 ## Philosophie
 
 [![Monsieur Phi]({{ site.baseurl }}/images/youtube/monsieur-phi.jpg){: .channel-icon}](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw)
@@ -825,6 +842,93 @@ Courtes animations 2D sur les horreurs de l'histoire humaine.
 * [Khmers rouges](https://www.youtube.com/watch?v=qf5BaTs9ICo){: target="_blank"} (2:00)
 * [Charlemagne contre les païens](https://www.youtube.com/watch?v=jGrS8n-TY6o){: target="_blank"} (5:00)
 * [Nuke](https://www.youtube.com/watch?v=9hqZnuF6YBE){: target="_blank"} (6:13)
+
+{% include separator.html %}
+
+[![Parlons Y-stoire]({{ site.baseurl }}/images/youtube/Parlons Y-stoire.jpg){: .channel-icon}](https://www.youtube.com/channel/UCuzwN74da6dfHW69r4S2qJg)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Parlons Y-stoire](https://www.youtube.com/channel/UCuzwN74da6dfHW69r4S2qJg)
+{: .channel-title}
+
+Vulgarisation de l'histoire.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [ILS N'ONT RIEN VU VENIR : LA GRIPPE ESPAGNOLE](https://www.youtube.com/watch?v=3DM_CqyD5kk){: target="_blank"} (27:42)
+* [STRASBOURG, LA PETITE HISTOIRE DE LA PLACE DU CHÂTEAU](https://www.youtube.com/watch?v=XjiALxFXEgM){: target="_blank"} (17:09)
+* [POURQUOI DES ABBAYES FONT DE LA BIÈRE ?](https://www.youtube.com/watch?v=mE7qjzkLTEg){: target="_blank"} (12:26)
+
+{% include separator.html %}
+
+[![AlterHis]({{ site.baseurl }}/images/youtube/AlterHis.jpg){: .channel-icon}](https://www.youtube.com/c/AlterHis/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [AlterHis](https://www.youtube.com/c/AlterHis/featured)
+{: .channel-title}
+
+Exploration de l'histoire au travers de scénarios hypothétiques d'histoire alternative.
+
+ℹ️ chaine de curiosités, pas d'enseignement
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Et Si Napoléon N'avait Pas Vendu La Louisiane?](https://www.youtube.com/watch?v=fRTv06B0-KU){: target="_blank"} (26:43)
+* [Et Si Les Croisades N'avaient Jamais Eu Lieu?](https://www.youtube.com/watch?v=LoEj_X11jNQ){: target="_blank"} (23:15)
+* [Et Si l'Empire Romain Avait Découvert l'Amérique?](https://www.youtube.com/watch?v=JbRJ56UQGEk){: target="_blank"} (15:40)
+
+## Anthropologie & Archéologie
+
+[![Boneless Archéologie]({{ site.baseurl }}/images/youtube/Boneless Archeologie.jpg){: .channel-icon}](https://www.youtube.com/channel/UC7ktqoCpxEbP9TV-xQLTonQ)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Boneless Archéologie](https://www.youtube.com/channel/UC7ktqoCpxEbP9TV-xQLTonQ)
+{: .channel-title}
+
+Vulgarisation sur les rites et objets mortuaires, avec des touches d'humour, par une docteure en archéologie mortuaire.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [J'ai éliminé mon boss... Que Faire ?](https://www.youtube.com/watch?v=azBGFmtpcsE){: target="_blank"} (9:52)
+* [Anecdotes Paléolithiques CREDIBLES dans FAR CRY PRIMAL](https://www.youtube.com/watch?v=PVDCsNt5iu4){: target="_blank"} (16:47)
+* [La MORT au JAPON (des poupées sexuelles aux Jeux Vidéos d'auto-destruction)](https://www.youtube.com/watch?v=LDpzmm9NySk){: target="_blank"} (20:08)
+
+{% include separator.html %}
+
+[![Le Bizarreum]({{ site.baseurl }}/images/youtube/Le Bizarreum.jpg){: .channel-icon}](https://www.youtube.com/c/LeBizarreum/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Le Bizarreum](https://www.youtube.com/c/LeBizarreum/featured)
+{: .channel-title}
+
+Vulgarisation sur les rites et objets mortuaires.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Faux enterrement en Corée du Sud](https://www.youtube.com/watch?v=Bv1oU9ox41w){: target="_blank"} (5:34)
+* [Archéologie des momies du Groenland et d'Alaska](https://www.youtube.com/watch?v=1t5-gJQEJsk){: target="_blank"} (20:14)
+* [Les corps du Titanic et l'équipage de thanatopracteurs](https://www.youtube.com/watch?v=baSkGc4AMhM){: target="_blank"} (8:55)
+
+{% include separator.html %}
+
+[![Passé sauvage]({{ site.baseurl }}/images/youtube/Passe sauvage.jpg){: .channel-icon}](https://www.youtube.com/c/Pass%C3%A9sauvage/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Passé sauvage](https://www.youtube.com/c/Pass%C3%A9sauvage/featured)
+{: .channel-title}
+
+______________________
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
+* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
+* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
 
 ## Mathématiques
 
