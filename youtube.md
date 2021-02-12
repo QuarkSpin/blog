@@ -399,7 +399,7 @@ Explications et reportages sur des sujets liés à la géopolitique.
 
 ## Pensée critique
 
-[![Mr. Sam - Point d’interrogation]({{ site.baseurl }}/images/youtube/Mr. Sam—Point d’interrogation.jpg){: .channel-icon}](https://www.youtube.com/user/SamuelBuisseret)
+[![Mr. Sam - Point d’interrogation]({{ site.baseurl }}/images/youtube/Mr. Sam - Point d'interrogation.jpg){: .channel-icon}](https://www.youtube.com/user/SamuelBuisseret)
 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Mr. Sam—Point d’interrogation](https://www.youtube.com/user/SamuelBuisseret)
 {: .channel-title}
@@ -1246,7 +1246,7 @@ Vulgarisation d’Histoire et d’archéologie.
 
 {% include separator.html %}
 
-[![Confessions d’Histoire]({{ site.baseurl }}/images/youtube/Confessions d’Histoire.jpg){: .channel-icon}](https://www.youtube.com/c/Confessions-d-Histoire-France/featured)
+[![Confessions d’Histoire]({{ site.baseurl }}/images/youtube/Confessions d'Histoire.jpg){: .channel-icon}](https://www.youtube.com/c/Confessions-d-Histoire-France/featured)
 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Confessions d’Histoire](https://www.youtube.com/c/Confessions-d-Histoire-France/featured)
 {: .channel-title}
@@ -1316,7 +1316,7 @@ Exploration de l’Histoire au travers de scénarios hypothétiques d’histoire
 
 {% include separator.html %}
 
-[![Questions d’Histoire]({{ site.baseurl }}/images/youtube/Questions d’Histoire.jpg){: .channel-icon}](https://www.youtube.com/c/QuestionsdHistoire/featured)
+[![Questions d’Histoire]({{ site.baseurl }}/images/youtube/Questions d'Histoire.jpg){: .channel-icon}](https://www.youtube.com/c/QuestionsdHistoire/featured)
 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Questions d’Histoire](https://www.youtube.com/c/QuestionsdHistoire/featured)
 {: .channel-title}
@@ -1333,7 +1333,7 @@ Vulgarisation de l’Histoire.
 
 {% include separator.html %}
 
-[![C’est une autre histoire]({{ site.baseurl }}/images/youtube/C’est une autre histoire.jpg){: .channel-icon}](https://www.youtube.com/c/Cestuneautrehistoire/featured)
+[![C’est une autre histoire]({{ site.baseurl }}/images/youtube/C'est une autre histoire.jpg){: .channel-icon}](https://www.youtube.com/c/Cestuneautrehistoire/featured)
 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [C’est une autre histoire](https://www.youtube.com/c/Cestuneautrehistoire/featured)
 {: .channel-title}
@@ -1830,7 +1830,7 @@ Chroniques sur l’histoire et les secrets des jouets (surtout des années 80-9
 
 ## Foi chrétienne
 
-[![Église protestante unie de l’Étoile]({{ site.baseurl }}/images/youtube/Eglise protestante unie de l’Etoile.jpg){: .channel-icon}](https://www.youtube.com/channel/UCGIDFDZZrEGt3uZZ0nRKwCQ)
+[![Église protestante unie de l’Étoile]({{ site.baseurl }}/images/youtube/Eglise protestante unie de l'Etoile.jpg){: .channel-icon}](https://www.youtube.com/channel/UCGIDFDZZrEGt3uZZ0nRKwCQ)
 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Église protestante unie de l’Étoile](https://www.youtube.com/channel/UCGIDFDZZrEGt3uZZ0nRKwCQ)
 {: .channel-title}
