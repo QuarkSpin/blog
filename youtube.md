@@ -4,12 +4,12 @@ title: Chaînes YouTube
 permalink: /chaines-youtube/
 ---
 
-Dernière mise à jour le **02/02/2021**
+Dernière mise à jour le **12/02/2021**
 {: .notice--info}
 
 Cette page présente les chaînes YouTube qui m'intéressent *personnellement*. Elle est mise à jour au fil de mes découvertes.
 
-Je note chaque chaine de 1 à 3 étoiles, subjectivement, en fonction de la qualité des propos et de la technique. Même les chaines avec une seule étoile sont intéressantes.
+Je note chaque chaine de 1 à 3 étoiles, subjectivement, en fonction de la qualité des propos (pertinence, rigueur, clareté...) et de la technique (audio, montage, graphiques...). Même les chaines avec une seule étoile sont intéressantes.
 
 La liste étant assez longue, vous pouvez accéder à une thématique précise en utilisant la table des matières ci-dessous.
 
@@ -571,6 +571,23 @@ Vulgarisation sur la biologie.
 * [Les futures épidémies que nous vivrons](https://www.youtube.com/watch?v=VJNt1AQ8p2A){: target="_blank"} (22:08)
 * [L'eugénisme à la cool du futur](https://www.youtube.com/watch?v=cYAaHJ9WUXs){: target="_blank"} (23:16)
 
+{% include separator.html %}
+
+[![Marie Wild]({{ site.baseurl }}/images/youtube/Marie Wild.jpg){: .channel-icon}](https://www.youtube.com/c/FirstTimeVlog/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Marie Wild](https://www.youtube.com/c/FirstTimeVlog/featured)
+{: .channel-title}
+
+Reportages et vulgarisation sur la biodiversité.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [RECONNAÎTRE LES OISEAUX SAUVAGES](https://www.youtube.com/watch?v=KQwptUtaiAg){: target="_blank"} (9:43)
+* [J'AI CAPTURÉ DE NOUVEAUX OISEAUX EN CAMARGUE](https://www.youtube.com/watch?v=9vTGOOTCoDg){: target="_blank"} (12:58)
+* [L'EXTINCTION DES ORQUES RÉSIDENTES DU SUD](https://www.youtube.com/watch?v=x7E9SQ1WyEI){: target="_blank"} (17:50)
+
 ## Médecine
 
 [![Primum Non Nocere]({{ site.baseurl }}/images/youtube/primum-non-nocere.jpg){: .channel-icon}](https://www.youtube.com/c/PrimumNonNocereVideo/featured)
@@ -629,7 +646,7 @@ Un médecin de santé publique vulgarise l'épidémiologie et les statistiques u
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Heu?reka](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ)
 {: .channel-title}
 
-Un ancien trader vulgarise l'économie.
+Un ancien trader vulgarise l'économie, notamment les marchés et la finance.
 
 **Mon avis** : ⭐⭐⭐
 
@@ -638,6 +655,40 @@ Un ancien trader vulgarise l'économie.
 * [Prix négatifs du pétrole](https://www.youtube.com/watch?v=Qf-VuCNLA8I){: target="_blank"} (13:06)
 * [Où va l'argent du krach ?](https://www.youtube.com/watch?v=1Az-qCxYwYI){: target="_blank"} (9:41)
 * [La fortune d'Elon Musk et le paradoxe des dividendes neutres](https://www.youtube.com/watch?v=GnmUW34k0dc){: target="_blank"} (29:48)
+
+{% include separator.html %}
+
+[![Stupid Economics]({{ site.baseurl }}/images/youtube/Stupid Economics.jpg){: .channel-icon}](https://www.youtube.com/c/StupidEconomics-corp/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Stupid Economics](https://www.youtube.com/c/StupidEconomics-corp/featured)
+{: .channel-title}
+
+Vulgarisation de l'économie et analyse de l'actualité économique.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [COVID19​ : L’économie d’avant le monde d’après](https://www.youtube.com/watch?v=A_tqSpOCWnI){: target="_blank"} (13:16)
+* [VENEZUELA : Les pauvres millionnaires et l'hyperinflation](https://www.youtube.com/watch?v=pEeRqbpGeEc){: target="_blank"} (7:39)
+* [MACRON / LE PEN : LE CLASH](https://www.youtube.com/watch?v=esou1KE6lkM){: target="_blank"} (15:36)
+
+{% include separator.html %}
+
+[![Des économistes et des Hommes]({{ site.baseurl }}/images/youtube/Des economistes et des Hommes.jpg){: .channel-icon}](https://www.youtube.com/channel/UCmZCyJW81hmnHXVuLU7qKBw/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Des économistes et des Hommes](https://www.youtube.com/channel/UCmZCyJW81hmnHXVuLU7qKBw/featured)
+{: .channel-title}
+
+Vulgarisation de théories économiques.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [La théorie de la valeur-travail (Smith)](https://www.youtube.com/watch?v=qq2cyRyheog){: target="_blank"} (12:10)
+* [Le dilemme de Triffin](https://www.youtube.com/watch?v=-rPzzx36ODI){: target="_blank"} (14:03)
+* [Le triangle d'incompatibilité de Mundell](https://www.youtube.com/watch?v=duUJ6AS-FC4){: target="_blank"} (12:13)
 
 ## Cinéma
 
@@ -707,6 +758,57 @@ L'histoire de la création des adaptations cinéma populaires.
 * [ASTERIX et la Surprise de CESAR](https://www.youtube.com/watch?v=NEYevIFCySI){: target="_blank"} (30:44)
 * [Pourquoi Jurassic Park est-il si bien ?](https://www.youtube.com/watch?v=R_JndKOiSWE){: target="_blank"} (25:20)
 
+{% include separator.html %}
+
+[![INTHEPANDA]({{ site.baseurl }}/images/youtube/INTHEPANDA.jpg){: .channel-icon}](https://www.youtube.com/c/INTHEPANDA/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [INTHEPANDA](https://www.youtube.com/c/INTHEPANDA/featured)
+{: .channel-title}
+
+Chroniques et critiques sur le cinéma.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [SNOWPIERCER : ANALYSE (De la BD à la SÉRIE)](https://www.youtube.com/watch?v=rgWmyLc7jc8){: target="_blank"} (20:51)
+* [COMMENT (bien) VOIR UN FILM ?](https://www.youtube.com/watch?v=mWnFWFSmkDo){: target="_blank"} (27:39)
+* [Comment réalise ALEXANDRE ASTIER ?](https://www.youtube.com/watch?v=0X2RtMAoAIs){: target="_blank"} (59:17)
+
+{% include separator.html %}
+
+[![MJ - FERMEZ LA]({{ site.baseurl }}/images/youtube/MJ - FERMEZ LA.jpg){: .channel-icon}](https://www.youtube.com/c/MJFERMEZLA/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [MJ - FERMEZ LA](https://www.youtube.com/c/MJFERMEZLA/featured)
+{: .channel-title}
+
+Chroniques humoristiques sur les polémiques du cinéma.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Le faux problème de "James Bond Femme noire"](https://www.youtube.com/watch?v=dsoFftMc7Kw){: target="_blank"} (23:20)
+* [Le Roi Lion est il un plagiat ?](https://www.youtube.com/watch?v=VrzvBFrMf-w){: target="_blank"} (45:24)
+* ["Rogue One" surestimé ?](https://www.youtube.com/watch?v=tX3463WN_UM){: target="_blank"} (26:10)
+
+{% include separator.html %}
+
+[![Misterfox]({{ site.baseurl }}/images/youtube/Misterfox.jpg){: .channel-icon}](https://www.youtube.com/c/Misterfox/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Misterfox](https://www.youtube.com/c/Misterfox/featured)
+{: .channel-title}
+
+Chroniques sur le doublage (principalement), le cinéma et les DVD.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [LES DOUBLAGES DE FUTURAMA](https://www.youtube.com/watch?v=chzu0k-7o3c){: target="_blank"} (1:34:39)
+* [PARASITE : LES COULISSES DU DOUBLAGE](https://www.youtube.com/watch?v=fUsguLlKWss){: target="_blank"} (41:04)
+* [CES SOUS-TITRES QUI NOUS HYPNOTISENT](https://www.youtube.com/watch?v=Tn0ieYs9zPo){: target="_blank"} (12:05)
+
 ## Histoire
 
 [![Nota Bene]({{ site.baseurl }}/images/youtube/nota-bene.jpg){: .channel-icon}](https://www.youtube.com/user/notabenemovies)
@@ -714,7 +816,7 @@ L'histoire de la création des adaptations cinéma populaires.
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Nota Bene](https://www.youtube.com/user/notabenemovies)
 {: .channel-title}
 
-Vulgarisation d'histoire et de mythologie.
+Vulgarisation d'Histoire et de mythologie.
 
 **Mon avis** : ⭐⭐⭐
 
@@ -731,7 +833,7 @@ Vulgarisation d'histoire et de mythologie.
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Les Revues du Monde](https://www.youtube.com/c/LesRevuesduMonde)
 {: .channel-title}
 
-Vulgarisation d'histoire et d'archéologie.
+Vulgarisation d'Histoire et d'archéologie.
 
 **Mon avis** : ⭐⭐
 
@@ -748,7 +850,7 @@ Vulgarisation d'histoire et d'archéologie.
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [C'est une autre histoire](https://www.youtube.com/c/Cestuneautrehistoire/featured)
 {: .channel-title}
 
-Vulgarisation de l'histoire, notamment de curiosités historiques, par une docteure en histoire.
+Vulgarisation de l'Histoire, notamment de curiosités historiques, par une docteure en histoire.
 
 **Mon avis** : ⭐
 
@@ -833,7 +935,7 @@ Vulgarisation historique avec une approche humoristique et informel.
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [horror humanum est](https://www.youtube.com/c/horrorhumanumest/featured)
 {: .channel-title}
 
-Courtes animations 2D sur les horreurs de l'histoire humaine.
+Courtes animations 2D sur les horreurs de l'Histoire humaine.
 
 **Mon avis** : ⭐⭐
 
@@ -850,7 +952,7 @@ Courtes animations 2D sur les horreurs de l'histoire humaine.
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Parlons Y-stoire](https://www.youtube.com/channel/UCuzwN74da6dfHW69r4S2qJg)
 {: .channel-title}
 
-Vulgarisation de l'histoire.
+Vulgarisation de l'Histoire.
 
 **Mon avis** : ⭐⭐
 
@@ -867,7 +969,7 @@ Vulgarisation de l'histoire.
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [AlterHis](https://www.youtube.com/c/AlterHis/featured)
 {: .channel-title}
 
-Exploration de l'histoire au travers de scénarios hypothétiques d'histoire alternative.
+Exploration de l'Histoire au travers de scénarios hypothétiques d'histoire alternative.
 
 ℹ️ chaine de curiosités, pas d'enseignement
 
@@ -878,6 +980,23 @@ Exploration de l'histoire au travers de scénarios hypothétiques d'histoire alt
 * [Et Si Napoléon N'avait Pas Vendu La Louisiane?](https://www.youtube.com/watch?v=fRTv06B0-KU){: target="_blank"} (26:43)
 * [Et Si Les Croisades N'avaient Jamais Eu Lieu?](https://www.youtube.com/watch?v=LoEj_X11jNQ){: target="_blank"} (23:15)
 * [Et Si l'Empire Romain Avait Découvert l'Amérique?](https://www.youtube.com/watch?v=JbRJ56UQGEk){: target="_blank"} (15:40)
+
+{% include separator.html %}
+
+[![Questions d'Histoire]({{ site.baseurl }}/images/youtube/Questions d'Histoire.jpg){: .channel-icon}](https://www.youtube.com/c/QuestionsdHistoire/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Questions d'Histoire](https://www.youtube.com/c/QuestionsdHistoire/featured)
+{: .channel-title}
+
+Vulgarisation de l'Histoire.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Pourquoi les Khmers rouges ont-ils exterminé leur propre peuple ?](https://www.youtube.com/watch?v=6ocbz5Ts3as){: target="_blank"} (25:02)
+* [Comment les États-Unis se sont-ils développés après la Guerre de Sécession ?](https://www.youtube.com/watch?v=CNZgmk8M8q4){: target="_blank"} (29:24)
+* [Akhenaton : inventeur du premier monothéisme ?](https://www.youtube.com/watch?v=lEdYC5tUKm8){: target="_blank"} (17:41)
 
 ## Anthropologie & Archéologie
 
@@ -920,15 +1039,15 @@ Vulgarisation sur les rites et objets mortuaires.
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Passé sauvage](https://www.youtube.com/c/Pass%C3%A9sauvage/featured)
 {: .channel-title}
 
-______________________
+Vulgarisation de l'archéologie et l'anthropologie.
 
-**Mon avis** : ⭐
+**Mon avis** : ⭐⭐
 
 **3 vidéos pour découvrir** :
 
-* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
-* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
-* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
+* [Et l'homme créa la femme](https://www.youtube.com/watch?v=dwV_ZJOo4KI){: target="_blank"} (10:40)
+* [L’Olympe, Territoire des Dieux](https://www.youtube.com/watch?v=ejcodZrWG3I){: target="_blank"} (10:16)
+* [La valeur de nos vêtements : pudeur, protection, parure](https://www.youtube.com/watch?v=oMlJCSgBhII){: target="_blank"} (11:04)
 
 ## Mathématiques
 
@@ -1171,6 +1290,40 @@ Série documentaire sur le jeu vidéo et son rapport au monde.
 * [Comment se fabriquent les jeux vidéo](https://www.youtube.com/watch?v=E8G7zipy6bM){: target="_blank"} (1:09:03)
 * [Qui sont les joueurs de jeu vidéo ?](https://www.youtube.com/watch?v=_sUvKvoK9I8){: target="_blank"} (1:58:56)
 * [Comment Zelda Breath of the Wild nous parle de liberté](https://www.youtube.com/watch?v=3bmMV6zhSkk){: target="_blank"} (12:18)
+
+## Musique
+
+[![Florent Garcia]({{ site.baseurl }}/images/youtube/Florent Garcia.jpg){: .channel-icon}](https://www.youtube.com/c/FlorentGarcia/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Florent Garcia](https://www.youtube.com/c/FlorentGarcia/featured)
+{: .channel-title}
+
+Analyses de musiques populaires.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [Pourquoi préfère-t-on les musiques de STAR WARS à celles des MARVEL ?](https://www.youtube.com/watch?v=F2kfuB7qB7I){: target="_blank"} (15:04)
+* [Le son de 𝐁𝐑𝐄𝐀𝐓𝐇 𝐎𝐅 𝐓𝐇𝐄 𝐖𝐈𝐋𝐃 est dingue](https://www.youtube.com/watch?v=CnAq344QZxw){: target="_blank"} (17:40)
+* [Comment ERIC CLAPTON improvise un solo](https://www.youtube.com/watch?v=zlPEMV-PJ4M){: target="_blank"} (16:27)
+
+{% include separator.html %}
+
+[![Adam Neely]({{ site.baseurl }}/images/youtube/Adam Neely.jpg){: .channel-icon}](https://www.youtube.com/c/AdamNeely/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Adam Neely](https://www.youtube.com/c/AdamNeely/featured)
+{: .channel-title}
+
+Chroniques et réflexions sur la musique populaire et la théorie musicale.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [Why you DON'T want Perfect Pitch](https://www.youtube.com/watch?v=QRaACa1Mrd4){: target="_blank"} (15:08)
+* [Lady Gaga's MIXED METER Star Spangled Banner?!](https://www.youtube.com/watch?v=Y_GY3DB8pL4){: target="_blank"} (14:28)
+* [The 7 Levels of Jazz Harmony](https://www.youtube.com/watch?v=lz3WR-F_pnM){: target="_blank"} (13:11)
 
 ## Culture populaire
 
