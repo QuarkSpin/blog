@@ -7,9 +7,12 @@ permalink: /chaines-youtube/
 Dernière mise à jour le **12/02/2021**
 {: .notice--info}
 
+TODO : classer par note dans chaque rubrique
+{: .notice--danger}
+
 Cette page présente les chaînes YouTube qui m'intéressent *personnellement*. Elle est mise à jour au fil de mes découvertes.
 
-Je note chaque chaine de 1 à 3 étoiles, subjectivement, en fonction de la qualité des propos (pertinence, rigueur, clareté...) et de la technique (audio, montage, graphiques...). Même les chaines avec une seule étoile sont intéressantes.
+Je note chaque chaine de ⭐ à ⭐⭐⭐, subjectivement, en fonction de la qualité des propos (pertinence, rigueur, clareté...) et de la technique (audio, montage, graphiques...). Même les chaines avec une seule étoile sont intéressantes.
 
 La liste étant assez longue, vous pouvez accéder à une thématique précise en utilisant la table des matières ci-dessous.
 
@@ -412,7 +415,7 @@ Reportages et enquêtes sur des sujets variés.
 * [The Evangelicals Voting for Biden \| God's Country](https://www.youtube.com/watch?v=O9yrM92WwlM){: target="_blank"} (17:16)
 * [The Satanic Temple's Protest for First Amendment Rights](https://www.youtube.com/watch?v=6AOX-_HdFKQ){: target="_blank"} (13:33)
 
-## Conférences et entretiens
+## Talks
 
 [![TED]({{ site.baseurl }}/images/youtube/TED.jpg){: .channel-icon}](https://www.youtube.com/c/TED/featured)
 
@@ -639,6 +642,40 @@ Un médecin de santé publique vulgarise l'épidémiologie et les statistiques u
 * [I.M.C. - "Être gros ?"](https://www.youtube.com/watch?v=TeuSuquvsGI){: target="_blank"} (17:54)
 * [Les anecdotes en médecine](https://www.youtube.com/watch?v=BHKeMygangw){: target="_blank"} (11:55)
 
+## Psychologie & Psychiatrie
+
+[![Le PsyLab]({{ site.baseurl }}/images/youtube/Le PsyLab.jpg){: .channel-icon}](https://www.youtube.com/channel/UC72lswiocu5Asjt6j9RWh7A)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Le PsyLab](https://www.youtube.com/channel/UC72lswiocu5Asjt6j9RWh7A)
+{: .channel-title}
+
+Chroniques et vulgarisation psychiatrique, par des docteurs en psychiatrie.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [DES ÉLECTRODES DANS LE CERVEAU ?](https://www.youtube.com/watch?v=agPsi-i7L-s){: target="_blank"} (14:11)
+* [DANS LA TÊTE D'UN COMPLOTISTE](https://www.youtube.com/watch?v=lyTDDEgIjsI){: target="_blank"} (11:31)
+* [Jeu vidéo et addiction](https://www.youtube.com/watch?v=dx7-_J6ReGU){: target="_blank"} (22:26)
+
+{% include separator.html %}
+
+[![La Psy Qui Parle]({{ site.baseurl }}/images/youtube/La Psy Qui Parle.jpg){: .channel-icon}](https://www.youtube.com/channel/UCjFDAyjR5j8KqzxIkgCYgmA/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [La Psy Qui Parle](https://www.youtube.com/channel/UCjFDAyjR5j8KqzxIkgCYgmA/featured)
+{: .channel-title}
+
+Chroniques et vulgarisation de psychologie, par une psychologue.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [Comment le mot GRATUIT nous pousse à acheter?](https://www.youtube.com/watch?v=kYWbG-vh0hY){: target="_blank"} (7:08)
+* [Pourquoi LA PSYCHOLOGIE est une SCIENCE ?](https://www.youtube.com/watch?v=3LO0qjifxD8){: target="_blank"} (6:56)
+* [CONFINEMENT: les 3 COMPORTEMENTS identifiés en psychologie](https://www.youtube.com/watch?v=oRj8dcRIHFE){: target="_blank"} (7:20)
+
 ## Économie
 
 [![Heu?reka]({{ site.baseurl }}/images/youtube/heu-reka.jpg){: .channel-icon}](https://www.youtube.com/channel/UC7sXGI8p8PvKosLWagkK9wQ)
@@ -731,7 +768,7 @@ Chroniques, analyses et histoire du cinéma.
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Chronik Fiction](https://www.youtube.com/c/ChronikFiction/featured)
 {: .channel-title}
 
-Chroniques sur les morts emblématiques du cinéma.
+Chroniques scénarisées sur les morts emblématiques du cinéma.
 
 **Mon avis** : ⭐⭐⭐
 
@@ -1291,6 +1328,23 @@ Série documentaire sur le jeu vidéo et son rapport au monde.
 * [Qui sont les joueurs de jeu vidéo ?](https://www.youtube.com/watch?v=_sUvKvoK9I8){: target="_blank"} (1:58:56)
 * [Comment Zelda Breath of the Wild nous parle de liberté](https://www.youtube.com/watch?v=3bmMV6zhSkk){: target="_blank"} (12:18)
 
+{% include separator.html %}
+
+[![Noclip]({{ site.baseurl }}/images/youtube/Noclip.jpg){: .channel-icon}](https://www.youtube.com/c/NoclipVideo/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [Noclip](https://www.youtube.com/c/NoclipVideo/featured)
+{: .channel-title}
+
+Documentaires sur la conception des jeux vidéo.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [The Untold History of Arkane](https://www.youtube.com/watch?v=h4kdqwdbZZ8){: target="_blank"} (1:20:26)
+* [How Microsoft Flight Simulator Recreated Our Entire Planet](https://www.youtube.com/watch?v=0w7q1ZFfsxs){: target="_blank"} (34:35)
+* [The History of Bethesda Game Studios](https://www.youtube.com/watch?v=QKn9yiLVlMM){: target="_blank"} (1:28:37)
+
 ## Musique
 
 [![Florent Garcia]({{ site.baseurl }}/images/youtube/Florent Garcia.jpg){: .channel-icon}](https://www.youtube.com/c/FlorentGarcia/featured)
@@ -1586,6 +1640,23 @@ Interviews avec des spécialistes sur la pensée critique.
 * [Zététique : Henri Broch](https://www.youtube.com/watch?v=UvMGZeU7hdw){: target="_blank"} (1:06:55)
 * [Zététique : Gérald Bronner : La société de l'information a-t-elle noyé notre esprit critique ?](https://www.youtube.com/watch?v=tXQSx0UaDbw){: target="_blank"} (52:06)
 
+{% include separator.html %}
+
+[![AFIS - Association Française pour l'Information Scientifique]({{ site.baseurl }}/images/youtube/AFIS.jpg){: .channel-icon}](https://www.youtube.com/channel/UCQUFrbxOiGamAA9lFHLolig/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [AFIS - Association Française pour l'Information Scientifique](https://www.youtube.com/channel/UCQUFrbxOiGamAA9lFHLolig/featured)
+{: .channel-title}
+
+Conférences d'experts appliquant la pensée critique à des sujets scientifiques.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Homéopathie : 200 ans d'histoire, quel avenir ?](https://www.youtube.com/watch?v=8EVWnMFF5zI){: target="_blank"} (1:35:04)
+* [Mémoire retrouvée ou faux souvenirs ?](https://www.youtube.com/watch?v=E5sr8uo8Nzo){: target="_blank"} (1:35:31)
+* [L'esprit critique pour tous ?](https://www.youtube.com/watch?v=PCeuNUt8z7k){: target="_blank"} (1:04:08)
+
 ## Politique
 
 [![Second Thought]({{ site.baseurl }}/images/youtube/Second Thought.jpg){: .channel-icon}](https://www.youtube.com/c/SecondThought/featured)
@@ -1689,6 +1760,40 @@ Présentation de théories politiques en philosophie en sciences humaines.
 * ["La propriété privée de soi-même" - Le libertarianisme](https://www.youtube.com/watch?v=DofuoNzjBsI){: target="_blank"} (16:16)
 * [Conseillisme et démocratie](https://www.youtube.com/watch?v=0nfBnvJxB-U){: target="_blank"} (14:30)
 * [Max Weber - L'éthique protestante et l'esprit du capitalisme](https://www.youtube.com/watch?v=I8uyVbjga9Y){: target="_blank"} (7:25)
+
+## Sociologie
+
+[![horizon-gull]({{ site.baseurl }}/images/youtube/horizon-gull.jpg){: .channel-icon}](https://www.youtube.com/c/horizongull/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [horizon-gull](https://www.youtube.com/c/horizongull/featured)
+{: .channel-title}
+
+Vulgarisation et analyse de sociologie et psychologie sociale.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [La soumission au costume](https://www.youtube.com/watch?v=lzugeIXsLxc){: target="_blank"} (26:46)
+* [LES AUTORITAIRES (partie 1) : les premières enquêtes](https://www.youtube.com/watch?v=2__Dd_KXuuU){: target="_blank"} (45:41)
+* [Pourquoi les américains nous paraissent-ils idiots ?](https://www.youtube.com/watch?v=Ic3xHn1E8EE){: target="_blank"} (30:32)
+
+{% include separator.html %}
+
+[![Fouloscopie]({{ site.baseurl }}/images/youtube/Fouloscopie.jpg){: .channel-icon}](https://www.youtube.com/c/Fouloscopie/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Fouloscopie](https://www.youtube.com/c/Fouloscopie/featured)
+{: .channel-title}
+
+Vulgarisation sur le comportement des foules, par un chercheur en sciences cognitives.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Imiter ou innover : faut-il faire comme tout le monde ?](https://www.youtube.com/watch?v=asHiYmdk9W0){: target="_blank"} (10:51)
+* [Peut-on prédire les futurs crimes ?](https://www.youtube.com/watch?v=HHCiNPtR1NI){: target="_blank"} (16:27)
+* [Une expérience sociale avec 1200 abonnés](https://www.youtube.com/watch?v=ppSrAHoGwrI){: target="_blank"} (16:11)
 
 ## <!-- TEMP -->
 
