@@ -7,7 +7,7 @@ permalink: /chaines-youtube/
 Dernière mise à jour le **12/02/2021**
 {: .notice--info}
 
-TODO : classer par note dans chaque rubrique
+TODO : classer par note dans chaque rubrique + trier les rubriques
 {: .notice--danger}
 
 Cette page présente les chaînes YouTube qui m'intéressent *personnellement*. Elle est mise à jour au fil de mes découvertes.
@@ -122,9 +122,9 @@ Vulgarisation scientifique sur divers sujets sous forme d'animation 2D.
 
 {% include separator.html %}
 
-[![Scilabus]({{ site.baseurl }}/images/youtube/scilabus.jpg){: .channel-icon}](______________________)
+[![Scilabus]({{ site.baseurl }}/images/youtube/scilabus.jpg){: .channel-icon}](https://www.youtube.com/c/scilabus/featured)
 
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [Scilabus](______________________)
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Scilabus](https://www.youtube.com/c/scilabus/featured)
 {: .channel-title}
 
 Vulgarisation scientifique sur divers sujets par une docteure en biomécanique.
@@ -205,6 +205,40 @@ Vulgarisation scientifique sur divers sujets.
 * [Behavior and Belief](https://www.youtube.com/watch?v=BR-eMMCp7tg){: target="_blank"} (28:26)
 * [Which Way Is Down?](https://www.youtube.com/watch?v=Xc4xYacTu-E){: target="_blank"} (26:10)
 
+{% include separator.html %}
+
+[![The Royal Institution]({{ site.baseurl }}/images/youtube/The Royal Institution.jpg){: .channel-icon}](https://www.youtube.com/user/TheRoyalInstitution/featured)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [The Royal Institution](https://www.youtube.com/user/TheRoyalInstitution/featured)
+{: .channel-title}
+
+Conférences par scientifiques de différents domaines à la *Royal Institution* de Londres.
+
+**Mon avis** : ⭐⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [Should Computers Run the World? - with Hannah Fry](https://www.youtube.com/watch?v=Rzhpf1Ai7Z4){: target="_blank"} (36:04)
+* [Birth of a Theorem - with Cédric Villani](https://www.youtube.com/watch?v=yYwydG_aHPE){: target="_blank"} (58:24)
+* [Copy number variation and the secret of life - with Aoife McLysaght](https://www.youtube.com/watch?v=BJm5jHhJNBI){: target="_blank"} (53:34)
+
+{% include separator.html %}
+
+[![nature video]({{ site.baseurl }}/images/youtube/nature video.jpg){: .channel-icon}](https://www.youtube.com/channel/UC7c8mE90qCtu11z47U0KErg)
+
+![UK]({{ site.baseurl }}/images/uk-flag.svg) [nature video](https://www.youtube.com/channel/UC7c8mE90qCtu11z47U0KErg)
+{: .channel-title}
+
+Courtes vidéos de vulgarisation sur l'actualité de la recherche scientifique.
+
+**Mon avis** : ⭐
+
+**3 vidéos pour découvrir** :
+
+* [A swimming dinosaur: The tail of Spinosaurus](https://www.youtube.com/watch?v=fDhofM81RQE){: target="_blank"} (5:10)
+* [Explaining the icy mystery of the Dyatlov Pass deaths](https://www.youtube.com/watch?v=22OmPK7Ml34){: target="_blank"} (9:33)
+* [Immunology wars: Monoclonal antibodies](https://www.youtube.com/watch?v=5AXApBbj1ps){: target="_blank"} (3:10)
+
 ## Actualités et analyses
 
 [![Le Monde]({{ site.baseurl }}/images/youtube/le-monde.jpg){: .channel-icon}](https://www.youtube.com/c/lemondefr)
@@ -279,9 +313,9 @@ Media d'information et d'analyses critiques. Le plus intéressant : l'émission 
 
 {% include separator.html %}
 
-[![Osons Causer]({{ site.baseurl }}/images/youtube/Osons Causer.jpg){: .channel-icon}](______________________)
+[![Osons Causer]({{ site.baseurl }}/images/youtube/Osons Causer.jpg){: .channel-icon}](https://www.youtube.com/c/Osonscauser/featured)
 
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [Osons Causer](______________________)
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Osons Causer](https://www.youtube.com/c/Osonscauser/featured)
 {: .channel-title}
 
 Analyses et interviews sur des sujets d'actualité et de société.
@@ -804,7 +838,7 @@ L'histoire de la création des adaptations cinéma populaires.
 
 Chroniques et critiques sur le cinéma.
 
-**Mon avis** : ⭐
+**Mon avis** : ⭐⭐
 
 **3 vidéos pour découvrir** :
 
@@ -845,6 +879,23 @@ Chroniques sur le doublage (principalement), le cinéma et les DVD.
 * [LES DOUBLAGES DE FUTURAMA](https://www.youtube.com/watch?v=chzu0k-7o3c){: target="_blank"} (1:34:39)
 * [PARASITE : LES COULISSES DU DOUBLAGE](https://www.youtube.com/watch?v=fUsguLlKWss){: target="_blank"} (41:04)
 * [CES SOUS-TITRES QUI NOUS HYPNOTISENT](https://www.youtube.com/watch?v=Tn0ieYs9zPo){: target="_blank"} (12:05)
+
+{% include separator.html %}
+
+[![Le ciné-club de M. Bobine]({{ site.baseurl }}/images/youtube/Le cine-club de M. Bobine.jpg){: .channel-icon}](https://www.youtube.com/channel/UCMAOGbM65D7VzbVTmpKeKgQ)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Le ciné-club de M. Bobine](https://www.youtube.com/channel/UCMAOGbM65D7VzbVTmpKeKgQ)
+{: .channel-title}
+
+Analyses et critiques sur le cinéma.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [La trilogie du Hobbit de Peter Jackson](https://www.youtube.com/watch?v=VM7IHKhXmU8){: target="_blank"} (34:25)
+* [SNOWPIERCER de Bong Joon-ho](https://www.youtube.com/watch?v=rK9rUEp4BNY){: target="_blank"} (16:59)
+* [Hollywood après le 11 septembre 2001](https://www.youtube.com/watch?v=9pjLM3JGaiE){: target="_blank"} (51:25)
 
 ## Histoire
 
@@ -1088,9 +1139,9 @@ Vulgarisation de l'archéologie et l'anthropologie.
 
 ## Mathématiques
 
-[![Science4All]({{ site.baseurl }}/images/youtube/Science4All.jpg){: .channel-icon}](______________________)
+[![Science4All]({{ site.baseurl }}/images/youtube/Science4All.jpg){: .channel-icon}](https://www.youtube.com/c/Science4Allfran%C3%A7ais/featured)
 
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [Science4All](______________________)
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Science4All](https://www.youtube.com/c/Science4Allfran%C3%A7ais/featured)
 {: .channel-title}
 
 Vulgarisation et application des mathématiques à des sijets de société, par un docteur en mathématiques.
@@ -1344,6 +1395,23 @@ Documentaires sur la conception des jeux vidéo.
 * [The Untold History of Arkane](https://www.youtube.com/watch?v=h4kdqwdbZZ8){: target="_blank"} (1:20:26)
 * [How Microsoft Flight Simulator Recreated Our Entire Planet](https://www.youtube.com/watch?v=0w7q1ZFfsxs){: target="_blank"} (34:35)
 * [The History of Bethesda Game Studios](https://www.youtube.com/watch?v=QKn9yiLVlMM){: target="_blank"} (1:28:37)
+
+{% include separator.html %}
+
+[![Canard PC]({{ site.baseurl }}/images/youtube/Canard PC.jpg){: .channel-icon}](https://www.youtube.com/c/CanardPCMag)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Canard PC](https://www.youtube.com/c/CanardPCMag)
+{: .channel-title}
+
+Découvertes et chroniques sur l'actualité des jeux vidéos, par les journalistes du magazine Canard PC.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [EMISSION \| Hitman 3, Star Wars, Cyberpunk, avec ackboo, Ellen Replay, L-F Sébum et Izual](https://www.youtube.com/watch?v=HTTQSaghZgU){: target="_blank"} (2:01:24)
+* [EMISSION \| Flight Simulator, Star Wars : Squadrons, Star Citizen](https://www.youtube.com/watch?v=lH9qbDLgRHM){: target="_blank"} (2:33:25)
+* [DECOUVERTE \| Solasta, avec L-F. Sébum](https://www.youtube.com/watch?v=33PUIOgRa60){: target="_blank"} (2:07:29)
 
 ## Musique
 
@@ -1712,9 +1780,9 @@ Entretiens avec des personnalités politiques françaises.
 
 {% include separator.html %}
 
-[![Le Dessous des Cartes]({{ site.baseurl }}/images/youtube/Le Dessous des Cartes.jpg){: .channel-icon}](______________________)
+[![Le Dessous des Cartes]({{ site.baseurl }}/images/youtube/Le Dessous des Cartes.jpg){: .channel-icon}](https://www.youtube.com/c/LeDessousdesCartesARTE/featured)
 
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [Le Dessous des Cartes](______________________)
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Le Dessous des Cartes](https://www.youtube.com/c/LeDessousdesCartesARTE/featured)
 {: .channel-title}
 
 Une analyse de la géopolitique basée sur des cartes géographiques. Une émission d'ARTE.
@@ -1761,6 +1829,23 @@ Présentation de théories politiques en philosophie en sciences humaines.
 * [Conseillisme et démocratie](https://www.youtube.com/watch?v=0nfBnvJxB-U){: target="_blank"} (14:30)
 * [Max Weber - L'éthique protestante et l'esprit du capitalisme](https://www.youtube.com/watch?v=I8uyVbjga9Y){: target="_blank"} (7:25)
 
+{% include separator.html %}
+
+[![Mister Geopolitix]({{ site.baseurl }}/images/youtube/Mister Geopolitix.jpg){: .channel-icon}](https://www.youtube.com/c/MisterGeopolitix/featured)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Mister Geopolitix](https://www.youtube.com/c/MisterGeopolitix/featured)
+{: .channel-title}
+
+Explications et reportages sur des sujets liés à la géopolitique.
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [ARCTIQUE: Pourquoi la région est STRATÉGIQUE?](https://www.youtube.com/watch?v=ZRXjhbZjkws){: target="_blank"} (45:08)
+* [Ces militaires protègent une fusée au décollage?!](https://www.youtube.com/watch?v=KV-DBBwd8do){: target="_blank"} (21:13)
+* [NARCOTRAFIC: IMMERSION dans une production illégale d'HÉROÏNE!](https://www.youtube.com/watch?v=gbAeJgT0F50){: target="_blank"} (21:37)
+
 ## Sociologie
 
 [![horizon-gull]({{ site.baseurl }}/images/youtube/horizon-gull.jpg){: .channel-icon}](https://www.youtube.com/c/horizongull/featured)
@@ -1795,21 +1880,38 @@ Vulgarisation sur le comportement des foules, par un chercheur en sciences cogni
 * [Peut-on prédire les futurs crimes ?](https://www.youtube.com/watch?v=HHCiNPtR1NI){: target="_blank"} (16:27)
 * [Une expérience sociale avec 1200 abonnés](https://www.youtube.com/watch?v=ppSrAHoGwrI){: target="_blank"} (16:11)
 
-## <!-- TEMP -->
+## Physique
 
-{% include separator.html %}
+[![ScienceClic]({{ site.baseurl }}/images/youtube/ScienceClic.jpg){: .channel-icon}](https://www.youtube.com/c/ScienceClic/featured)
 
-[![______________________]({{ site.baseurl }}/images/youtube/______________________.jpg){: .channel-icon}](______________________)
-
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [______________________](______________________)
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [ScienceClic](https://www.youtube.com/c/ScienceClic/featured)
 {: .channel-title}
 
-______________________
+Vulgarisation de la physique, avec des animations.
 
-**Mon avis** : ⭐
+**Mon avis** : ⭐⭐⭐
 
 **3 vidéos pour découvrir** :
 
-* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
-* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
-* [_____TITRE_A_DEFINIR_____](_____URL_A_DEFINIR_____){: target="_blank"} (____DUREE_A_DEFINIR____)
+* [La Relativité restreinte](https://www.youtube.com/watch?v=rNUwjlXR8fg){: target="_blank"} (12:58)
+* [La Relativité générale](https://www.youtube.com/watch?v=efQNpe7GOAw){: target="_blank"} (13:42)
+* [Les fluides Supercritiques](https://www.youtube.com/watch?v=sBd3Pvg785U){: target="_blank"} (12:13)
+
+{% include separator.html %}
+
+[![DIMENSION]({{ site.baseurl }}/images/youtube/DIMENSION.jpg){: .channel-icon}](https://www.youtube.com/channel/UCiw_8x43hludK0PhuN9AJGg)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [DIMENSION](https://www.youtube.com/channel/UCiw_8x43hludK0PhuN9AJGg)
+{: .channel-title}
+
+Vulgarisation très simple de la physique, avec des animations en format très court.
+
+ℹ️ chaîne peu active
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+* [DE QUOI EST FAITE LA MATIÈRE ?](https://www.youtube.com/watch?v=_zCRE96r5Qc){: target="_blank"} (6:20)
+* [QU'EST-CE QUE LA LUMIÈRE ?](https://www.youtube.com/watch?v=rBvI0L9VCPY){: target="_blank"} (4:36)
+* [QU'EST-CE QUE L’ANTIMATIÈRE ?](https://www.youtube.com/watch?v=tGvPQLaJZcM){: target="_blank"} (5:02)
