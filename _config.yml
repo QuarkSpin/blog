@@ -27,6 +27,8 @@ author:
       url: https://github.com/QuarkSpin
       icon: fab fa-github
 
+copyright: "© 2020–2021 Nicolas Maurice — Articles sous license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr){: target=\"_blank\"}"
+
 # Build settings
 markdown: kramdown
 feed:

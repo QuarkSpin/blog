@@ -1,4 +1,25 @@
+---
+layout: post
+title: "L'éthique de l'avortement"
+# date:   2021-02-17 08:46:00 +0200
+categories: Éthique
+tags:
+    - Éthique appliquée
+    - Avortement
+excerpt: ...
+image:
+  path: /images/post-images/2021-02-17-ethique-avortement/main.jpg
+  thumbnail: /images/post-images/2021-02-17-ethique-avortement/main-thumb-flat.jpg
+  caption: "Image du [Washington Times](https://www.washingtontimes.com/multimedia/image/bhawkinschem3jpg/)"
+---
 
+{% include wip %}
+
+{% include notices/mon-ethique.html %}
+
+{% include toc %}
+
+## Introduction
 
 <!--
 - https://www.reddit.com/r/Abortiondebate/comments/kxziif/pro_life_response_to_1000_zygotes_vs_4_children/
