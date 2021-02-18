@@ -21,7 +21,7 @@ image:
 
 ## Introduction
 
-Dans le *Seigneur des Anneaux*, alors qu'ils prgressent dans les mines de la Moria, le Hobbit Frodo dit au magicien Gandalf que la créature malfaissante Gollum mériterait la mort. ce à quoi le magicien répond[^lotr1] :
+Dans le *Seigneur des Anneaux*, alors qu'ils progressent dans les mines de la Moria, le Hobbit Frodon dit au magicien Gandalf que la créature malfaissante Gollum mériterait la mort. Ce à quoi le magicien répond[^lotr1] :
 
 > Nombreux sont ceux qui vivent et méritent la mort. Et certains meurent qui méritent la vie. Pouvez-vous la leur donner ? Alors ne soyez pas si empressé d’infliger la mort en jugement. Car même les plus sages ne peuvent percevoir toutes les fins.
 
