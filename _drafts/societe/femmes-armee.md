@@ -11,3 +11,11 @@ image:
   thumbnail: /images/post-images/2021-01-17-femmes-armee/main-thumb-flat.jpg
   caption: "Photographe inconnu"
 ---
+
+
+<!--
+
+  - Google : "studies about women in combat"
+  - https://www.npr.org/2015/09/10/439246978/marine-corps-release-results-of-study-on-women-in-combat-units
+  - https://en.wikipedia.org/wiki/Women_in_combat
+-->
