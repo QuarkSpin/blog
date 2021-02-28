@@ -2,10 +2,12 @@
 layout: post
 title: "#ChangeMyView – Épisode 1"
 # date:   2020-11-16 16:08:00 +0200
-categories: Psychologie Philosophie
+categories: Personnel Société Politique Éthique
 tags:
-    - Philosophie de la logique
-    - Paradoxe
+    - "#ChangeMyView"
+    - Philosophie personnelle
+    - Idéologies
+    - Éthique appliquée
 excerpt: ...
 image:
   path: /images/post-images/2021-02-26-change-my-view-1/main.jpg
@@ -120,7 +122,30 @@ Je reste sur ma position, nuancée sur deux points :
 L'armée ne devrait pas avoir différents barèmes pour les hommes et les femmes.
 {: .notice--info}
 
-TODO
+### Ma justification
+
+L'objectif des différents tests (physiques et autres) est de déterminer l'aptitude d'une recrue potentielle. Avoir des tests plus faciles pour les femmes, par exemple physiques, est soit une admission de recrues inaptes, soit une discrimination envers les hommes. Je m'explique :
+
+Imaginons qu'un test pour entrée dans l'armée requiert, pour les hommes, de pouvoir porter 50kg sur le dos pendant une heure, afin de vérifier leur apritude à pouvoir porter leur packetage. Pour les femmes, le test ne demande que de porter 30kg. Dans ce cas :
+
+* Soit la barre de 30kg est insuffisante en réalité, et les femmes réussisant ce test sont potentiellement sous-qualifiées.
+* Soit la barre de 30kg est suffisante, et les hommes qui aurait pu porter 30kg mais pas 50kg ont été refusés alors qu'ils étaient suffisamment qualifiés.
+
+Avoir des barèmes différents pour les hommes et les femmes me semble injuste et contre-productif. Les tests devraient êtres conçus non pas en fonction du sexe du candidat mais de la fonction visée.
+
+### La contradiction
+
+#### Contrargument 1
+
+Certains avancent le fait que l'objectif de certains tests pourrait être de vérifier la "bonne forme physique" des candidats et non pas de vérifier leur capacité à atteindre tel ou tel critère, et donc qu'un barème différent selon le sexe serait pertinent, par exemple en demandant de soulever un poids différent.
+
+Cet argument ne me convaint pas. Je conçois que des tests de "bonne forme physique" puissent être pertinents, mais la distinction selon le sexe est arbitraire et non pertinente, au contraire d'une distinction sur d'autres critères, comme la taille, l'indice de masse corporelle, la masse osseuse, etc. On pourrait par exemple demander aux candidats de porter leur propre poids sur 1km. Le barème serait donc *en moyenne* plus faible pour les femmes, parce que leur poids est *en moyenne* plus faible que pour les hommes, mais une femme de 80kg aurait tout de même un test plus difficile qu'un homme de 60kg, ce qui me semble plus efficace.
+
+#### Contrargument 2
+
+Un autre argument avancé est que l'armée a besoin de plus de recrues (ce qui est vrai au moins aux USA[^recruit_us] et en France[^recruit_fr]), et que mettre un barème plus bas est nécessaire pour permettre aux femmes d'intégre l'armée et d'avoir plus d'effectifs.
+
+Cet argument ne me convaint pas non plus. D'une part, certaines femmes peuvent intégrer des corps d'armées en passant les mêmes tests que les hommes, comme ce fut le cas en 2015 quand 2 femmes intégrèrent le corps d'élite des US Rangers.[^rangers] D'autre part, si il est nécessaire d'abaisser les critères d'entrée pour avoir plus de recrues, alors ceux-ci devraient l'être pour les hommes comme pour les femmes.
 
 ## Affirmation 3
 
@@ -148,3 +173,9 @@ TODO
 [^constitution]: Gouvernement de la République Française. (2008, 23 juillet). *Texte intégral de la Constitution du 4 octobre 1958 en vigueur*. Conseil Constitutionnel. <https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur>
 
 [^long_sentences]: Mauer, M. (2019, 30 août). *Long-Term Sentences : Time to Reconsider the Scale of Punishment*. The Sentencing Project. <https://www.sentencingproject.org/publications/long-term-sentences-time-reconsider-scale-punishment/>
+
+[^recruit_us]: Philipps, D. (2018, 24 septembre). *As Economy Roars, Army Falls Thousands Short of Recruiting Goals*. The New York Times. <https://www.nytimes.com/2018/09/21/us/army-recruiting-shortage.html>
+
+[^recruit_fr]: Meurs, S. (2019, 23 mai). *L’armée française manque de bras*. Capital.fr. <https://www.capital.fr/economie-politique/larmee-francaise-manque-de-bras-1339216>
+
+[^rangers]: Lamothe, D. (2015, 19 août). *These are the Army’s first female Ranger School graduates*. Washington Post. <https://www.washingtonpost.com/news/checkpoint/wp/2015/08/18/these-are-the-armys-first-female-ranger-school-graduates/>
