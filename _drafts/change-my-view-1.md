@@ -25,7 +25,7 @@ image:
 
 Dans mon dernier article, *[Je veux être ouvert d’esprit]({{ site.baseurl }}/2021-01-15/ouvert-esprit)*, je parlais de ma volonté d'avoir une démarche d'ouverture et d'examen critique des mes croyances et de mes positions politiques, éthiques, etc.
 
-Récemment j'ai découvert le subreddit[^def_subreddit] *[Change My View](https://www.reddit.com/r/changemyview/){: target="_blank"}*, un forum cummunotaire sur lequel on les utilisateurs peuvent exposer leurs convictions, et d'autres leur opposent des contre-arguments auwquels ils n'auraient pas forcément pensé.
+Récemment j'ai découvert le subreddit[^def_subreddit] *[r/changemyview](https://www.reddit.com/r/changemyview/){: target="_blank"}*, un forum cummunotaire sur lequel on les utilisateurs peuvent exposer leurs convictions, et d'autres leur opposent des contre-arguments auwquels ils n'auraient pas forcément pensé.
 
 J'ai beaucoup aimé le principe et je me suis dit que j'allais de temps en temps faire la même choses, pour moi-même, avec certains sujets pour lesquels j'ai un avis mais pas forcément très solides. Cet article est le premier de la série.
 
@@ -147,12 +147,56 @@ Un autre argument avancé est que l'armée a besoin de plus de recrues (ce qui e
 
 Cet argument ne me convaint pas non plus. D'une part, certaines femmes peuvent intégrer des corps d'armées en passant les mêmes tests que les hommes, comme ce fut le cas en 2015 quand 2 femmes intégrèrent le corps d'élite des US Rangers.[^rangers] D'autre part, si il est nécessaire d'abaisser les critères d'entrée pour avoir plus de recrues, alors ceux-ci devraient l'être pour les hommes comme pour les femmes.
 
+#### Contrargument 3
+
+Certains suggèrent que, peut-être, les femmes ont en moyenne un moins bon score aux aptitudes physiques mais en moyenne un meilleur score à d'autres tests, et doc pour leur permettre de ne pas êtres recalés sur le physique leur barème peut être plus facile.
+
+Cet argument ne me convaint pas non plus. Comme avant, si on accepte qu'une recrue peut être un peu moins performante physiquement si elle le compense par d'autres compétences, alors je ne vois aucune raison de le réserver aux femmes.
+
+### Conclusion
+
+Je reste sur ma position.
+
 ## Affirmation 3
 
 On ne devrait pas juger les personnages historiques selon les valeurs modernes.
 {: .notice--info}
 
-TODO
+### Ma justification
+
+Je crois qu'on ne peut pas juger quelqu'un sur des valeurs dont il n'a pas connaissance, ou qui sont dans sa culture, son éducation et son contexte très marginales si bien qu'il ne peut pas ou très peu les considérer. Dans le cas des personnages historiques c'est encore plus parlant, puisque les valeurs évoluent au fil du temps.
+
+Je fais cependant bien une distinction entre :
+
+* L'absence de connaissance ou d'exposition à des valeurs
+* Le refus volontaires de valeurs alors qu'on y est exposé
+
+Par exemple, en l'an 1900, les femmes n'avaient pas le droit de vote au Royaume-Uni, mais les arguments et débats pour leur droit de vote étaient très relayés dans les journaux à grand tirage et dans les cercles politiques des grandes villes. Par contre ces arguments étaient peu ou pas relayés dans les coins plus reculés du pays. Je jugerai donc différemment deux hommes vivant en Angleterre en 1900 et s'opposant au droit de vote des femmes, si l'un est par exemple un membre du parlement et l'autre un paysans.
+
+Je n'excuse pas non plus un personnage historique prenant une certaine position simplement du fait qu'elle est la norme à son époque, même si je crois qu'il faut toujours prendre en compte la pression sociale.
+
+Enfin, je fais une distinction entre :
+
+* Le jugement que je porte sur la personne historique, que je contextualise
+* Le jugement que je porte sur ses actions, que je juge avec mes valeurs
+
+### La contradiction
+
+#### Contrargument 1
+
+Sur le subreddit [r/philosophy](https://www.reddit.com/r/philosophy){: target="_blank"}, une personne a demandé selon quels critères on devrait juger les personnages historiques. Un utilisateur lui a alors posé la question : *Devrions-nous juger les personnages historiques ? Dans quel but ?*.
+
+Cette question ne répond pas directement à mon affirmation de départ, mais je la trouve intéressante. Le but de l'histoire est sans doute plus de décrire et de comprendre que d'assigner des jugement de valeur morale à des individus du passé.
+
+#### Contrargument 2
+
+Un autre contrargument avancé critique la partie "on ne devrait pas" de mon affirmation, et avance le fait qu'il n'est pas forcément justifié d'attribuer une valeur morale ou un impératif au fait du juger ou non les personnages du passé selon les critères actuels.
+
+Je trouve ça pertinent, même si ça ne répond pas vraiment au coeur de mon affirmation, que je reformulerais ainsi : "il n'est pas pertinent de juger les personnages historiques selon les valeurs modernes".
+
+### Conclusion
+
+Je n'ai pas trouvé d'autres contarguments cohérents. Je reste donc sur une position similaire mais reformulée : "il n'est pas pertinent de juger les personnages historiques selon les valeurs modernes".
 
 ## Affirmation 4
 
