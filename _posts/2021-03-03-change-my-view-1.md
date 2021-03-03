@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#ChangeMyView – Épisode 1"
-# date:   2020-11-16 16:08:00 +0200
+date:   2021-03-03 21:37:00 +0200
 categories: Personnel Société Politique Éthique
 tags:
     - "#ChangeMyView"
