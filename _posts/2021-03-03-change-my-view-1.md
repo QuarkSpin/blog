@@ -8,7 +8,7 @@ tags:
     - Philosophie personnelle
     - Idéologies
     - Éthique appliquée
-excerpt: ...
+excerpt: Je tente de changer d'avis sur quatre points. 
 image:
   path: /images/post-images/2021-02-26-change-my-view-1/main.jpg
   thumbnail: /images/post-images/2021-02-26-change-my-view-1/main-thumb-flat.jpg
