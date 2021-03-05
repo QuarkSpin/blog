@@ -217,7 +217,7 @@ Je précise également que mon idée s’applique quand on doit choisir entre de
 
 #### Contrargument 1
 
-Plusieurs personnes ont proposé des contrarguments similaires, que je résumerais en « il n’est pas éthique de laisser les médecins qui mérite ou non d’être sauvé basé sur une vertu arbitraire ».
+Plusieurs personnes ont proposé des contrarguments similaires, que je résumerais en « il n’est pas éthique de laisser les médecins décider qui mérite ou non d’être sauvé basé sur une vertu arbitraire ».
 
 Je ne suis pas convaincu. D’abord il ne s’agit pas de dire que la personne ne mérite pas d’être sauvée, puisqu’elle serait toujours sur la liste, et il n’est pas question d’évaluer une prétendue « vertu », mais de rendre le système plus juste.
 
