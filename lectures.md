@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lectures/
 ---
 
-Dernière mise à jour le **02/02/2021**
+Dernière mise à jour le **12/03/2021**
 {: .notice--info}
 
 Cette page présente les livres (hors fiction) qui me semblent intéressants à lire. Elle est mise à jour au fil de mes découvertes.
@@ -1391,41 +1391,6 @@ An electrifying scientific history that unearths the dinosaurs’ epic saga, *Th
 
 {% include separator.html %}
 
-![Les surdoués ordinaires]({{site.baseurl}}/images/lectures/Les surdoues ordinaires.jpg){: .book-cover}
-
-![FR]({{ site.baseurl }}/images/fr-flag.svg) Les surdoués ordinaires
-{: .book-title}
-
-🖋️ Nicolas Gauvrit
-{: .book-author}
-
-Nous nourissons souvent des théories bien tranchées sur les enfants (et les adultes) surdoués. On les méprise, on les encense, on est inquiet ou admiratif. Ils ont un gros cerveau, ils sont sensibles, ils ont de l’humour, ils échouent à l’école, ils décrochent souvent le prix Nobel, ils font des cauchemars, ils sont naïfs, ils ont un sens aigu de la justice. Toutes ces images sont-elles justes, ou bien sont-elles seulement le reflet de nos fantasmes et stéréotypes ? Ce livre passe en revue une série de questions et de théories psychologiques naïves à propos desquelles nous cultivons des croyances sur les enfants surdoués. Au travers d’une approche résolument scientifique, chaque thème est ainsi analysé. Certaines de nos représentations sont validées, d’autres sont connues pour être fausses. Pour un certain nombre, enfin, les travaux des chercheurs sont trop peu nombreux pour qu’on puisse raisonnablement trancher. Attendez-vous à avoir bientôt une vision plus nuancée, et largement plus optimiste, de l’aventure riche et variée qui attend généralement un enfant précoce dans notre monde si ordinaire.
-
-**Mon avis** : Pas encore lu.
-
-{% include separator.html %}
-
-![Système 1 / Système 2]({{site.baseurl}}/images/lectures/Systeme 1 Systeme 2.jpg){: .book-cover}
-
-![FR]({{ site.baseurl }}/images/fr-flag.svg) Système 1 / Système 2
-{: .book-title}
-
-Les deux vitesses de la pensée
-{: .book-subtitle}
-
-🖋️ Daniel Kahneman
-{: .book-author}
-
-Comment pensons-nous ? Qu’est-ce qui guide nos préférences, nos jugements, nos décisions ? Quand faut-il ou non faire confiance à notre intuition ? Pourquoi agissons-nous souvent contre notre intérêt ? Telles sont quelques-unes des questions qui servent de fil rouge à cet ouvrage, dans lequel Daniel Kahneman nous emmène à la rencontre des deux « personnages » qui se partagent notre esprit.
-
-Le « Système 1 » est rapide, intuitif et émotionnel ; le « Système 2 » est plus lent, plus réfléchi, plus contrôlé et plus logique. Via de multiples expériences auxquelles le lecteur est invité à s’essayer lui-même, sont exposés les facultés extraordinaires de la pensée rapide, le rôle de l’émotion dans nos choix et nos jugements, mais aussi les ravages des partis pris et autres biais cognitifs dont nous sommes les jouets illusion de familiarité, effet de halo, biais optimiste, illusion de causalité, effet d’ancrage, illusion rétro-spective… — autant d’exemples de notre tendance à interpréter les événements en fonction de ce que nous connaissons déjà, du sens que nous souhaitons qu’ils aient, et de notre incapacité, inversement, à raisonner statistiquement, en acceptant l’idée de hasard.
-
-Fruit de toute une vie de recherche aux confins de la psychologie et de l’économie, *Système 1/Système 2* dessine une théorie brillante, qui offre des prolongements pratiques immédiats dans la vie quotidienne et professionnelle.
-
-**Mon avis** : Pas encore lu.
-
-{% include separator.html %}
-
 ![Conversation sur les multivers]({{ site.baseurl }}/images/lectures/Conversation sur les multivers.jpg){: .book-cover}
 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) Conversation sur les multivers
@@ -1594,6 +1559,55 @@ Fossil fuel companies have followed the example of other industries deflecting b
 In *The New Climate War*, Mann argues that all is not lost. He draws the battle lines between the people and the polluters-fossil fuel companies, right-wing plutocrats, and petrostates. And he outlines a plan for forcing our governments and corporations to wake up and make real change, including: a common-sense, attainable approach to carbon pricing- and a revision of the well-intentioned but flawed currently proposed version of the Green New Deal; allowing renewable energy to compete fairly against fossil fuels; debunking the false narratives and arguments that have worked their way into the climate debate and driven a wedge between even those who support climate change solutions; combatting climate doomism and despair-mongering.
 
 With immensely powerful vested interests aligned in defense of the fossil fuel status quo, the societal tipping point won't happen without the active participation of citizens everywhere aiding in the collective push forward. This book will reach, inform, and enable citizens everywhere to join this battle for our planet.
+
+**Mon avis** : Pas encore lu.
+
+### Psychologie & Sciences Cognitives
+
+![Pourquoi notre cerveau a inventé le bien et le mal]({{site.baseurl}}/images/lectures/Pourquoi notre cerveau a invente le bien et le mal.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Pourquoi notre cerveau a inventé le bien et le mal
+{: .book-title}
+
+🖋️ Stéphane Debove
+{: .book-author}
+
+« C’est la seule chose morale à faire. » D’où viennent ces jugements moraux qui, de nombreuses fois par jour, contraignent nos comportements et nous poussent à agir contre nos intérêts ? Serions-nous tous prédisposés à la naissance à devenir des êtres moraux, équipés d’un « sens moral » ? Si oui, à quoi aurait pu servir ce sens au cours de l’évolution ? Et alors, comment expliquer que les jugements moraux varient tellement d’une société à l’autre et que l’on observe encore tant de comportements immoraux autour de nous ? Et les animaux, sont-ils « moraux » eux aussi ? Un biologiste de l’évolution et vulgarisateur hors pair s’empare de toutes ces questions fascinantes pour y apporter des réponses qui le sont tout autant.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Les surdoués ordinaires]({{site.baseurl}}/images/lectures/Les surdoues ordinaires.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Les surdoués ordinaires
+{: .book-title}
+
+🖋️ Nicolas Gauvrit
+{: .book-author}
+
+Nous nourissons souvent des théories bien tranchées sur les enfants (et les adultes) surdoués. On les méprise, on les encense, on est inquiet ou admiratif. Ils ont un gros cerveau, ils sont sensibles, ils ont de l’humour, ils échouent à l’école, ils décrochent souvent le prix Nobel, ils font des cauchemars, ils sont naïfs, ils ont un sens aigu de la justice. Toutes ces images sont-elles justes, ou bien sont-elles seulement le reflet de nos fantasmes et stéréotypes ? Ce livre passe en revue une série de questions et de théories psychologiques naïves à propos desquelles nous cultivons des croyances sur les enfants surdoués. Au travers d’une approche résolument scientifique, chaque thème est ainsi analysé. Certaines de nos représentations sont validées, d’autres sont connues pour être fausses. Pour un certain nombre, enfin, les travaux des chercheurs sont trop peu nombreux pour qu’on puisse raisonnablement trancher. Attendez-vous à avoir bientôt une vision plus nuancée, et largement plus optimiste, de l’aventure riche et variée qui attend généralement un enfant précoce dans notre monde si ordinaire.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Système 1 / Système 2]({{site.baseurl}}/images/lectures/Systeme 1 Systeme 2.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Système 1 / Système 2
+{: .book-title}
+
+Les deux vitesses de la pensée
+{: .book-subtitle}
+
+🖋️ Daniel Kahneman
+{: .book-author}
+
+Comment pensons-nous ? Qu’est-ce qui guide nos préférences, nos jugements, nos décisions ? Quand faut-il ou non faire confiance à notre intuition ? Pourquoi agissons-nous souvent contre notre intérêt ? Telles sont quelques-unes des questions qui servent de fil rouge à cet ouvrage, dans lequel Daniel Kahneman nous emmène à la rencontre des deux « personnages » qui se partagent notre esprit.
+
+Le « Système 1 » est rapide, intuitif et émotionnel ; le « Système 2 » est plus lent, plus réfléchi, plus contrôlé et plus logique. Via de multiples expériences auxquelles le lecteur est invité à s’essayer lui-même, sont exposés les facultés extraordinaires de la pensée rapide, le rôle de l’émotion dans nos choix et nos jugements, mais aussi les ravages des partis pris et autres biais cognitifs dont nous sommes les jouets illusion de familiarité, effet de halo, biais optimiste, illusion de causalité, effet d’ancrage, illusion rétro-spective… — autant d’exemples de notre tendance à interpréter les événements en fonction de ce que nous connaissons déjà, du sens que nous souhaitons qu’ils aient, et de notre incapacité, inversement, à raisonner statistiquement, en acceptant l’idée de hasard.
+
+Fruit de toute une vie de recherche aux confins de la psychologie et de l’économie, *Système 1/Système 2* dessine une théorie brillante, qui offre des prolongements pratiques immédiats dans la vie quotidienne et professionnelle.
 
 **Mon avis** : Pas encore lu.
 
