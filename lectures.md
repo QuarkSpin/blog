@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lectures/
 ---
 
-Dernière mise à jour le **12/03/2021**
+Dernière mise à jour le **13/04/2021**
 {: .notice--info}
 
 Cette page présente les livres (hors fiction) qui me semblent intéressants à lire. Elle est mise à jour au fil de mes découvertes.
@@ -103,6 +103,31 @@ Rather than considering the Bible as an ancient book weighed down with problems,
 How the Bible Actually Works makes clear that there is no one right way to read the Bible. Moving us beyond the damaging idea that “being right” is the most important measure of faith, Enns’s freeing approach to Bible study helps us to instead focus on pursuing enlightenment and building our relationship with God—which is exactly what the Bible was designed to do.
 
 **Mon avis** : Pas encore lu.
+
+### Sciences sociales
+
+![The Myth of Mars and Venus]({{site.baseurl}}/images/lectures/The Myth of Mars and Venus.jpg){: .book-cover}
+
+![UK]({{site.baseurl}}/images/uk-flag.svg) The Myth of Mars and Venus
+{: .book-title}
+
+Do men and women really speak different languages?
+{: .book-subtitle}
+
+🖋️ Deborah Cameron
+{: .book-author}
+
+Popular assumptions about gender and communication—famously summed up in the title of the massively influential 1992 bestseller *Men Are From Mars, Women Are From Venus*—can have unforeseen but far-reaching consequences in many spheres of life, from attitudes to the phenomenon of “date-rape” to expectations of achievement at school, and potential discrimination in the work-place.
+
+In this wide-ranging and thoroughly readable book, Deborah Cameron, Rupert Murdoch Professor of Language and Communication at Oxford University and author of a number of leading texts in the field of language and gender studies, draws on over 30 years of scientific research to explain what we really know and to demonstrate how this is often very different from the accounts we are familiar with from recent popular writing.
+
+Ambitious in scope and exceptionally accessible, *The Myth of Mars and Venus* tells it like it is: widely accepted attitudes from the past and from other cultures are at heart related to assumptions about language and the place of men and women in society; and there is as much similarity and variation within each gender as between men and women, often associated with social roles and relationships.
+
+The author goes on to consider the influence of Darwinian theories of natural selection and the notion that girls and boys are socialized during childhood into different ways of using language, before addressing problems of “miscommunication” surrounding, for example, sex and consent to sex, and women’s relative lack of success in work and politics.
+
+Arguing that what linguistic differences there are between men and women are driven by the need to construct and project personal meaning and identity, Cameron concludes that we have an urgent need to think about gender in more complex ways than the prevailing myths and stereotypes allow. A compelling and insightful read for anyone with an interest in communication, language, and the sexes.
+
+**Mon avis** : Pas encore lu.
 
 ## Envie de lire
 
@@ -776,6 +801,49 @@ In *The Cult of Trump*, mind-control and licensed mental health expert Steven Ha
 **Mon avis** : Pas encore lu.
 
 ### Politique
+
+![Le prix de la démocratie]({{ site.baseurl }}/images/lectures/Le prix de la democratie.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Le prix de la démocratie
+{: .book-title}
+
+🖋️ Julia Cagé
+{: .book-author}
+
+Une personne, une voix  : la démocratie repose sur une promesse d’égalité qui trop souvent vient se fracasser sur le mur de l’argent. Financement des campagnes, dons aux partis politiques, prise de contrôle des médias  : depuis des décennies, le jeu démocratique est de plus en plus capturé par les intérêts privés.
+Se fondant sur une étude inédite des financements politiques privés et publics dans une dizaine de pays sur plus de cinquante ans, Julia Cagé passe au scalpel l’état de la démocratie, décortique les modèles nationaux, et fait le récit des tentatives –  souvent infructueuses, mais toujours instructives  – de régulation des relations entre argent et politique.
+
+Aux États-Unis, où toute la régulation de la démocratie a été balayée par idéologie, le personnel politique ne répond plus qu’aux préférences des plus favorisés. En France, l’État a mis en place un système de réductions fiscales permettant aux plus riches de se voir rembourser la plus grande partie de leurs dons aux partis politiques, alors que les plus pauvres, eux, paient plein pot.
+
+Ces dérives ne viennent pas d’un complot savamment orchestré mais de notre manque collectif d’implication. La question du financement de la démocratie n’a jamais véritablement été posée  ; celle de la représentation des classes populaires doit l’être sur un mode plus radical. Pour sortir de l’impasse, voici des propositions qui révolutionnent la façon de penser la politique, des réformes innovantes pour une démocratie retrouvée.
+
+Ancienne élève de l’École normale supérieure et de l’Université Harvard, Julia Cagé est professeure d’économie à Sciences Po Paris. Elle a publié *Sauver les médias. Capitalisme, financement participatif et démocratie* (Le Seuil, 2015).
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
+
+![Libres et égaux en voix]({{ site.baseurl }}/images/lectures/Libres et egaux en voix.jpg){: .book-cover}
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) Libres et égaux en voix
+{: .book-title}
+
+🖋️ Julia Cagé
+{: .book-author}
+
+La démocratie n’existe pas. Elle reste à inventer.
+
+Loin d’être un refus de la politique, la crise actuelle de la démocratie représentative se manifeste par le combat de citoyens demandant davantage de démocratie, de participation et d’égalité.
+
+*Libres et égaux en voix* propose ainsi de donner une voix et des places à celles et ceux qui en ont été trop longtemps privés  : les femmes, les classes populaires, les minorités. D’abord en repensant notre système électoral et en garantissant la représentation parmi les parlementaires de la réalité de la société. Ensuite en proposant un nouvel équilibre entre la démocratie représentative et un usage raisonné du référendum. Enfin en donnant aux citoyens les moyens de reprendre le contrôle des partis, des médias et de la philanthropie, afin de dessiner un nouvel horizon politique égalitaire.
+
+En tant que chercheuse et citoyenne, Julia Cagé renouvelle en profondeur la réflexion sur l’égalité politique dans un plaidoyer armé de propositions concrètes pour changer les règles du jeu politique.  Nous pouvons faire mieux que le monde dans lequel nous vivons  ; fini de rêver, voici venu le temps d’agir !
+
+Professeure d’économie à Sciences Po Paris, Julia Cagé est l’autrice de *Sauver les médias* (Seuil, 2015) et *Le prix de la démocratie* (Fayard, 2018), qui a reçu le prix Pétrarque de l’essai Le Monde/France Culture.
+
+**Mon avis** : Pas encore lu.
+
+{% include separator.html %}
 
 ![The Color of Law]({{site.baseurl}}/images/lectures/The Color of Law.jpg){: .book-cover}
 
@@ -1633,31 +1701,6 @@ Both scientific and objective, and drawing on original research and carefully co
 The End of Gender is a conversation-starting work that will challenge what you thought you knew about gender, identity, and everything in between. Timely, informative, and provocative, it will arm you with the facts you need to come to your own conclusions about gender identity and its place in the world today.
 
 **Mon avis** : Pas encore lu.
-
-{% include separator.html %}
-
-![The Myth of Mars and Venus]({{site.baseurl}}/images/lectures/The Myth of Mars and Venus.jpg){: .book-cover}
-
-![UK]({{site.baseurl}}/images/uk-flag.svg) The Myth of Mars and Venus
-{: .book-title}
-
-Do men and women really speak different languages?
-{: .book-subtitle}
-
-🖋️ Deborah Cameron
-{: .book-author}
-
-Popular assumptions about gender and communication—famously summed up in the title of the massively influential 1992 bestseller *Men Are From Mars, Women Are From Venus*—can have unforeseen but far-reaching consequences in many spheres of life, from attitudes to the phenomenon of “date-rape” to expectations of achievement at school, and potential discrimination in the work-place.
-
-In this wide-ranging and thoroughly readable book, Deborah Cameron, Rupert Murdoch Professor of Language and Communication at Oxford University and author of a number of leading texts in the field of language and gender studies, draws on over 30 years of scientific research to explain what we really know and to demonstrate how this is often very different from the accounts we are familiar with from recent popular writing.
-
-Ambitious in scope and exceptionally accessible, *The Myth of Mars and Venus* tells it like it is: widely accepted attitudes from the past and from other cultures are at heart related to assumptions about language and the place of men and women in society; and there is as much similarity and variation within each gender as between men and women, often associated with social roles and relationships.
-
-The author goes on to consider the influence of Darwinian theories of natural selection and the notion that girls and boys are socialized during childhood into different ways of using language, before addressing problems of “miscommunication” surrounding, for example, sex and consent to sex, and women’s relative lack of success in work and politics.
-
-Arguing that what linguistic differences there are between men and women are driven by the need to construct and project personal meaning and identity, Cameron concludes that we have an urgent need to think about gender in more complex ways than the prevailing myths and stereotypes allow. A compelling and insightful read for anyone with an interest in communication, language, and the sexes.
-
-**Mon avis** : Pas encore lu.
 
 {% include separator.html %}
 
