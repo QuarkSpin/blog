@@ -1,9 +1,9 @@
 ---
-# layout: pre-publish-post
-# permalink: /pre-publish-systemes-vote/
-layout: post
+layout: hidden-post
+permalink: /hidden-christianisme/
+# layout: post
 title: "Aperçu du christianisme"
-# date:   2020-12-27 12:08:00 +0200
+date:   2021-01-09 19:22:00 +0200
 categories: Sociologie Religion
 tags:
     - Religions
@@ -11,38 +11,14 @@ tags:
     - Protestantisme
 excerpt: ...
 image:
-  path: /images/post-images/2020-12-28-christianismes/main.jpg
-  thumbnail: /images/post-images/2020-12-28-christianismes/main-thumb-flat.jpg
+  path: /images/post-images/hidden-christianismes/main.jpg
+  thumbnail: /images/post-images/hidden-christianismes/main-thumb-flat.jpg
   caption: "Image de [Mateus Campos Felipe](https://unsplash.com/@matfelipe)"
 ---
 
 {% include wip %}
 
 {% include toc %}
-
-<!--
-  CHANGER LE SUJET DE L'ARTICLE : "CHRISTIANISMES"
-    - Commencer par une comparaison des religions
-    - Puis historique des branches du christianise
-    - Puis analyses
-    - Etc.
- -->
-
-
-<!-- Qu'est-ce qui permet de dire que deux "courants" sont la même religion ou pas ? -->
-
-<!-- comparaison des religions (croyances, mythes, rites, présence, évolution, démographie, etc.) -->
-
-## Introduction
-
-TODO
-
-## Questionnaires
-
-Voici quelques questionnaires que je vous encourage à passer avant de lire cet article pour tester vos connaissances :
-
-* [Quiz sur le christianisme](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aHR7OdUNk1WNjJVQ01ITjVER1BNUkFRMFpDMFhNQi4u){:target="_blank"}
-* [Quiz sur la Bible](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__aHR7OdUMUM2VkQ4VFNPUEdOQ0pMUUk4Vjc0VVROOC4u){:target="_blank"}
 
 ## Les différentes religions
 
@@ -218,14 +194,6 @@ Les anthropologues et sociologues des religions proposent différentes définiti
 [Télécharger le graphique]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/diagram-reform-v1.svg){: download="Histoire Simplifiée de la Réforme Protestante (V 1.0).svg" target="_blank"}
 
 ![Réforme]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/diagram-reform-v1.svg)
-
-### Réformateurs
-
-![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/luther.svg)
-
-![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/zwingli.svg)
-
-![...]({{ site.baseurl }}/images/post-images/2020-12-28-christianismes/calvin.svg)
 
 ### Conciles oeucuméniques
 

@@ -6,7 +6,7 @@ permalink: /a-propos/
 
 ## Résumé
 
-QuarkSpin est un blog sur lequel je parle de tous les sujets qui m'intéressent, de la physique quantique à la philosophie, en passant pasant par l'éthique, la politique, la photographie, la psychologie, la fiction, etc.
+QuarkSpin est un blog sur lequel je parle de tous les sujets qui m'intéressent, de la physique quantique à la philosophie analytique, avec une préférence pour les sujets sociétaux et politiques.
 
 ## Crédits
 
