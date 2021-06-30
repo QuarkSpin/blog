@@ -8,8 +8,8 @@ tags:
     - Idéologies
 excerpt: J’ai évalué mon positionnement politique sur plusieurs axes à partir de 3 questionnaires.
 image:
-  path: /images/post-images/2021-02-02-positionnement-politique/main.jpg
-  thumbnail: /images/post-images/2021-02-02-positionnement-politique/main-thumb-flat.jpg
+  path: /images/post-images/common-positionnement-politique/main.jpg
+  thumbnail: /images/post-images/common-positionnement-politique/main-thumb-flat.jpg
   caption: "Image de [DrawKit](https://www.drawkit.io)"
 ---
 
@@ -60,7 +60,7 @@ Le test attribue un score allant de -10 à 10 pour chaque axe, le zéro correspo
 
 Voici mon positionnement :
 
-![Political Compass]({{ site.baseurl }}/images/post-images/2021-02-02-positionnement-politique/political-compass.svg)
+![Political Compass]({{ site.baseurl }}/images/post-images/common-positionnement-politique/2021-02-02/political-compass.svg)
 
 Je suis dans le quadrant *collectiviste-libertaire*, avec -6,38 sur l’axe économique et -5,38 sur l’axe social.
 
@@ -77,7 +77,7 @@ Le test répartit les 100 % de chaque axe à chaque valeur opposée en fonction
 
 Voici mon positionnement :
 
-![8 Values]({{ site.baseurl }}/images/post-images/2021-02-02-positionnement-politique/8-values.svg)
+![8 Values]({{ site.baseurl }}/images/post-images/common-positionnement-politique/2021-02-02/8-values.svg)
 
 ### 9 Axes
 
@@ -97,10 +97,5 @@ Le test répartit les 100 % de chaque axe à chaque valeur opposée en fonction
 
 Voici mon positionnement :
 
-![9 Axes]({{ site.baseurl }}/images/post-images/2021-02-02-positionnement-politique/9-axes.svg)
+![9 Axes]({{ site.baseurl }}/images/post-images/common-positionnement-politique/2021-02-02/9-axes.svg)
 
-## Annexe — Réponses aux tests
-
-* [Mes réponses au test du Political Compass]({{ site.baseurl }}/annexe/2021-02-02/positionnement-politique/political-compass)
-* [Mes réponses au test des 8 Values]({{ site.baseurl }}/annexe/2021-02-02/positionnement-politique/8-values)
-* [Mes réponses au test des 9 Axes]({{ site.baseurl }}/annexe/2021-02-02/positionnement-politique/9-axes)
