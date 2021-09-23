@@ -291,6 +291,33 @@ Analyses géopolitiques. Émission de la RTS (service public suisse).
 
 {% include separator.html %}
 
+[![Un été culturel et apprenant]({{ site.baseurl }}/images/youtube/uecea.jpg){: .channel-icon}](https://youtube.com/channel/UC8OvHOZvF_ZYqj2GM8dxWuw)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Un été culturel et apprenant](https://youtube.com/channel/UC8OvHOZvF_ZYqj2GM8dxWuw)
+{: .channel-title}
+
+Revues de presse et entretiens politiques, fortement orienté à gauche. 
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+{% include separator.html %}
+
+
+[![Backseat]({{ site.baseurl }}/images/youtube/backseat.jpg){: .channel-icon}](https://youtube.com/channel/UC2ijB3_Fg2pIW1g6FeIiYKA)
+
+![FR]({{ site.baseurl }}/images/fr-flag.svg) [Backseat](https://youtube.com/channel/UC2ijB3_Fg2pIW1g6FeIiYKA)
+{: .channel-title}
+
+Chroniques et entretiens politiques. 
+
+**Mon avis** : ⭐⭐
+
+**3 vidéos pour découvrir** :
+
+{% include separator.html %}
+
 [![Second Thought]({{ site.baseurl }}/images/youtube/Second Thought.jpg){: .channel-icon}](https://www.youtube.com/c/SecondThought/featured)
 
 ![UK]({{ site.baseurl }}/images/uk-flag.svg) [Second Thought](https://www.youtube.com/c/SecondThought/featured)
