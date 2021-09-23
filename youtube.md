@@ -41,8 +41,6 @@ Propose des enquêtes et analyses sur différents sujets d’actualité ou de so
 
 Analyses critiques sur différents sujets d’actualité ou de société, aux USA ou à l’international.
 
-⚠️ langage vulgaire
-
 **Mon avis** : ⭐⭐⭐
 
 **3 vidéos pour découvrir** :
@@ -75,9 +73,7 @@ Chaine YouTube du journal « Le Monde », proposant des enquêtes et analyses 
 ![FR]({{ site.baseurl }}/images/fr-flag.svg) [Mediapart](https://www.youtube.com/c/mediapart)
 {: .channel-title}
 
-Média d’information et d’analyses critiques. Le plus intéressant : l’émission [Ouvrez les Guillemets](https://www.youtube.com/playlist?list=PL0H7ONNEUnnt59niYAZ07dFTi99u2L2n_).
-
-⚠️ clairement orienté à gauche, pas toujours très objectif, mais très intéressant quand même
+Média d’information et d’analyses critiques (orienté à gauche). Le plus intéressant : l’émission [Ouvrez les Guillemets](https://www.youtube.com/playlist?list=PL0H7ONNEUnnt59niYAZ07dFTi99u2L2n_).
 
 **Mon avis** : ⭐⭐
 
@@ -1476,7 +1472,7 @@ Un docteur en philosophie traite de sujets philosophiques avec un angle analytiq
 
 Un docteur en philosophie discute avec un docteur en mathématiques.
 
-ℹ️ longues vidéos
+ℹ️ Chaîne peu active, qualité sonore pas toujours au top
 
 **Mon avis** : ⭐
 
@@ -1827,57 +1823,6 @@ Chroniques sur l’histoire et les secrets des jouets (surtout des années 80-9
 * [5 Jouets de GUERRE](https://www.youtube.com/watch?v=5al41hIjo2k){: target="_blank"} (12:22)
 * [Baby Yoda VS Ewoks: La Bataille du Marketing](https://www.youtube.com/watch?v=NBCDiNpS2Fg){: target="_blank"} (11:21)
 * [Le Parc d’Attraction Maudit ? MIRAPOLIS !!!](https://www.youtube.com/watch?v=fgU_gT78DRQ){: target="_blank"} (8:22)
-
-## Foi chrétienne
-
-[![Église protestante unie de l’Étoile]({{ site.baseurl }}/images/youtube/Eglise protestante unie de l'Etoile.jpg){: .channel-icon}](https://www.youtube.com/channel/UCGIDFDZZrEGt3uZZ0nRKwCQ)
-
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [Église protestante unie de l’Étoile](https://www.youtube.com/channel/UCGIDFDZZrEGt3uZZ0nRKwCQ)
-{: .channel-title}
-
-Prédications, études bibliques, catéchismes et méditations de l’Église protestante unie de l’Étoile à Paris.
-
-**Mon avis** : ⭐⭐⭐
-
-**3 vidéos pour découvrir** :
-
-* [Heureux les humbles, mais non à l’humiliation](https://www.youtube.com/watch?v=kf5j7bIYAy8){: target="_blank"} (38:42)
-* [Les paraboles scandaleuses 1](https://www.youtube.com/watch?v=jbhwbtT2rx8){: target="_blank"} (42:37)
-* [Qu’est-ce que la prière ? \| Initiation à une pensée protestante](https://www.youtube.com/watch?v=AXPTrxmDbdc){: target="_blank"} (1:01:17)
-
-{% include separator.html %}
-
-[![Prêche la Parole]({{ site.baseurl }}/images/youtube/Preche la Parole.jpg){: .channel-icon}](https://www.youtube.com/user/PrechelaParole/featured)
-
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [Prêche la Parole](https://www.youtube.com/user/PrechelaParole/featured)
-{: .channel-title}
-
-Prédications, études bibliques et podcast de l’Église Réformée Baptiste de Saint-Jérôme au Québec.
-
-**Mon avis** : ⭐⭐
-
-**3 vidéos pour découvrir** :
-
-* [Hors contexte : « La lettre tue, mais l’Esprit vivifie » – 2 Corinthiens 3.6](https://www.youtube.com/watch?v=D2vMMxT0ciA){: target="_blank"} (59:01)
-* [Jérusalem et Athènes - Actes 17.16-34](https://www.youtube.com/watch?v=iMHzgoJNs_s){: target="_blank"} (53:34)
-* [Liberté d’expression = droit au blasphème ?](https://www.youtube.com/watch?v=Ek3CcvHAwdc){: target="_blank"} (45:54)
-
-{% include separator.html %}
-
-[![Campus protestant]({{ site.baseurl }}/images/youtube/Campus protestant.jpg){: .channel-icon}](https://www.youtube.com/c/Campusprotestant/featured)
-
-![FR]({{ site.baseurl }}/images/fr-flag.svg) [Campus protestant](https://www.youtube.com/c/Campusprotestant/featured)
-{: .channel-title}
-
-Interviews, reportages et débats sur des questions de théologie et de société d’un point de vue protestant.
-
-**Mon avis** : ⭐
-
-**3 vidéos pour découvrir** :
-
-* [Les manuscrits de Qumrân contredisent-ils la Bible ?](https://www.youtube.com/watch?v=rBg74FMHrGU){: target="_blank"} (9:20)
-* [Qu’arrive-t-il à l’Eglise catholique ?](https://www.youtube.com/watch?v=gKnITnziI-g){: target="_blank"} (18:14)
-* [Qui nous roulera la pierre ? Les femmes dans l’Eglise](https://www.youtube.com/watch?v=SWxG2PF_bpo){: target="_blank"} (12:25)
 
 ## Étude des religions
 
